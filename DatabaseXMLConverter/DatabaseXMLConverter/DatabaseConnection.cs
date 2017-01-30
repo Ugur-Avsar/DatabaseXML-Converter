@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using System;
+using System.Data;
 using System.Collections.Generic;
 using MySql.Data.MySqlClient;
 using System.Linq;
@@ -50,8 +51,7 @@ namespace DatabaseXMLConverter
 
         public static void Connect(string server, string database, string uID, string password)
         {
-            if (Connection != null && Connection.State != ConnectionState.Closed)
-                Connection.Close();
+            initConnection();
             Connection = new MySqlConnection("SERVER=" + server + ";" + "DATABASE=" + database + ";" + "UID=" + uID + ";" + "PASSWORD=" + password + ";");
             Connection.Open();
 
@@ -104,6 +104,26 @@ namespace DatabaseXMLConverter
             }
 
             return tables;
+        }
+
+        public static string[] GetDatatypesOfTable(string tablename)
+        {
+            command.CommandText = "SELECT DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = '" + tablename + "'";
+            Adapter.SelectCommand = command;
+
+            List<string> types = new List<string>();
+
+            DataTable c = new DataTable(tablename);
+            Adapter.Fill(c);
+
+            var data = c.AsEnumerable().ToList<DataRow>();
+
+            for (int i = 0; i < data.Count; i++)
+            {
+                types.Add((string)data[i][0]);
+            }
+
+            return types.ToArray<string>();
         }
     }
 }

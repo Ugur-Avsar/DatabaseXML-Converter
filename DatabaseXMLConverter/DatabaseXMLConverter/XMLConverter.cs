@@ -11,24 +11,25 @@ namespace DatabaseXMLConverter
 {
     class XMLConverter
     {
-        public enum DatasetStyle
+
+        public static XElement ParseDatabase(string database, List<DataTable> tables, DatasetStyles style)
         {
-            CUT, ELEMENT
+            XElement db = new XElement(DatabaseConnection.Database,
+                from table in DatabaseConnection.GetTables()
+                select new XElement(table.TableName, new XAttribute("Datatypes", getTypes(table.Columns)),
+                from row in table.Rows.Cast<DataRow>()
+                select new XElement((style == DatasetStyles.CUT ? (table.TableName.Substring(0, table.TableName.Length - 1)) : (style == DatasetStyles.ELEMENT ? (table.TableName + "_element") : (table.TableName + "_element"))),
+                    from attr in table.Columns.Cast<DataColumn>()
+                    select new XAttribute(attr.ColumnName, row[attr.ColumnName])
+                    )));
+            return db;
         }
 
-        public static XElement ParseDatabase(string database, List<DataTable> tables, DatasetStyle style)
+        private static string getTypes(DataColumnCollection c)
         {
-            XElement db = new XElement(DatabaseConnection.Database, from table in DatabaseConnection.GetTables()
-                    select new XElement(table.TableName, 
-                        from row in table.Rows.Cast<DataRow>()
-                        where row.Table.TableName == table.TableName
-                        select new XElement((style == DatasetStyle.CUT ? (table.TableName.Substring(0, table.TableName.Length - 1)) : (style == DatasetStyle.ELEMENT ? (table.TableName + "_element") : (table.TableName + "_element"))), 
-                            from attr in table.Columns.Cast<DataColumn>()
-                            select new XAttribute(attr.ColumnName, row[attr.ColumnName])
-                            )
-                        )
-                    );
-            return db;
+            string s = "";
+            c.Cast<DataColumn>().ToList<DataColumn>().ForEach(x => s += ("" + x.DataType).Substring(7) + ";");
+            return s;
         }
 
     }

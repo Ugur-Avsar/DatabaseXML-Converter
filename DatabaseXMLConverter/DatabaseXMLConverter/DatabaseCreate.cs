@@ -47,7 +47,7 @@ namespace DatabaseXMLConverter
         }
 
 
-        public static void createTables()
+        public static void CreateTables()
         {
             string createTables = "";
             var XMLFile = XElement.Load("../../xml/test.xml");
