@@ -1,0 +1,1398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<world>
+  <city Datatypes="Int32;String;String;String;Int32;">
+    <city_element ID="1" Name="Kabul" CountryCode="AFG" District="Kabol" Population="1780000" />
+    <city_element ID="2" Name="Qandahar" CountryCode="AFG" District="Qandahar" Population="237500" />
+    <city_element ID="3" Name="Herat" CountryCode="AFG" District="Herat" Population="186800" />
+    <city_element ID="4" Name="Mazar-e-Sharif" CountryCode="AFG" District="Balkh" Population="127800" />
+    <city_element ID="5" Name="Amsterdam" CountryCode="NLD" District="Noord-Holland" Population="731200" />
+    <city_element ID="6" Name="Rotterdam" CountryCode="NLD" District="Zuid-Holland" Population="593321" />
+    <city_element ID="7" Name="Haag" CountryCode="NLD" District="Zuid-Holland" Population="440900" />
+    <city_element ID="8" Name="Utrecht" CountryCode="NLD" District="Utrecht" Population="234323" />
+    <city_element ID="9" Name="Eindhoven" CountryCode="NLD" District="Noord-Brabant" Population="201843" />
+    <city_element ID="10" Name="Tilburg" CountryCode="NLD" District="Noord-Brabant" Population="193238" />
+    <city_element ID="11" Name="Groningen" CountryCode="NLD" District="Groningen" Population="172701" />
+    <city_element ID="12" Name="Breda" CountryCode="NLD" District="Noord-Brabant" Population="160398" />
+    <city_element ID="13" Name="Apeldoorn" CountryCode="NLD" District="Gelderland" Population="153491" />
+    <city_element ID="14" Name="Nijmegen" CountryCode="NLD" District="Gelderland" Population="152463" />
+    <city_element ID="15" Name="Enschede" CountryCode="NLD" District="Overijssel" Population="149544" />
+    <city_element ID="16" Name="Haarlem" CountryCode="NLD" District="Noord-Holland" Population="148772" />
+    <city_element ID="17" Name="Almere" CountryCode="NLD" District="Flevoland" Population="142465" />
+    <city_element ID="18" Name="Arnhem" CountryCode="NLD" District="Gelderland" Population="138020" />
+    <city_element ID="19" Name="Zaanstad" CountryCode="NLD" District="Noord-Holland" Population="135621" />
+    <city_element ID="20" Name="Â´s-Hertogenbosch" CountryCode="NLD" District="Noord-Brabant" Population="129170" />
+    <city_element ID="21" Name="Amersfoort" CountryCode="NLD" District="Utrecht" Population="126270" />
+    <city_element ID="22" Name="Maastricht" CountryCode="NLD" District="Limburg" Population="122087" />
+    <city_element ID="23" Name="Dordrecht" CountryCode="NLD" District="Zuid-Holland" Population="119811" />
+    <city_element ID="24" Name="Leiden" CountryCode="NLD" District="Zuid-Holland" Population="117196" />
+    <city_element ID="25" Name="Haarlemmermeer" CountryCode="NLD" District="Noord-Holland" Population="110722" />
+    <city_element ID="26" Name="Zoetermeer" CountryCode="NLD" District="Zuid-Holland" Population="110214" />
+    <city_element ID="27" Name="Emmen" CountryCode="NLD" District="Drenthe" Population="105853" />
+    <city_element ID="28" Name="Zwolle" CountryCode="NLD" District="Overijssel" Population="105819" />
+    <city_element ID="29" Name="Ede" CountryCode="NLD" District="Gelderland" Population="101574" />
+    <city_element ID="30" Name="Delft" CountryCode="NLD" District="Zuid-Holland" Population="95268" />
+    <city_element ID="31" Name="Heerlen" CountryCode="NLD" District="Limburg" Population="95052" />
+    <city_element ID="32" Name="Alkmaar" CountryCode="NLD" District="Noord-Holland" Population="92713" />
+    <city_element ID="33" Name="Willemstad" CountryCode="ANT" District="CuraÃ§ao" Population="2345" />
+    <city_element ID="34" Name="Tirana" CountryCode="ALB" District="Tirana" Population="270000" />
+    <city_element ID="35" Name="Alger" CountryCode="DZA" District="Alger" Population="2168000" />
+    <city_element ID="36" Name="Oran" CountryCode="DZA" District="Oran" Population="609823" />
+    <city_element ID="37" Name="Constantine" CountryCode="DZA" District="Constantine" Population="443727" />
+    <city_element ID="38" Name="Annaba" CountryCode="DZA" District="Annaba" Population="222518" />
+    <city_element ID="39" Name="Batna" CountryCode="DZA" District="Batna" Population="183377" />
+    <city_element ID="40" Name="SÃ©tif" CountryCode="DZA" District="SÃ©tif" Population="179055" />
+    <city_element ID="41" Name="Sidi Bel AbbÃ¨s" CountryCode="DZA" District="Sidi Bel AbbÃ¨s" Population="153106" />
+    <city_element ID="42" Name="Skikda" CountryCode="DZA" District="Skikda" Population="128747" />
+    <city_element ID="43" Name="Biskra" CountryCode="DZA" District="Biskra" Population="128281" />
+    <city_element ID="44" Name="Blida (el-Boulaida)" CountryCode="DZA" District="Blida" Population="127284" />
+    <city_element ID="45" Name="BÃ©jaÃ¯a" CountryCode="DZA" District="BÃ©jaÃ¯a" Population="117162" />
+    <city_element ID="46" Name="Mostaganem" CountryCode="DZA" District="Mostaganem" Population="115212" />
+    <city_element ID="47" Name="TÃ©bessa" CountryCode="DZA" District="TÃ©bessa" Population="112007" />
+    <city_element ID="48" Name="Tlemcen (Tilimsen)" CountryCode="DZA" District="Tlemcen" Population="110242" />
+    <city_element ID="49" Name="BÃ©char" CountryCode="DZA" District="BÃ©char" Population="107311" />
+    <city_element ID="50" Name="Tiaret" CountryCode="DZA" District="Tiaret" Population="100118" />
+    <city_element ID="51" Name="Ech-Chleff (el-Asnam)" CountryCode="DZA" District="Chlef" Population="96794" />
+    <city_element ID="52" Name="GhardaÃ¯a" CountryCode="DZA" District="GhardaÃ¯a" Population="89415" />
+    <city_element ID="53" Name="Tafuna" CountryCode="ASM" District="Tutuila" Population="5200" />
+    <city_element ID="54" Name="Fagatogo" CountryCode="ASM" District="Tutuila" Population="2323" />
+    <city_element ID="55" Name="Andorra la Vella" CountryCode="AND" District="Andorra la Vella" Population="21189" />
+    <city_element ID="56" Name="Luanda" CountryCode="AGO" District="Luanda" Population="2022000" />
+    <city_element ID="57" Name="Huambo" CountryCode="AGO" District="Huambo" Population="163100" />
+    <city_element ID="58" Name="Lobito" CountryCode="AGO" District="Benguela" Population="130000" />
+    <city_element ID="59" Name="Benguela" CountryCode="AGO" District="Benguela" Population="128300" />
+    <city_element ID="60" Name="Namibe" CountryCode="AGO" District="Namibe" Population="118200" />
+    <city_element ID="61" Name="South Hill" CountryCode="AIA" District="Â–" Population="961" />
+    <city_element ID="62" Name="The Valley" CountryCode="AIA" District="Â–" Population="595" />
+    <city_element ID="63" Name="Saint JohnÂ´s" CountryCode="ATG" District="St John" Population="24000" />
+    <city_element ID="64" Name="Dubai" CountryCode="ARE" District="Dubai" Population="669181" />
+    <city_element ID="65" Name="Abu Dhabi" CountryCode="ARE" District="Abu Dhabi" Population="398695" />
+    <city_element ID="66" Name="Sharja" CountryCode="ARE" District="Sharja" Population="320095" />
+    <city_element ID="67" Name="al-Ayn" CountryCode="ARE" District="Abu Dhabi" Population="225970" />
+    <city_element ID="68" Name="Ajman" CountryCode="ARE" District="Ajman" Population="114395" />
+    <city_element ID="69" Name="Buenos Aires" CountryCode="ARG" District="Distrito Federal" Population="2982146" />
+    <city_element ID="70" Name="La Matanza" CountryCode="ARG" District="Buenos Aires" Population="1266461" />
+    <city_element ID="71" Name="CÃ³rdoba" CountryCode="ARG" District="CÃ³rdoba" Population="1157507" />
+    <city_element ID="72" Name="Rosario" CountryCode="ARG" District="Santa FÃ©" Population="907718" />
+    <city_element ID="73" Name="Lomas de Zamora" CountryCode="ARG" District="Buenos Aires" Population="622013" />
+    <city_element ID="74" Name="Quilmes" CountryCode="ARG" District="Buenos Aires" Population="559249" />
+    <city_element ID="75" Name="Almirante Brown" CountryCode="ARG" District="Buenos Aires" Population="538918" />
+    <city_element ID="76" Name="La Plata" CountryCode="ARG" District="Buenos Aires" Population="521936" />
+    <city_element ID="77" Name="Mar del Plata" CountryCode="ARG" District="Buenos Aires" Population="512880" />
+    <city_element ID="78" Name="San Miguel de TucumÃ¡n" CountryCode="ARG" District="TucumÃ¡n" Population="470809" />
+    <city_element ID="79" Name="LanÃºs" CountryCode="ARG" District="Buenos Aires" Population="469735" />
+    <city_element ID="80" Name="Merlo" CountryCode="ARG" District="Buenos Aires" Population="463846" />
+    <city_element ID="81" Name="General San MartÃ­n" CountryCode="ARG" District="Buenos Aires" Population="422542" />
+    <city_element ID="82" Name="Salta" CountryCode="ARG" District="Salta" Population="367550" />
+    <city_element ID="83" Name="Moreno" CountryCode="ARG" District="Buenos Aires" Population="356993" />
+    <city_element ID="84" Name="Santa FÃ©" CountryCode="ARG" District="Santa FÃ©" Population="353063" />
+    <city_element ID="85" Name="Avellaneda" CountryCode="ARG" District="Buenos Aires" Population="353046" />
+    <city_element ID="86" Name="Tres de Febrero" CountryCode="ARG" District="Buenos Aires" Population="352311" />
+    <city_element ID="87" Name="MorÃ³n" CountryCode="ARG" District="Buenos Aires" Population="349246" />
+    <city_element ID="88" Name="Florencio Varela" CountryCode="ARG" District="Buenos Aires" Population="315432" />
+    <city_element ID="89" Name="San Isidro" CountryCode="ARG" District="Buenos Aires" Population="306341" />
+    <city_element ID="90" Name="Tigre" CountryCode="ARG" District="Buenos Aires" Population="296226" />
+    <city_element ID="91" Name="Malvinas Argentinas" CountryCode="ARG" District="Buenos Aires" Population="290335" />
+    <city_element ID="92" Name="Vicente LÃ³pez" CountryCode="ARG" District="Buenos Aires" Population="288341" />
+    <city_element ID="93" Name="Berazategui" CountryCode="ARG" District="Buenos Aires" Population="276916" />
+    <city_element ID="94" Name="Corrientes" CountryCode="ARG" District="Corrientes" Population="258103" />
+    <city_element ID="95" Name="San Miguel" CountryCode="ARG" District="Buenos Aires" Population="248700" />
+    <city_element ID="96" Name="BahÃ­a Blanca" CountryCode="ARG" District="Buenos Aires" Population="239810" />
+    <city_element ID="97" Name="Esteban EcheverrÃ­a" CountryCode="ARG" District="Buenos Aires" Population="235760" />
+    <city_element ID="98" Name="Resistencia" CountryCode="ARG" District="Chaco" Population="229212" />
+    <city_element ID="99" Name="JosÃ© C. Paz" CountryCode="ARG" District="Buenos Aires" Population="221754" />
+    <city_element ID="100" Name="ParanÃ¡" CountryCode="ARG" District="Entre Rios" Population="207041" />
+    <city_element ID="101" Name="Godoy Cruz" CountryCode="ARG" District="Mendoza" Population="206998" />
+    <city_element ID="102" Name="Posadas" CountryCode="ARG" District="Misiones" Population="201273" />
+    <city_element ID="103" Name="GuaymallÃ©n" CountryCode="ARG" District="Mendoza" Population="200595" />
+    <city_element ID="104" Name="Santiago del Estero" CountryCode="ARG" District="Santiago del Estero" Population="189947" />
+    <city_element ID="105" Name="San Salvador de Jujuy" CountryCode="ARG" District="Jujuy" Population="178748" />
+    <city_element ID="106" Name="Hurlingham" CountryCode="ARG" District="Buenos Aires" Population="170028" />
+    <city_element ID="107" Name="NeuquÃ©n" CountryCode="ARG" District="NeuquÃ©n" Population="167296" />
+    <city_element ID="108" Name="ItuzaingÃ³" CountryCode="ARG" District="Buenos Aires" Population="158197" />
+    <city_element ID="109" Name="San Fernando" CountryCode="ARG" District="Buenos Aires" Population="153036" />
+    <city_element ID="110" Name="Formosa" CountryCode="ARG" District="Formosa" Population="147636" />
+    <city_element ID="111" Name="Las Heras" CountryCode="ARG" District="Mendoza" Population="145823" />
+    <city_element ID="112" Name="La Rioja" CountryCode="ARG" District="La Rioja" Population="138117" />
+    <city_element ID="113" Name="San Fernando del Valle de Cata" CountryCode="ARG" District="Catamarca" Population="134935" />
+    <city_element ID="114" Name="RÃ­o Cuarto" CountryCode="ARG" District="CÃ³rdoba" Population="134355" />
+    <city_element ID="115" Name="Comodoro Rivadavia" CountryCode="ARG" District="Chubut" Population="124104" />
+    <city_element ID="116" Name="Mendoza" CountryCode="ARG" District="Mendoza" Population="123027" />
+    <city_element ID="117" Name="San NicolÃ¡s de los Arroyos" CountryCode="ARG" District="Buenos Aires" Population="119302" />
+    <city_element ID="118" Name="San Juan" CountryCode="ARG" District="San Juan" Population="119152" />
+    <city_element ID="119" Name="Escobar" CountryCode="ARG" District="Buenos Aires" Population="116675" />
+    <city_element ID="120" Name="Concordia" CountryCode="ARG" District="Entre Rios" Population="116485" />
+    <city_element ID="121" Name="Pilar" CountryCode="ARG" District="Buenos Aires" Population="113428" />
+    <city_element ID="122" Name="San Luis" CountryCode="ARG" District="San Luis" Population="110136" />
+    <city_element ID="123" Name="Ezeiza" CountryCode="ARG" District="Buenos Aires" Population="99578" />
+    <city_element ID="124" Name="San Rafael" CountryCode="ARG" District="Mendoza" Population="94651" />
+    <city_element ID="125" Name="Tandil" CountryCode="ARG" District="Buenos Aires" Population="91101" />
+    <city_element ID="126" Name="Yerevan" CountryCode="ARM" District="Yerevan" Population="1248700" />
+    <city_element ID="127" Name="Gjumri" CountryCode="ARM" District="ÂŠirak" Population="211700" />
+    <city_element ID="128" Name="Vanadzor" CountryCode="ARM" District="Lori" Population="172700" />
+    <city_element ID="129" Name="Oranjestad" CountryCode="ABW" District="Â–" Population="29034" />
+    <city_element ID="130" Name="Sydney" CountryCode="AUS" District="New South Wales" Population="3276207" />
+    <city_element ID="131" Name="Melbourne" CountryCode="AUS" District="Victoria" Population="2865329" />
+    <city_element ID="132" Name="Brisbane" CountryCode="AUS" District="Queensland" Population="1291117" />
+    <city_element ID="133" Name="Perth" CountryCode="AUS" District="West Australia" Population="1096829" />
+    <city_element ID="134" Name="Adelaide" CountryCode="AUS" District="South Australia" Population="978100" />
+    <city_element ID="135" Name="Canberra" CountryCode="AUS" District="Capital Region" Population="322723" />
+    <city_element ID="136" Name="Gold Coast" CountryCode="AUS" District="Queensland" Population="311932" />
+    <city_element ID="137" Name="Newcastle" CountryCode="AUS" District="New South Wales" Population="270324" />
+    <city_element ID="138" Name="Central Coast" CountryCode="AUS" District="New South Wales" Population="227657" />
+    <city_element ID="139" Name="Wollongong" CountryCode="AUS" District="New South Wales" Population="219761" />
+    <city_element ID="140" Name="Hobart" CountryCode="AUS" District="Tasmania" Population="126118" />
+    <city_element ID="141" Name="Geelong" CountryCode="AUS" District="Victoria" Population="125382" />
+    <city_element ID="142" Name="Townsville" CountryCode="AUS" District="Queensland" Population="109914" />
+    <city_element ID="143" Name="Cairns" CountryCode="AUS" District="Queensland" Population="92273" />
+    <city_element ID="144" Name="Baku" CountryCode="AZE" District="Baki" Population="1787800" />
+    <city_element ID="145" Name="GÃ¤ncÃ¤" CountryCode="AZE" District="GÃ¤ncÃ¤" Population="299300" />
+    <city_element ID="146" Name="Sumqayit" CountryCode="AZE" District="Sumqayit" Population="283000" />
+    <city_element ID="147" Name="MingÃ¤Ã§evir" CountryCode="AZE" District="MingÃ¤Ã§evir" Population="93900" />
+    <city_element ID="148" Name="Nassau" CountryCode="BHS" District="New Providence" Population="172000" />
+    <city_element ID="149" Name="al-Manama" CountryCode="BHR" District="al-Manama" Population="148000" />
+    <city_element ID="150" Name="Dhaka" CountryCode="BGD" District="Dhaka" Population="3612850" />
+    <city_element ID="151" Name="Chittagong" CountryCode="BGD" District="Chittagong" Population="1392860" />
+    <city_element ID="152" Name="Khulna" CountryCode="BGD" District="Khulna" Population="663340" />
+    <city_element ID="153" Name="Rajshahi" CountryCode="BGD" District="Rajshahi" Population="294056" />
+    <city_element ID="154" Name="Narayanganj" CountryCode="BGD" District="Dhaka" Population="202134" />
+    <city_element ID="155" Name="Rangpur" CountryCode="BGD" District="Rajshahi" Population="191398" />
+    <city_element ID="156" Name="Mymensingh" CountryCode="BGD" District="Dhaka" Population="188713" />
+    <city_element ID="157" Name="Barisal" CountryCode="BGD" District="Barisal" Population="170232" />
+    <city_element ID="158" Name="Tungi" CountryCode="BGD" District="Dhaka" Population="168702" />
+    <city_element ID="159" Name="Jessore" CountryCode="BGD" District="Khulna" Population="139710" />
+    <city_element ID="160" Name="Comilla" CountryCode="BGD" District="Chittagong" Population="135313" />
+    <city_element ID="161" Name="Nawabganj" CountryCode="BGD" District="Rajshahi" Population="130577" />
+    <city_element ID="162" Name="Dinajpur" CountryCode="BGD" District="Rajshahi" Population="127815" />
+    <city_element ID="163" Name="Bogra" CountryCode="BGD" District="Rajshahi" Population="120170" />
+    <city_element ID="164" Name="Sylhet" CountryCode="BGD" District="Sylhet" Population="117396" />
+    <city_element ID="165" Name="Brahmanbaria" CountryCode="BGD" District="Chittagong" Population="109032" />
+    <city_element ID="166" Name="Tangail" CountryCode="BGD" District="Dhaka" Population="106004" />
+    <city_element ID="167" Name="Jamalpur" CountryCode="BGD" District="Dhaka" Population="103556" />
+    <city_element ID="168" Name="Pabna" CountryCode="BGD" District="Rajshahi" Population="103277" />
+    <city_element ID="169" Name="Naogaon" CountryCode="BGD" District="Rajshahi" Population="101266" />
+    <city_element ID="170" Name="Sirajganj" CountryCode="BGD" District="Rajshahi" Population="99669" />
+    <city_element ID="171" Name="Narsinghdi" CountryCode="BGD" District="Dhaka" Population="98342" />
+    <city_element ID="172" Name="Saidpur" CountryCode="BGD" District="Rajshahi" Population="96777" />
+    <city_element ID="173" Name="Gazipur" CountryCode="BGD" District="Dhaka" Population="96717" />
+    <city_element ID="174" Name="Bridgetown" CountryCode="BRB" District="St Michael" Population="6070" />
+    <city_element ID="175" Name="Antwerpen" CountryCode="BEL" District="Antwerpen" Population="446525" />
+    <city_element ID="176" Name="Gent" CountryCode="BEL" District="East Flanderi" Population="224180" />
+    <city_element ID="177" Name="Charleroi" CountryCode="BEL" District="Hainaut" Population="200827" />
+    <city_element ID="178" Name="LiÃ¨ge" CountryCode="BEL" District="LiÃ¨ge" Population="185639" />
+    <city_element ID="179" Name="Bruxelles [Brussel]" CountryCode="BEL" District="Bryssel" Population="133859" />
+    <city_element ID="180" Name="Brugge" CountryCode="BEL" District="West Flanderi" Population="116246" />
+    <city_element ID="181" Name="Schaerbeek" CountryCode="BEL" District="Bryssel" Population="105692" />
+    <city_element ID="182" Name="Namur" CountryCode="BEL" District="Namur" Population="105419" />
+    <city_element ID="183" Name="Mons" CountryCode="BEL" District="Hainaut" Population="90935" />
+    <city_element ID="184" Name="Belize City" CountryCode="BLZ" District="Belize City" Population="55810" />
+    <city_element ID="185" Name="Belmopan" CountryCode="BLZ" District="Cayo" Population="7105" />
+    <city_element ID="186" Name="Cotonou" CountryCode="BEN" District="Atlantique" Population="536827" />
+    <city_element ID="187" Name="Porto-Novo" CountryCode="BEN" District="OuÃ©mÃ©" Population="194000" />
+    <city_element ID="188" Name="Djougou" CountryCode="BEN" District="Atacora" Population="134099" />
+    <city_element ID="189" Name="Parakou" CountryCode="BEN" District="Borgou" Population="103577" />
+    <city_element ID="190" Name="Saint George" CountryCode="BMU" District="Saint GeorgeÂ´s" Population="1800" />
+    <city_element ID="191" Name="Hamilton" CountryCode="BMU" District="Hamilton" Population="1200" />
+    <city_element ID="192" Name="Thimphu" CountryCode="BTN" District="Thimphu" Population="22000" />
+    <city_element ID="193" Name="Santa Cruz de la Sierra" CountryCode="BOL" District="Santa Cruz" Population="935361" />
+    <city_element ID="194" Name="La Paz" CountryCode="BOL" District="La Paz" Population="758141" />
+    <city_element ID="195" Name="El Alto" CountryCode="BOL" District="La Paz" Population="534466" />
+    <city_element ID="196" Name="Cochabamba" CountryCode="BOL" District="Cochabamba" Population="482800" />
+    <city_element ID="197" Name="Oruro" CountryCode="BOL" District="Oruro" Population="223553" />
+    <city_element ID="198" Name="Sucre" CountryCode="BOL" District="Chuquisaca" Population="178426" />
+    <city_element ID="199" Name="PotosÃ­" CountryCode="BOL" District="PotosÃ­" Population="140642" />
+    <city_element ID="200" Name="Tarija" CountryCode="BOL" District="Tarija" Population="125255" />
+    <city_element ID="201" Name="Sarajevo" CountryCode="BIH" District="Federaatio" Population="360000" />
+    <city_element ID="202" Name="Banja Luka" CountryCode="BIH" District="Republika Srpska" Population="143079" />
+    <city_element ID="203" Name="Zenica" CountryCode="BIH" District="Federaatio" Population="96027" />
+    <city_element ID="204" Name="Gaborone" CountryCode="BWA" District="Gaborone" Population="213017" />
+    <city_element ID="205" Name="Francistown" CountryCode="BWA" District="Francistown" Population="101805" />
+    <city_element ID="206" Name="SÃ£o Paulo" CountryCode="BRA" District="SÃ£o Paulo" Population="9968485" />
+    <city_element ID="207" Name="Rio de Janeiro" CountryCode="BRA" District="Rio de Janeiro" Population="5598953" />
+    <city_element ID="208" Name="Salvador" CountryCode="BRA" District="Bahia" Population="2302832" />
+    <city_element ID="209" Name="Belo Horizonte" CountryCode="BRA" District="Minas Gerais" Population="2139125" />
+    <city_element ID="210" Name="Fortaleza" CountryCode="BRA" District="CearÃ¡" Population="2097757" />
+    <city_element ID="211" Name="BrasÃ­lia" CountryCode="BRA" District="Distrito Federal" Population="1969868" />
+    <city_element ID="212" Name="Curitiba" CountryCode="BRA" District="ParanÃ¡" Population="1584232" />
+    <city_element ID="213" Name="Recife" CountryCode="BRA" District="Pernambuco" Population="1378087" />
+    <city_element ID="214" Name="Porto Alegre" CountryCode="BRA" District="Rio Grande do Sul" Population="1314032" />
+    <city_element ID="215" Name="Manaus" CountryCode="BRA" District="Amazonas" Population="1255049" />
+    <city_element ID="216" Name="BelÃ©m" CountryCode="BRA" District="ParÃ¡" Population="1186926" />
+    <city_element ID="217" Name="Guarulhos" CountryCode="BRA" District="SÃ£o Paulo" Population="1095874" />
+    <city_element ID="218" Name="GoiÃ¢nia" CountryCode="BRA" District="GoiÃ¡s" Population="1056330" />
+    <city_element ID="219" Name="Campinas" CountryCode="BRA" District="SÃ£o Paulo" Population="950043" />
+    <city_element ID="220" Name="SÃ£o GonÃ§alo" CountryCode="BRA" District="Rio de Janeiro" Population="869254" />
+    <city_element ID="221" Name="Nova IguaÃ§u" CountryCode="BRA" District="Rio de Janeiro" Population="862225" />
+    <city_element ID="222" Name="SÃ£o LuÃ­s" CountryCode="BRA" District="MaranhÃ£o" Population="837588" />
+    <city_element ID="223" Name="MaceiÃ³" CountryCode="BRA" District="Alagoas" Population="786288" />
+    <city_element ID="224" Name="Duque de Caxias" CountryCode="BRA" District="Rio de Janeiro" Population="746758" />
+    <city_element ID="225" Name="SÃ£o Bernardo do Campo" CountryCode="BRA" District="SÃ£o Paulo" Population="723132" />
+    <city_element ID="226" Name="Teresina" CountryCode="BRA" District="PiauÃ­" Population="691942" />
+    <city_element ID="227" Name="Natal" CountryCode="BRA" District="Rio Grande do Norte" Population="688955" />
+    <city_element ID="228" Name="Osasco" CountryCode="BRA" District="SÃ£o Paulo" Population="659604" />
+    <city_element ID="229" Name="Campo Grande" CountryCode="BRA" District="Mato Grosso do Sul" Population="649593" />
+    <city_element ID="230" Name="Santo AndrÃ©" CountryCode="BRA" District="SÃ£o Paulo" Population="630073" />
+    <city_element ID="231" Name="JoÃ£o Pessoa" CountryCode="BRA" District="ParaÃ­ba" Population="584029" />
+    <city_element ID="232" Name="JaboatÃ£o dos Guararapes" CountryCode="BRA" District="Pernambuco" Population="558680" />
+    <city_element ID="233" Name="Contagem" CountryCode="BRA" District="Minas Gerais" Population="520801" />
+    <city_element ID="234" Name="SÃ£o JosÃ© dos Campos" CountryCode="BRA" District="SÃ£o Paulo" Population="515553" />
+    <city_element ID="235" Name="UberlÃ¢ndia" CountryCode="BRA" District="Minas Gerais" Population="487222" />
+    <city_element ID="236" Name="Feira de Santana" CountryCode="BRA" District="Bahia" Population="479992" />
+    <city_element ID="237" Name="RibeirÃ£o Preto" CountryCode="BRA" District="SÃ£o Paulo" Population="473276" />
+    <city_element ID="238" Name="Sorocaba" CountryCode="BRA" District="SÃ£o Paulo" Population="466823" />
+    <city_element ID="239" Name="NiterÃ³i" CountryCode="BRA" District="Rio de Janeiro" Population="459884" />
+    <city_element ID="240" Name="CuiabÃ¡" CountryCode="BRA" District="Mato Grosso" Population="453813" />
+    <city_element ID="241" Name="Juiz de Fora" CountryCode="BRA" District="Minas Gerais" Population="450288" />
+    <city_element ID="242" Name="Aracaju" CountryCode="BRA" District="Sergipe" Population="445555" />
+    <city_element ID="243" Name="SÃ£o JoÃ£o de Meriti" CountryCode="BRA" District="Rio de Janeiro" Population="440052" />
+    <city_element ID="244" Name="Londrina" CountryCode="BRA" District="ParanÃ¡" Population="432257" />
+    <city_element ID="245" Name="Joinville" CountryCode="BRA" District="Santa Catarina" Population="428011" />
+    <city_element ID="246" Name="Belford Roxo" CountryCode="BRA" District="Rio de Janeiro" Population="425194" />
+    <city_element ID="247" Name="Santos" CountryCode="BRA" District="SÃ£o Paulo" Population="408748" />
+    <city_element ID="248" Name="Ananindeua" CountryCode="BRA" District="ParÃ¡" Population="400940" />
+    <city_element ID="249" Name="Campos dos Goytacazes" CountryCode="BRA" District="Rio de Janeiro" Population="398418" />
+    <city_element ID="250" Name="MauÃ¡" CountryCode="BRA" District="SÃ£o Paulo" Population="375055" />
+    <city_element ID="251" Name="CarapicuÃ­ba" CountryCode="BRA" District="SÃ£o Paulo" Population="357552" />
+    <city_element ID="252" Name="Olinda" CountryCode="BRA" District="Pernambuco" Population="354732" />
+    <city_element ID="253" Name="Campina Grande" CountryCode="BRA" District="ParaÃ­ba" Population="352497" />
+    <city_element ID="254" Name="SÃ£o JosÃ© do Rio Preto" CountryCode="BRA" District="SÃ£o Paulo" Population="351944" />
+    <city_element ID="255" Name="Caxias do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="349581" />
+    <city_element ID="256" Name="Moji das Cruzes" CountryCode="BRA" District="SÃ£o Paulo" Population="339194" />
+    <city_element ID="257" Name="Diadema" CountryCode="BRA" District="SÃ£o Paulo" Population="335078" />
+    <city_element ID="258" Name="Aparecida de GoiÃ¢nia" CountryCode="BRA" District="GoiÃ¡s" Population="324662" />
+    <city_element ID="259" Name="Piracicaba" CountryCode="BRA" District="SÃ£o Paulo" Population="319104" />
+    <city_element ID="260" Name="Cariacica" CountryCode="BRA" District="EspÃ­rito Santo" Population="319033" />
+    <city_element ID="261" Name="Vila Velha" CountryCode="BRA" District="EspÃ­rito Santo" Population="318758" />
+    <city_element ID="262" Name="Pelotas" CountryCode="BRA" District="Rio Grande do Sul" Population="315415" />
+    <city_element ID="263" Name="Bauru" CountryCode="BRA" District="SÃ£o Paulo" Population="313670" />
+    <city_element ID="264" Name="Porto Velho" CountryCode="BRA" District="RondÃ´nia" Population="309750" />
+    <city_element ID="265" Name="Serra" CountryCode="BRA" District="EspÃ­rito Santo" Population="302666" />
+    <city_element ID="266" Name="Betim" CountryCode="BRA" District="Minas Gerais" Population="302108" />
+    <city_element ID="267" Name="JundÃ­aÃ­" CountryCode="BRA" District="SÃ£o Paulo" Population="296127" />
+    <city_element ID="268" Name="Canoas" CountryCode="BRA" District="Rio Grande do Sul" Population="294125" />
+    <city_element ID="269" Name="Franca" CountryCode="BRA" District="SÃ£o Paulo" Population="290139" />
+    <city_element ID="270" Name="SÃ£o Vicente" CountryCode="BRA" District="SÃ£o Paulo" Population="286848" />
+    <city_element ID="271" Name="MaringÃ¡" CountryCode="BRA" District="ParanÃ¡" Population="286461" />
+    <city_element ID="272" Name="Montes Claros" CountryCode="BRA" District="Minas Gerais" Population="286058" />
+    <city_element ID="273" Name="AnÃ¡polis" CountryCode="BRA" District="GoiÃ¡s" Population="282197" />
+    <city_element ID="274" Name="FlorianÃ³polis" CountryCode="BRA" District="Santa Catarina" Population="281928" />
+    <city_element ID="275" Name="PetrÃ³polis" CountryCode="BRA" District="Rio de Janeiro" Population="279183" />
+    <city_element ID="276" Name="Itaquaquecetuba" CountryCode="BRA" District="SÃ£o Paulo" Population="270874" />
+    <city_element ID="277" Name="VitÃ³ria" CountryCode="BRA" District="EspÃ­rito Santo" Population="270626" />
+    <city_element ID="278" Name="Ponta Grossa" CountryCode="BRA" District="ParanÃ¡" Population="268013" />
+    <city_element ID="279" Name="Rio Branco" CountryCode="BRA" District="Acre" Population="259537" />
+    <city_element ID="280" Name="Foz do IguaÃ§u" CountryCode="BRA" District="ParanÃ¡" Population="259425" />
+    <city_element ID="281" Name="MacapÃ¡" CountryCode="BRA" District="AmapÃ¡" Population="256033" />
+    <city_element ID="282" Name="IlhÃ©us" CountryCode="BRA" District="Bahia" Population="254970" />
+    <city_element ID="283" Name="VitÃ³ria da Conquista" CountryCode="BRA" District="Bahia" Population="253587" />
+    <city_element ID="284" Name="Uberaba" CountryCode="BRA" District="Minas Gerais" Population="249225" />
+    <city_element ID="285" Name="Paulista" CountryCode="BRA" District="Pernambuco" Population="248473" />
+    <city_element ID="286" Name="Limeira" CountryCode="BRA" District="SÃ£o Paulo" Population="245497" />
+    <city_element ID="287" Name="Blumenau" CountryCode="BRA" District="Santa Catarina" Population="244379" />
+    <city_element ID="288" Name="Caruaru" CountryCode="BRA" District="Pernambuco" Population="244247" />
+    <city_element ID="289" Name="SantarÃ©m" CountryCode="BRA" District="ParÃ¡" Population="241771" />
+    <city_element ID="290" Name="Volta Redonda" CountryCode="BRA" District="Rio de Janeiro" Population="240315" />
+    <city_element ID="291" Name="Novo Hamburgo" CountryCode="BRA" District="Rio Grande do Sul" Population="239940" />
+    <city_element ID="292" Name="Caucaia" CountryCode="BRA" District="CearÃ¡" Population="238738" />
+    <city_element ID="293" Name="Santa Maria" CountryCode="BRA" District="Rio Grande do Sul" Population="238473" />
+    <city_element ID="294" Name="Cascavel" CountryCode="BRA" District="ParanÃ¡" Population="237510" />
+    <city_element ID="295" Name="GuarujÃ¡" CountryCode="BRA" District="SÃ£o Paulo" Population="237206" />
+    <city_element ID="296" Name="RibeirÃ£o das Neves" CountryCode="BRA" District="Minas Gerais" Population="232685" />
+    <city_element ID="297" Name="Governador Valadares" CountryCode="BRA" District="Minas Gerais" Population="231724" />
+    <city_element ID="298" Name="TaubatÃ©" CountryCode="BRA" District="SÃ£o Paulo" Population="229130" />
+    <city_element ID="299" Name="Imperatriz" CountryCode="BRA" District="MaranhÃ£o" Population="224564" />
+    <city_element ID="300" Name="GravataÃ­" CountryCode="BRA" District="Rio Grande do Sul" Population="223011" />
+    <city_element ID="301" Name="Embu" CountryCode="BRA" District="SÃ£o Paulo" Population="222223" />
+    <city_element ID="302" Name="MossorÃ³" CountryCode="BRA" District="Rio Grande do Norte" Population="214901" />
+    <city_element ID="303" Name="VÃ¡rzea Grande" CountryCode="BRA" District="Mato Grosso" Population="214435" />
+    <city_element ID="304" Name="Petrolina" CountryCode="BRA" District="Pernambuco" Population="210540" />
+    <city_element ID="305" Name="Barueri" CountryCode="BRA" District="SÃ£o Paulo" Population="208426" />
+    <city_element ID="306" Name="ViamÃ£o" CountryCode="BRA" District="Rio Grande do Sul" Population="207557" />
+    <city_element ID="307" Name="Ipatinga" CountryCode="BRA" District="Minas Gerais" Population="206338" />
+    <city_element ID="308" Name="Juazeiro" CountryCode="BRA" District="Bahia" Population="201073" />
+    <city_element ID="309" Name="Juazeiro do Norte" CountryCode="BRA" District="CearÃ¡" Population="199636" />
+    <city_element ID="310" Name="TaboÃ£o da Serra" CountryCode="BRA" District="SÃ£o Paulo" Population="197550" />
+    <city_element ID="311" Name="SÃ£o JosÃ© dos Pinhais" CountryCode="BRA" District="ParanÃ¡" Population="196884" />
+    <city_element ID="312" Name="MagÃ©" CountryCode="BRA" District="Rio de Janeiro" Population="196147" />
+    <city_element ID="313" Name="Suzano" CountryCode="BRA" District="SÃ£o Paulo" Population="195434" />
+    <city_element ID="314" Name="SÃ£o Leopoldo" CountryCode="BRA" District="Rio Grande do Sul" Population="189258" />
+    <city_element ID="315" Name="MarÃ­lia" CountryCode="BRA" District="SÃ£o Paulo" Population="188691" />
+    <city_element ID="316" Name="SÃ£o Carlos" CountryCode="BRA" District="SÃ£o Paulo" Population="187122" />
+    <city_element ID="317" Name="SumarÃ©" CountryCode="BRA" District="SÃ£o Paulo" Population="186205" />
+    <city_element ID="318" Name="Presidente Prudente" CountryCode="BRA" District="SÃ£o Paulo" Population="185340" />
+    <city_element ID="319" Name="DivinÃ³polis" CountryCode="BRA" District="Minas Gerais" Population="185047" />
+    <city_element ID="320" Name="Sete Lagoas" CountryCode="BRA" District="Minas Gerais" Population="182984" />
+    <city_element ID="321" Name="Rio Grande" CountryCode="BRA" District="Rio Grande do Sul" Population="182222" />
+    <city_element ID="322" Name="Itabuna" CountryCode="BRA" District="Bahia" Population="182148" />
+    <city_element ID="323" Name="JequiÃ©" CountryCode="BRA" District="Bahia" Population="179128" />
+    <city_element ID="324" Name="Arapiraca" CountryCode="BRA" District="Alagoas" Population="178988" />
+    <city_element ID="325" Name="Colombo" CountryCode="BRA" District="ParanÃ¡" Population="177764" />
+    <city_element ID="326" Name="Americana" CountryCode="BRA" District="SÃ£o Paulo" Population="177409" />
+    <city_element ID="327" Name="Alvorada" CountryCode="BRA" District="Rio Grande do Sul" Population="175574" />
+    <city_element ID="328" Name="Araraquara" CountryCode="BRA" District="SÃ£o Paulo" Population="174381" />
+    <city_element ID="329" Name="ItaboraÃ­" CountryCode="BRA" District="Rio de Janeiro" Population="173977" />
+    <city_element ID="330" Name="Santa BÃ¡rbara dÂ´Oeste" CountryCode="BRA" District="SÃ£o Paulo" Population="171657" />
+    <city_element ID="331" Name="Nova Friburgo" CountryCode="BRA" District="Rio de Janeiro" Population="170697" />
+    <city_element ID="332" Name="JacareÃ­" CountryCode="BRA" District="SÃ£o Paulo" Population="170356" />
+    <city_element ID="333" Name="AraÃ§atuba" CountryCode="BRA" District="SÃ£o Paulo" Population="169303" />
+    <city_element ID="334" Name="Barra Mansa" CountryCode="BRA" District="Rio de Janeiro" Population="168953" />
+    <city_element ID="335" Name="Praia Grande" CountryCode="BRA" District="SÃ£o Paulo" Population="168434" />
+    <city_element ID="336" Name="MarabÃ¡" CountryCode="BRA" District="ParÃ¡" Population="167795" />
+    <city_element ID="337" Name="CriciÃºma" CountryCode="BRA" District="Santa Catarina" Population="167661" />
+    <city_element ID="338" Name="Boa Vista" CountryCode="BRA" District="Roraima" Population="167185" />
+    <city_element ID="339" Name="Passo Fundo" CountryCode="BRA" District="Rio Grande do Sul" Population="166343" />
+    <city_element ID="340" Name="Dourados" CountryCode="BRA" District="Mato Grosso do Sul" Population="164716" />
+    <city_element ID="341" Name="Santa Luzia" CountryCode="BRA" District="Minas Gerais" Population="164704" />
+    <city_element ID="342" Name="Rio Claro" CountryCode="BRA" District="SÃ£o Paulo" Population="163551" />
+    <city_element ID="343" Name="MaracanaÃº" CountryCode="BRA" District="CearÃ¡" Population="162022" />
+    <city_element ID="344" Name="Guarapuava" CountryCode="BRA" District="ParanÃ¡" Population="160510" />
+    <city_element ID="345" Name="RondonÃ³polis" CountryCode="BRA" District="Mato Grosso" Population="155115" />
+    <city_element ID="346" Name="SÃ£o JosÃ©" CountryCode="BRA" District="Santa Catarina" Population="155105" />
+    <city_element ID="347" Name="Cachoeiro de Itapemirim" CountryCode="BRA" District="EspÃ­rito Santo" Population="155024" />
+    <city_element ID="348" Name="NilÃ³polis" CountryCode="BRA" District="Rio de Janeiro" Population="153383" />
+    <city_element ID="349" Name="Itapevi" CountryCode="BRA" District="SÃ£o Paulo" Population="150664" />
+    <city_element ID="350" Name="Cabo de Santo Agostinho" CountryCode="BRA" District="Pernambuco" Population="149964" />
+    <city_element ID="351" Name="CamaÃ§ari" CountryCode="BRA" District="Bahia" Population="149146" />
+    <city_element ID="352" Name="Sobral" CountryCode="BRA" District="CearÃ¡" Population="146005" />
+    <city_element ID="353" Name="ItajaÃ­" CountryCode="BRA" District="Santa Catarina" Population="145197" />
+    <city_element ID="354" Name="ChapecÃ³" CountryCode="BRA" District="Santa Catarina" Population="144158" />
+    <city_element ID="355" Name="Cotia" CountryCode="BRA" District="SÃ£o Paulo" Population="140042" />
+    <city_element ID="356" Name="Lages" CountryCode="BRA" District="Santa Catarina" Population="139570" />
+    <city_element ID="357" Name="Ferraz de Vasconcelos" CountryCode="BRA" District="SÃ£o Paulo" Population="139283" />
+    <city_element ID="358" Name="Indaiatuba" CountryCode="BRA" District="SÃ£o Paulo" Population="135968" />
+    <city_element ID="359" Name="HortolÃ¢ndia" CountryCode="BRA" District="SÃ£o Paulo" Population="135755" />
+    <city_element ID="360" Name="Caxias" CountryCode="BRA" District="MaranhÃ£o" Population="133980" />
+    <city_element ID="361" Name="SÃ£o Caetano do Sul" CountryCode="BRA" District="SÃ£o Paulo" Population="133321" />
+    <city_element ID="362" Name="Itu" CountryCode="BRA" District="SÃ£o Paulo" Population="132736" />
+    <city_element ID="363" Name="Nossa Senhora do Socorro" CountryCode="BRA" District="Sergipe" Population="131351" />
+    <city_element ID="364" Name="ParnaÃ­ba" CountryCode="BRA" District="PiauÃ­" Population="129756" />
+    <city_element ID="365" Name="PoÃ§os de Caldas" CountryCode="BRA" District="Minas Gerais" Population="129683" />
+    <city_element ID="366" Name="TeresÃ³polis" CountryCode="BRA" District="Rio de Janeiro" Population="128079" />
+    <city_element ID="367" Name="Barreiras" CountryCode="BRA" District="Bahia" Population="127801" />
+    <city_element ID="368" Name="Castanhal" CountryCode="BRA" District="ParÃ¡" Population="127634" />
+    <city_element ID="369" Name="Alagoinhas" CountryCode="BRA" District="Bahia" Population="126820" />
+    <city_element ID="370" Name="Itapecerica da Serra" CountryCode="BRA" District="SÃ£o Paulo" Population="126672" />
+    <city_element ID="371" Name="Uruguaiana" CountryCode="BRA" District="Rio Grande do Sul" Population="126305" />
+    <city_element ID="372" Name="ParanaguÃ¡" CountryCode="BRA" District="ParanÃ¡" Population="126076" />
+    <city_element ID="373" Name="IbiritÃ©" CountryCode="BRA" District="Minas Gerais" Population="125982" />
+    <city_element ID="374" Name="Timon" CountryCode="BRA" District="MaranhÃ£o" Population="125812" />
+    <city_element ID="375" Name="LuziÃ¢nia" CountryCode="BRA" District="GoiÃ¡s" Population="125597" />
+    <city_element ID="376" Name="MacaÃ©" CountryCode="BRA" District="Rio de Janeiro" Population="125597" />
+    <city_element ID="377" Name="TeÃ³filo Otoni" CountryCode="BRA" District="Minas Gerais" Population="124489" />
+    <city_element ID="378" Name="Moji-GuaÃ§u" CountryCode="BRA" District="SÃ£o Paulo" Population="123782" />
+    <city_element ID="379" Name="Palmas" CountryCode="BRA" District="Tocantins" Population="121919" />
+    <city_element ID="380" Name="Pindamonhangaba" CountryCode="BRA" District="SÃ£o Paulo" Population="121904" />
+    <city_element ID="381" Name="Francisco Morato" CountryCode="BRA" District="SÃ£o Paulo" Population="121197" />
+    <city_element ID="382" Name="BagÃ©" CountryCode="BRA" District="Rio Grande do Sul" Population="120793" />
+    <city_element ID="383" Name="Sapucaia do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="120217" />
+    <city_element ID="384" Name="Cabo Frio" CountryCode="BRA" District="Rio de Janeiro" Population="119503" />
+    <city_element ID="385" Name="Itapetininga" CountryCode="BRA" District="SÃ£o Paulo" Population="119391" />
+    <city_element ID="386" Name="Patos de Minas" CountryCode="BRA" District="Minas Gerais" Population="119262" />
+    <city_element ID="387" Name="Camaragibe" CountryCode="BRA" District="Pernambuco" Population="118968" />
+    <city_element ID="388" Name="BraganÃ§a Paulista" CountryCode="BRA" District="SÃ£o Paulo" Population="116929" />
+    <city_element ID="389" Name="Queimados" CountryCode="BRA" District="Rio de Janeiro" Population="115020" />
+    <city_element ID="390" Name="AraguaÃ­na" CountryCode="BRA" District="Tocantins" Population="114948" />
+    <city_element ID="391" Name="Garanhuns" CountryCode="BRA" District="Pernambuco" Population="114603" />
+    <city_element ID="392" Name="VitÃ³ria de Santo AntÃ£o" CountryCode="BRA" District="Pernambuco" Population="113595" />
+    <city_element ID="393" Name="Santa Rita" CountryCode="BRA" District="ParaÃ­ba" Population="113135" />
+    <city_element ID="394" Name="Barbacena" CountryCode="BRA" District="Minas Gerais" Population="113079" />
+    <city_element ID="395" Name="Abaetetuba" CountryCode="BRA" District="ParÃ¡" Population="111258" />
+    <city_element ID="396" Name="JaÃº" CountryCode="BRA" District="SÃ£o Paulo" Population="109965" />
+    <city_element ID="397" Name="Lauro de Freitas" CountryCode="BRA" District="Bahia" Population="109236" />
+    <city_element ID="398" Name="Franco da Rocha" CountryCode="BRA" District="SÃ£o Paulo" Population="108964" />
+    <city_element ID="399" Name="Teixeira de Freitas" CountryCode="BRA" District="Bahia" Population="108441" />
+    <city_element ID="400" Name="Varginha" CountryCode="BRA" District="Minas Gerais" Population="108314" />
+    <city_element ID="401" Name="RibeirÃ£o Pires" CountryCode="BRA" District="SÃ£o Paulo" Population="108121" />
+    <city_element ID="402" Name="SabarÃ¡" CountryCode="BRA" District="Minas Gerais" Population="107781" />
+    <city_element ID="403" Name="Catanduva" CountryCode="BRA" District="SÃ£o Paulo" Population="107761" />
+    <city_element ID="404" Name="Rio Verde" CountryCode="BRA" District="GoiÃ¡s" Population="107755" />
+    <city_element ID="405" Name="Botucatu" CountryCode="BRA" District="SÃ£o Paulo" Population="107663" />
+    <city_element ID="406" Name="Colatina" CountryCode="BRA" District="EspÃ­rito Santo" Population="107354" />
+    <city_element ID="407" Name="Santa Cruz do Sul" CountryCode="BRA" District="Rio Grande do Sul" Population="106734" />
+    <city_element ID="408" Name="Linhares" CountryCode="BRA" District="EspÃ­rito Santo" Population="106278" />
+    <city_element ID="409" Name="Apucarana" CountryCode="BRA" District="ParanÃ¡" Population="105114" />
+    <city_element ID="410" Name="Barretos" CountryCode="BRA" District="SÃ£o Paulo" Population="104156" />
+    <city_element ID="411" Name="GuaratinguetÃ¡" CountryCode="BRA" District="SÃ£o Paulo" Population="103433" />
+    <city_element ID="412" Name="Cachoeirinha" CountryCode="BRA" District="Rio Grande do Sul" Population="103240" />
+    <city_element ID="413" Name="CodÃ³" CountryCode="BRA" District="MaranhÃ£o" Population="103153" />
+    <city_element ID="414" Name="JaraguÃ¡ do Sul" CountryCode="BRA" District="Santa Catarina" Population="102580" />
+    <city_element ID="415" Name="CubatÃ£o" CountryCode="BRA" District="SÃ£o Paulo" Population="102372" />
+    <city_element ID="416" Name="Itabira" CountryCode="BRA" District="Minas Gerais" Population="102217" />
+    <city_element ID="417" Name="Itaituba" CountryCode="BRA" District="ParÃ¡" Population="101320" />
+    <city_element ID="418" Name="Araras" CountryCode="BRA" District="SÃ£o Paulo" Population="101046" />
+    <city_element ID="419" Name="Resende" CountryCode="BRA" District="Rio de Janeiro" Population="100627" />
+    <city_element ID="420" Name="Atibaia" CountryCode="BRA" District="SÃ£o Paulo" Population="100356" />
+    <city_element ID="421" Name="Pouso Alegre" CountryCode="BRA" District="Minas Gerais" Population="100028" />
+    <city_element ID="422" Name="Toledo" CountryCode="BRA" District="ParanÃ¡" Population="99387" />
+    <city_element ID="423" Name="Crato" CountryCode="BRA" District="CearÃ¡" Population="98965" />
+    <city_element ID="424" Name="Passos" CountryCode="BRA" District="Minas Gerais" Population="98570" />
+    <city_element ID="425" Name="Araguari" CountryCode="BRA" District="Minas Gerais" Population="98399" />
+    <city_element ID="426" Name="SÃ£o JosÃ© de Ribamar" CountryCode="BRA" District="MaranhÃ£o" Population="98318" />
+    <city_element ID="427" Name="Pinhais" CountryCode="BRA" District="ParanÃ¡" Population="98198" />
+    <city_element ID="428" Name="SertÃ£ozinho" CountryCode="BRA" District="SÃ£o Paulo" Population="98140" />
+    <city_element ID="429" Name="Conselheiro Lafaiete" CountryCode="BRA" District="Minas Gerais" Population="97507" />
+    <city_element ID="430" Name="Paulo Afonso" CountryCode="BRA" District="Bahia" Population="97291" />
+    <city_element ID="431" Name="Angra dos Reis" CountryCode="BRA" District="Rio de Janeiro" Population="96864" />
+    <city_element ID="432" Name="EunÃ¡polis" CountryCode="BRA" District="Bahia" Population="96610" />
+    <city_element ID="433" Name="Salto" CountryCode="BRA" District="SÃ£o Paulo" Population="96348" />
+    <city_element ID="434" Name="Ourinhos" CountryCode="BRA" District="SÃ£o Paulo" Population="96291" />
+    <city_element ID="435" Name="Parnamirim" CountryCode="BRA" District="Rio Grande do Norte" Population="96210" />
+    <city_element ID="436" Name="Jacobina" CountryCode="BRA" District="Bahia" Population="96131" />
+    <city_element ID="437" Name="Coronel Fabriciano" CountryCode="BRA" District="Minas Gerais" Population="95933" />
+    <city_element ID="438" Name="Birigui" CountryCode="BRA" District="SÃ£o Paulo" Population="94685" />
+    <city_element ID="439" Name="TatuÃ­" CountryCode="BRA" District="SÃ£o Paulo" Population="93897" />
+    <city_element ID="440" Name="Ji-ParanÃ¡" CountryCode="BRA" District="RondÃ´nia" Population="93346" />
+    <city_element ID="441" Name="Bacabal" CountryCode="BRA" District="MaranhÃ£o" Population="93121" />
+    <city_element ID="442" Name="CametÃ¡" CountryCode="BRA" District="ParÃ¡" Population="92779" />
+    <city_element ID="443" Name="GuaÃ­ba" CountryCode="BRA" District="Rio Grande do Sul" Population="92224" />
+    <city_element ID="444" Name="SÃ£o LourenÃ§o da Mata" CountryCode="BRA" District="Pernambuco" Population="91999" />
+    <city_element ID="445" Name="Santana do Livramento" CountryCode="BRA" District="Rio Grande do Sul" Population="91779" />
+    <city_element ID="446" Name="Votorantim" CountryCode="BRA" District="SÃ£o Paulo" Population="91777" />
+    <city_element ID="447" Name="Campo Largo" CountryCode="BRA" District="ParanÃ¡" Population="91203" />
+    <city_element ID="448" Name="Patos" CountryCode="BRA" District="ParaÃ­ba" Population="90519" />
+    <city_element ID="449" Name="Ituiutaba" CountryCode="BRA" District="Minas Gerais" Population="90507" />
+    <city_element ID="450" Name="CorumbÃ¡" CountryCode="BRA" District="Mato Grosso do Sul" Population="90111" />
+    <city_element ID="451" Name="PalhoÃ§a" CountryCode="BRA" District="Santa Catarina" Population="89465" />
+    <city_element ID="452" Name="Barra do PiraÃ­" CountryCode="BRA" District="Rio de Janeiro" Population="89388" />
+    <city_element ID="453" Name="Bento GonÃ§alves" CountryCode="BRA" District="Rio Grande do Sul" Population="89254" />
+    <city_element ID="454" Name="PoÃ¡" CountryCode="BRA" District="SÃ£o Paulo" Population="89236" />
+    <city_element ID="455" Name="Ãguas Lindas de GoiÃ¡s" CountryCode="BRA" District="GoiÃ¡s" Population="89200" />
+    <city_element ID="456" Name="London" CountryCode="GBR" District="England" Population="7285000" />
+    <city_element ID="457" Name="Birmingham" CountryCode="GBR" District="England" Population="1013000" />
+    <city_element ID="458" Name="Glasgow" CountryCode="GBR" District="Scotland" Population="619680" />
+    <city_element ID="459" Name="Liverpool" CountryCode="GBR" District="England" Population="461000" />
+    <city_element ID="460" Name="Edinburgh" CountryCode="GBR" District="Scotland" Population="450180" />
+    <city_element ID="461" Name="Sheffield" CountryCode="GBR" District="England" Population="431607" />
+    <city_element ID="462" Name="Manchester" CountryCode="GBR" District="England" Population="430000" />
+    <city_element ID="463" Name="Leeds" CountryCode="GBR" District="England" Population="424194" />
+    <city_element ID="464" Name="Bristol" CountryCode="GBR" District="England" Population="402000" />
+    <city_element ID="465" Name="Cardiff" CountryCode="GBR" District="Wales" Population="321000" />
+    <city_element ID="466" Name="Coventry" CountryCode="GBR" District="England" Population="304000" />
+    <city_element ID="467" Name="Leicester" CountryCode="GBR" District="England" Population="294000" />
+    <city_element ID="468" Name="Bradford" CountryCode="GBR" District="England" Population="289376" />
+    <city_element ID="469" Name="Belfast" CountryCode="GBR" District="North Ireland" Population="287500" />
+    <city_element ID="470" Name="Nottingham" CountryCode="GBR" District="England" Population="287000" />
+    <city_element ID="471" Name="Kingston upon Hull" CountryCode="GBR" District="England" Population="262000" />
+    <city_element ID="472" Name="Plymouth" CountryCode="GBR" District="England" Population="253000" />
+    <city_element ID="473" Name="Stoke-on-Trent" CountryCode="GBR" District="England" Population="252000" />
+    <city_element ID="474" Name="Wolverhampton" CountryCode="GBR" District="England" Population="242000" />
+    <city_element ID="475" Name="Derby" CountryCode="GBR" District="England" Population="236000" />
+    <city_element ID="476" Name="Swansea" CountryCode="GBR" District="Wales" Population="230000" />
+    <city_element ID="477" Name="Southampton" CountryCode="GBR" District="England" Population="216000" />
+    <city_element ID="478" Name="Aberdeen" CountryCode="GBR" District="Scotland" Population="213070" />
+    <city_element ID="479" Name="Northampton" CountryCode="GBR" District="England" Population="196000" />
+    <city_element ID="480" Name="Dudley" CountryCode="GBR" District="England" Population="192171" />
+    <city_element ID="481" Name="Portsmouth" CountryCode="GBR" District="England" Population="190000" />
+    <city_element ID="482" Name="Newcastle upon Tyne" CountryCode="GBR" District="England" Population="189150" />
+    <city_element ID="483" Name="Sunderland" CountryCode="GBR" District="England" Population="183310" />
+    <city_element ID="484" Name="Luton" CountryCode="GBR" District="England" Population="183000" />
+    <city_element ID="485" Name="Swindon" CountryCode="GBR" District="England" Population="180000" />
+    <city_element ID="486" Name="Southend-on-Sea" CountryCode="GBR" District="England" Population="176000" />
+    <city_element ID="487" Name="Walsall" CountryCode="GBR" District="England" Population="174739" />
+    <city_element ID="488" Name="Bournemouth" CountryCode="GBR" District="England" Population="162000" />
+    <city_element ID="489" Name="Peterborough" CountryCode="GBR" District="England" Population="156000" />
+    <city_element ID="490" Name="Brighton" CountryCode="GBR" District="England" Population="156124" />
+    <city_element ID="491" Name="Blackpool" CountryCode="GBR" District="England" Population="151000" />
+    <city_element ID="492" Name="Dundee" CountryCode="GBR" District="Scotland" Population="146690" />
+    <city_element ID="493" Name="West Bromwich" CountryCode="GBR" District="England" Population="146386" />
+    <city_element ID="494" Name="Reading" CountryCode="GBR" District="England" Population="148000" />
+    <city_element ID="495" Name="Oldbury/Smethwick (Warley)" CountryCode="GBR" District="England" Population="145542" />
+    <city_element ID="496" Name="Middlesbrough" CountryCode="GBR" District="England" Population="145000" />
+    <city_element ID="497" Name="Huddersfield" CountryCode="GBR" District="England" Population="143726" />
+    <city_element ID="498" Name="Oxford" CountryCode="GBR" District="England" Population="144000" />
+    <city_element ID="499" Name="Poole" CountryCode="GBR" District="England" Population="141000" />
+    <city_element ID="500" Name="Bolton" CountryCode="GBR" District="England" Population="139020" />
+    <city_element ID="501" Name="Blackburn" CountryCode="GBR" District="England" Population="140000" />
+    <city_element ID="502" Name="Newport" CountryCode="GBR" District="Wales" Population="139000" />
+    <city_element ID="503" Name="Preston" CountryCode="GBR" District="England" Population="135000" />
+    <city_element ID="504" Name="Stockport" CountryCode="GBR" District="England" Population="132813" />
+    <city_element ID="505" Name="Norwich" CountryCode="GBR" District="England" Population="124000" />
+    <city_element ID="506" Name="Rotherham" CountryCode="GBR" District="England" Population="121380" />
+    <city_element ID="507" Name="Cambridge" CountryCode="GBR" District="England" Population="121000" />
+    <city_element ID="508" Name="Watford" CountryCode="GBR" District="England" Population="113080" />
+    <city_element ID="509" Name="Ipswich" CountryCode="GBR" District="England" Population="114000" />
+    <city_element ID="510" Name="Slough" CountryCode="GBR" District="England" Population="112000" />
+    <city_element ID="511" Name="Exeter" CountryCode="GBR" District="England" Population="111000" />
+    <city_element ID="512" Name="Cheltenham" CountryCode="GBR" District="England" Population="106000" />
+    <city_element ID="513" Name="Gloucester" CountryCode="GBR" District="England" Population="107000" />
+    <city_element ID="514" Name="Saint Helens" CountryCode="GBR" District="England" Population="106293" />
+    <city_element ID="515" Name="Sutton Coldfield" CountryCode="GBR" District="England" Population="106001" />
+    <city_element ID="516" Name="York" CountryCode="GBR" District="England" Population="104425" />
+    <city_element ID="517" Name="Oldham" CountryCode="GBR" District="England" Population="103931" />
+    <city_element ID="518" Name="Basildon" CountryCode="GBR" District="England" Population="100924" />
+    <city_element ID="519" Name="Worthing" CountryCode="GBR" District="England" Population="100000" />
+    <city_element ID="520" Name="Chelmsford" CountryCode="GBR" District="England" Population="97451" />
+    <city_element ID="521" Name="Colchester" CountryCode="GBR" District="England" Population="96063" />
+    <city_element ID="522" Name="Crawley" CountryCode="GBR" District="England" Population="97000" />
+    <city_element ID="523" Name="Gillingham" CountryCode="GBR" District="England" Population="92000" />
+    <city_element ID="524" Name="Solihull" CountryCode="GBR" District="England" Population="94531" />
+    <city_element ID="525" Name="Rochdale" CountryCode="GBR" District="England" Population="94313" />
+    <city_element ID="526" Name="Birkenhead" CountryCode="GBR" District="England" Population="93087" />
+    <city_element ID="527" Name="Worcester" CountryCode="GBR" District="England" Population="95000" />
+    <city_element ID="528" Name="Hartlepool" CountryCode="GBR" District="England" Population="92000" />
+    <city_element ID="529" Name="Halifax" CountryCode="GBR" District="England" Population="91069" />
+    <city_element ID="530" Name="Woking/Byfleet" CountryCode="GBR" District="England" Population="92000" />
+    <city_element ID="531" Name="Southport" CountryCode="GBR" District="England" Population="90959" />
+    <city_element ID="532" Name="Maidstone" CountryCode="GBR" District="England" Population="90878" />
+    <city_element ID="533" Name="Eastbourne" CountryCode="GBR" District="England" Population="90000" />
+    <city_element ID="534" Name="Grimsby" CountryCode="GBR" District="England" Population="89000" />
+    <city_element ID="535" Name="Saint Helier" CountryCode="GBR" District="Jersey" Population="27523" />
+    <city_element ID="536" Name="Douglas" CountryCode="GBR" District="Â–" Population="23487" />
+    <city_element ID="537" Name="Road Town" CountryCode="VGB" District="Tortola" Population="8000" />
+    <city_element ID="538" Name="Bandar Seri Begawan" CountryCode="BRN" District="Brunei and Muara" Population="21484" />
+    <city_element ID="539" Name="Sofija" CountryCode="BGR" District="Grad Sofija" Population="1122302" />
+    <city_element ID="540" Name="Plovdiv" CountryCode="BGR" District="Plovdiv" Population="342584" />
+    <city_element ID="541" Name="Varna" CountryCode="BGR" District="Varna" Population="299801" />
+    <city_element ID="542" Name="Burgas" CountryCode="BGR" District="Burgas" Population="195255" />
+    <city_element ID="543" Name="Ruse" CountryCode="BGR" District="Ruse" Population="166467" />
+    <city_element ID="544" Name="Stara Zagora" CountryCode="BGR" District="Haskovo" Population="147939" />
+    <city_element ID="545" Name="Pleven" CountryCode="BGR" District="Lovec" Population="121952" />
+    <city_element ID="546" Name="Sliven" CountryCode="BGR" District="Burgas" Population="105530" />
+    <city_element ID="547" Name="Dobric" CountryCode="BGR" District="Varna" Population="100399" />
+    <city_element ID="548" Name="ÂŠumen" CountryCode="BGR" District="Varna" Population="94686" />
+    <city_element ID="549" Name="Ouagadougou" CountryCode="BFA" District="Kadiogo" Population="824000" />
+    <city_element ID="550" Name="Bobo-Dioulasso" CountryCode="BFA" District="Houet" Population="300000" />
+    <city_element ID="551" Name="Koudougou" CountryCode="BFA" District="BoulkiemdÃ©" Population="105000" />
+    <city_element ID="552" Name="Bujumbura" CountryCode="BDI" District="Bujumbura" Population="300000" />
+    <city_element ID="553" Name="George Town" CountryCode="CYM" District="Grand Cayman" Population="19600" />
+    <city_element ID="554" Name="Santiago de Chile" CountryCode="CHL" District="Santiago" Population="4703954" />
+    <city_element ID="555" Name="Puente Alto" CountryCode="CHL" District="Santiago" Population="386236" />
+    <city_element ID="556" Name="ViÃ±a del Mar" CountryCode="CHL" District="ValparaÃ­so" Population="312493" />
+    <city_element ID="557" Name="ValparaÃ­so" CountryCode="CHL" District="ValparaÃ­so" Population="293800" />
+    <city_element ID="558" Name="Talcahuano" CountryCode="CHL" District="BÃ­obÃ­o" Population="277752" />
+    <city_element ID="559" Name="Antofagasta" CountryCode="CHL" District="Antofagasta" Population="251429" />
+    <city_element ID="560" Name="San Bernardo" CountryCode="CHL" District="Santiago" Population="241910" />
+    <city_element ID="561" Name="Temuco" CountryCode="CHL" District="La AraucanÃ­a" Population="233041" />
+    <city_element ID="562" Name="ConcepciÃ³n" CountryCode="CHL" District="BÃ­obÃ­o" Population="217664" />
+    <city_element ID="563" Name="Rancagua" CountryCode="CHL" District="OÂ´Higgins" Population="212977" />
+    <city_element ID="564" Name="Arica" CountryCode="CHL" District="TarapacÃ¡" Population="189036" />
+    <city_element ID="565" Name="Talca" CountryCode="CHL" District="Maule" Population="187557" />
+    <city_element ID="566" Name="ChillÃ¡n" CountryCode="CHL" District="BÃ­obÃ­o" Population="178182" />
+    <city_element ID="567" Name="Iquique" CountryCode="CHL" District="TarapacÃ¡" Population="177892" />
+    <city_element ID="568" Name="Los Angeles" CountryCode="CHL" District="BÃ­obÃ­o" Population="158215" />
+    <city_element ID="569" Name="Puerto Montt" CountryCode="CHL" District="Los Lagos" Population="152194" />
+    <city_element ID="570" Name="Coquimbo" CountryCode="CHL" District="Coquimbo" Population="143353" />
+    <city_element ID="571" Name="Osorno" CountryCode="CHL" District="Los Lagos" Population="141468" />
+    <city_element ID="572" Name="La Serena" CountryCode="CHL" District="Coquimbo" Population="137409" />
+    <city_element ID="573" Name="Calama" CountryCode="CHL" District="Antofagasta" Population="137265" />
+    <city_element ID="574" Name="Valdivia" CountryCode="CHL" District="Los Lagos" Population="133106" />
+    <city_element ID="575" Name="Punta Arenas" CountryCode="CHL" District="Magallanes" Population="125631" />
+    <city_element ID="576" Name="CopiapÃ³" CountryCode="CHL" District="Atacama" Population="120128" />
+    <city_element ID="577" Name="QuilpuÃ©" CountryCode="CHL" District="ValparaÃ­so" Population="118857" />
+    <city_element ID="578" Name="CuricÃ³" CountryCode="CHL" District="Maule" Population="115766" />
+    <city_element ID="579" Name="Ovalle" CountryCode="CHL" District="Coquimbo" Population="94854" />
+    <city_element ID="580" Name="Coronel" CountryCode="CHL" District="BÃ­obÃ­o" Population="93061" />
+    <city_element ID="581" Name="San Pedro de la Paz" CountryCode="CHL" District="BÃ­obÃ­o" Population="91684" />
+    <city_element ID="582" Name="Melipilla" CountryCode="CHL" District="Santiago" Population="91056" />
+    <city_element ID="583" Name="Avarua" CountryCode="COK" District="Rarotonga" Population="11900" />
+    <city_element ID="584" Name="San JosÃ©" CountryCode="CRI" District="San JosÃ©" Population="339131" />
+    <city_element ID="585" Name="Djibouti" CountryCode="DJI" District="Djibouti" Population="383000" />
+    <city_element ID="586" Name="Roseau" CountryCode="DMA" District="St George" Population="16243" />
+    <city_element ID="587" Name="Santo Domingo de GuzmÃ¡n" CountryCode="DOM" District="Distrito Nacional" Population="1609966" />
+    <city_element ID="588" Name="Santiago de los Caballeros" CountryCode="DOM" District="Santiago" Population="365463" />
+    <city_element ID="589" Name="La Romana" CountryCode="DOM" District="La Romana" Population="140204" />
+    <city_element ID="590" Name="San Pedro de MacorÃ­s" CountryCode="DOM" District="San Pedro de MacorÃ­" Population="124735" />
+    <city_element ID="591" Name="San Francisco de MacorÃ­s" CountryCode="DOM" District="Duarte" Population="108485" />
+    <city_element ID="592" Name="San Felipe de Puerto Plata" CountryCode="DOM" District="Puerto Plata" Population="89423" />
+    <city_element ID="593" Name="Guayaquil" CountryCode="ECU" District="Guayas" Population="2070040" />
+    <city_element ID="594" Name="Quito" CountryCode="ECU" District="Pichincha" Population="1573458" />
+    <city_element ID="595" Name="Cuenca" CountryCode="ECU" District="Azuay" Population="270353" />
+    <city_element ID="596" Name="Machala" CountryCode="ECU" District="El Oro" Population="210368" />
+    <city_element ID="597" Name="Santo Domingo de los Colorados" CountryCode="ECU" District="Pichincha" Population="202111" />
+    <city_element ID="598" Name="Portoviejo" CountryCode="ECU" District="ManabÃ­" Population="176413" />
+    <city_element ID="599" Name="Ambato" CountryCode="ECU" District="Tungurahua" Population="169612" />
+    <city_element ID="600" Name="Manta" CountryCode="ECU" District="ManabÃ­" Population="164739" />
+    <city_element ID="601" Name="Duran [Eloy Alfaro]" CountryCode="ECU" District="Guayas" Population="152514" />
+    <city_element ID="602" Name="Ibarra" CountryCode="ECU" District="Imbabura" Population="130643" />
+    <city_element ID="603" Name="Quevedo" CountryCode="ECU" District="Los RÃ­os" Population="129631" />
+    <city_element ID="604" Name="Milagro" CountryCode="ECU" District="Guayas" Population="124177" />
+    <city_element ID="605" Name="Loja" CountryCode="ECU" District="Loja" Population="123875" />
+    <city_element ID="606" Name="RÃ­obamba" CountryCode="ECU" District="Chimborazo" Population="123163" />
+    <city_element ID="607" Name="Esmeraldas" CountryCode="ECU" District="Esmeraldas" Population="123045" />
+    <city_element ID="608" Name="Cairo" CountryCode="EGY" District="Kairo" Population="6789479" />
+    <city_element ID="609" Name="Alexandria" CountryCode="EGY" District="Aleksandria" Population="3328196" />
+    <city_element ID="610" Name="Giza" CountryCode="EGY" District="Giza" Population="2221868" />
+    <city_element ID="611" Name="Shubra al-Khayma" CountryCode="EGY" District="al-Qalyubiya" Population="870716" />
+    <city_element ID="612" Name="Port Said" CountryCode="EGY" District="Port Said" Population="469533" />
+    <city_element ID="613" Name="Suez" CountryCode="EGY" District="Suez" Population="417610" />
+    <city_element ID="614" Name="al-Mahallat al-Kubra" CountryCode="EGY" District="al-Gharbiya" Population="395402" />
+    <city_element ID="615" Name="Tanta" CountryCode="EGY" District="al-Gharbiya" Population="371010" />
+    <city_element ID="616" Name="al-Mansura" CountryCode="EGY" District="al-Daqahliya" Population="369621" />
+    <city_element ID="617" Name="Luxor" CountryCode="EGY" District="Luxor" Population="360503" />
+    <city_element ID="618" Name="Asyut" CountryCode="EGY" District="Asyut" Population="343498" />
+    <city_element ID="619" Name="Bahtim" CountryCode="EGY" District="al-Qalyubiya" Population="275807" />
+    <city_element ID="620" Name="Zagazig" CountryCode="EGY" District="al-Sharqiya" Population="267351" />
+    <city_element ID="621" Name="al-Faiyum" CountryCode="EGY" District="al-Faiyum" Population="260964" />
+    <city_element ID="622" Name="Ismailia" CountryCode="EGY" District="Ismailia" Population="254477" />
+    <city_element ID="623" Name="Kafr al-Dawwar" CountryCode="EGY" District="al-Buhayra" Population="231978" />
+    <city_element ID="624" Name="Assuan" CountryCode="EGY" District="Assuan" Population="219017" />
+    <city_element ID="625" Name="Damanhur" CountryCode="EGY" District="al-Buhayra" Population="212203" />
+    <city_element ID="626" Name="al-Minya" CountryCode="EGY" District="al-Minya" Population="201360" />
+    <city_element ID="627" Name="Bani Suwayf" CountryCode="EGY" District="Bani Suwayf" Population="172032" />
+    <city_element ID="628" Name="Qina" CountryCode="EGY" District="Qina" Population="171275" />
+    <city_element ID="629" Name="Sawhaj" CountryCode="EGY" District="Sawhaj" Population="170125" />
+    <city_element ID="630" Name="Shibin al-Kawm" CountryCode="EGY" District="al-Minufiya" Population="159909" />
+    <city_element ID="631" Name="Bulaq al-Dakrur" CountryCode="EGY" District="Giza" Population="148787" />
+    <city_element ID="632" Name="Banha" CountryCode="EGY" District="al-Qalyubiya" Population="145792" />
+    <city_element ID="633" Name="Warraq al-Arab" CountryCode="EGY" District="Giza" Population="127108" />
+    <city_element ID="634" Name="Kafr al-Shaykh" CountryCode="EGY" District="Kafr al-Shaykh" Population="124819" />
+    <city_element ID="635" Name="Mallawi" CountryCode="EGY" District="al-Minya" Population="119283" />
+    <city_element ID="636" Name="Bilbays" CountryCode="EGY" District="al-Sharqiya" Population="113608" />
+    <city_element ID="637" Name="Mit Ghamr" CountryCode="EGY" District="al-Daqahliya" Population="101801" />
+    <city_element ID="638" Name="al-Arish" CountryCode="EGY" District="Shamal Sina" Population="100447" />
+    <city_element ID="639" Name="Talkha" CountryCode="EGY" District="al-Daqahliya" Population="97700" />
+    <city_element ID="640" Name="Qalyub" CountryCode="EGY" District="al-Qalyubiya" Population="97200" />
+    <city_element ID="641" Name="Jirja" CountryCode="EGY" District="Sawhaj" Population="95400" />
+    <city_element ID="642" Name="Idfu" CountryCode="EGY" District="Qina" Population="94200" />
+    <city_element ID="643" Name="al-Hawamidiya" CountryCode="EGY" District="Giza" Population="91700" />
+    <city_element ID="644" Name="Disuq" CountryCode="EGY" District="Kafr al-Shaykh" Population="91300" />
+    <city_element ID="645" Name="San Salvador" CountryCode="SLV" District="San Salvador" Population="415346" />
+    <city_element ID="646" Name="Santa Ana" CountryCode="SLV" District="Santa Ana" Population="139389" />
+    <city_element ID="647" Name="Mejicanos" CountryCode="SLV" District="San Salvador" Population="138800" />
+    <city_element ID="648" Name="Soyapango" CountryCode="SLV" District="San Salvador" Population="129800" />
+    <city_element ID="649" Name="San Miguel" CountryCode="SLV" District="San Miguel" Population="127696" />
+    <city_element ID="650" Name="Nueva San Salvador" CountryCode="SLV" District="La Libertad" Population="98400" />
+    <city_element ID="651" Name="Apopa" CountryCode="SLV" District="San Salvador" Population="88800" />
+    <city_element ID="652" Name="Asmara" CountryCode="ERI" District="Maekel" Population="431000" />
+    <city_element ID="653" Name="Madrid" CountryCode="ESP" District="Madrid" Population="2879052" />
+    <city_element ID="654" Name="Barcelona" CountryCode="ESP" District="Katalonia" Population="1503451" />
+    <city_element ID="655" Name="Valencia" CountryCode="ESP" District="Valencia" Population="739412" />
+    <city_element ID="656" Name="Sevilla" CountryCode="ESP" District="Andalusia" Population="701927" />
+    <city_element ID="657" Name="Zaragoza" CountryCode="ESP" District="Aragonia" Population="603367" />
+    <city_element ID="658" Name="MÃ¡laga" CountryCode="ESP" District="Andalusia" Population="530553" />
+    <city_element ID="659" Name="Bilbao" CountryCode="ESP" District="Baskimaa" Population="357589" />
+    <city_element ID="660" Name="Las Palmas de Gran Canaria" CountryCode="ESP" District="Canary Islands" Population="354757" />
+    <city_element ID="661" Name="Murcia" CountryCode="ESP" District="Murcia" Population="353504" />
+    <city_element ID="662" Name="Palma de Mallorca" CountryCode="ESP" District="Balears" Population="326993" />
+    <city_element ID="663" Name="Valladolid" CountryCode="ESP" District="Castilla and LeÃ³n" Population="319998" />
+    <city_element ID="664" Name="CÃ³rdoba" CountryCode="ESP" District="Andalusia" Population="311708" />
+    <city_element ID="665" Name="Vigo" CountryCode="ESP" District="Galicia" Population="283670" />
+    <city_element ID="666" Name="Alicante [Alacant]" CountryCode="ESP" District="Valencia" Population="272432" />
+    <city_element ID="667" Name="GijÃ³n" CountryCode="ESP" District="Asturia" Population="267980" />
+    <city_element ID="668" Name="LÂ´Hospitalet de Llobregat" CountryCode="ESP" District="Katalonia" Population="247986" />
+    <city_element ID="669" Name="Granada" CountryCode="ESP" District="Andalusia" Population="244767" />
+    <city_element ID="670" Name="A CoruÃ±a (La CoruÃ±a)" CountryCode="ESP" District="Galicia" Population="243402" />
+    <city_element ID="671" Name="Vitoria-Gasteiz" CountryCode="ESP" District="Baskimaa" Population="217154" />
+    <city_element ID="672" Name="Santa Cruz de Tenerife" CountryCode="ESP" District="Canary Islands" Population="213050" />
+    <city_element ID="673" Name="Badalona" CountryCode="ESP" District="Katalonia" Population="209635" />
+    <city_element ID="674" Name="Oviedo" CountryCode="ESP" District="Asturia" Population="200453" />
+    <city_element ID="675" Name="MÃ³stoles" CountryCode="ESP" District="Madrid" Population="195351" />
+    <city_element ID="676" Name="Elche [Elx]" CountryCode="ESP" District="Valencia" Population="193174" />
+    <city_element ID="677" Name="Sabadell" CountryCode="ESP" District="Katalonia" Population="184859" />
+    <city_element ID="678" Name="Santander" CountryCode="ESP" District="Cantabria" Population="184165" />
+    <city_element ID="679" Name="Jerez de la Frontera" CountryCode="ESP" District="Andalusia" Population="182660" />
+    <city_element ID="680" Name="Pamplona [IruÃ±a]" CountryCode="ESP" District="Navarra" Population="180483" />
+    <city_element ID="681" Name="Donostia-San SebastiÃ¡n" CountryCode="ESP" District="Baskimaa" Population="179208" />
+    <city_element ID="682" Name="Cartagena" CountryCode="ESP" District="Murcia" Population="177709" />
+    <city_element ID="683" Name="LeganÃ©s" CountryCode="ESP" District="Madrid" Population="173163" />
+    <city_element ID="684" Name="Fuenlabrada" CountryCode="ESP" District="Madrid" Population="171173" />
+    <city_element ID="685" Name="AlmerÃ­a" CountryCode="ESP" District="Andalusia" Population="169027" />
+    <city_element ID="686" Name="Terrassa" CountryCode="ESP" District="Katalonia" Population="168695" />
+    <city_element ID="687" Name="AlcalÃ¡ de Henares" CountryCode="ESP" District="Madrid" Population="164463" />
+    <city_element ID="688" Name="Burgos" CountryCode="ESP" District="Castilla and LeÃ³n" Population="162802" />
+    <city_element ID="689" Name="Salamanca" CountryCode="ESP" District="Castilla and LeÃ³n" Population="158720" />
+    <city_element ID="690" Name="Albacete" CountryCode="ESP" District="Kastilia-La Mancha" Population="147527" />
+    <city_element ID="691" Name="Getafe" CountryCode="ESP" District="Madrid" Population="145371" />
+    <city_element ID="692" Name="CÃ¡diz" CountryCode="ESP" District="Andalusia" Population="142449" />
+    <city_element ID="693" Name="AlcorcÃ³n" CountryCode="ESP" District="Madrid" Population="142048" />
+    <city_element ID="694" Name="Huelva" CountryCode="ESP" District="Andalusia" Population="140583" />
+    <city_element ID="695" Name="LeÃ³n" CountryCode="ESP" District="Castilla and LeÃ³n" Population="139809" />
+    <city_element ID="696" Name="CastellÃ³n de la Plana [Castell" CountryCode="ESP" District="Valencia" Population="139712" />
+    <city_element ID="697" Name="Badajoz" CountryCode="ESP" District="Extremadura" Population="136613" />
+    <city_element ID="698" Name="[San CristÃ³bal de] la Laguna" CountryCode="ESP" District="Canary Islands" Population="127945" />
+    <city_element ID="699" Name="LogroÃ±o" CountryCode="ESP" District="La Rioja" Population="127093" />
+    <city_element ID="700" Name="Santa Coloma de Gramenet" CountryCode="ESP" District="Katalonia" Population="120802" />
+    <city_element ID="701" Name="Tarragona" CountryCode="ESP" District="Katalonia" Population="113016" />
+    <city_element ID="702" Name="Lleida (LÃ©rida)" CountryCode="ESP" District="Katalonia" Population="112207" />
+    <city_element ID="703" Name="JaÃ©n" CountryCode="ESP" District="Andalusia" Population="109247" />
+    <city_element ID="704" Name="Ourense (Orense)" CountryCode="ESP" District="Galicia" Population="109120" />
+    <city_element ID="705" Name="MatarÃ³" CountryCode="ESP" District="Katalonia" Population="104095" />
+    <city_element ID="706" Name="Algeciras" CountryCode="ESP" District="Andalusia" Population="103106" />
+    <city_element ID="707" Name="Marbella" CountryCode="ESP" District="Andalusia" Population="101144" />
+    <city_element ID="708" Name="Barakaldo" CountryCode="ESP" District="Baskimaa" Population="98212" />
+    <city_element ID="709" Name="Dos Hermanas" CountryCode="ESP" District="Andalusia" Population="94591" />
+    <city_element ID="710" Name="Santiago de Compostela" CountryCode="ESP" District="Galicia" Population="93745" />
+    <city_element ID="711" Name="TorrejÃ³n de Ardoz" CountryCode="ESP" District="Madrid" Population="92262" />
+    <city_element ID="712" Name="Cape Town" CountryCode="ZAF" District="Western Cape" Population="2352121" />
+    <city_element ID="713" Name="Soweto" CountryCode="ZAF" District="Gauteng" Population="904165" />
+    <city_element ID="714" Name="Johannesburg" CountryCode="ZAF" District="Gauteng" Population="756653" />
+    <city_element ID="715" Name="Port Elizabeth" CountryCode="ZAF" District="Eastern Cape" Population="752319" />
+    <city_element ID="716" Name="Pretoria" CountryCode="ZAF" District="Gauteng" Population="658630" />
+    <city_element ID="717" Name="Inanda" CountryCode="ZAF" District="KwaZulu-Natal" Population="634065" />
+    <city_element ID="718" Name="Durban" CountryCode="ZAF" District="KwaZulu-Natal" Population="566120" />
+    <city_element ID="719" Name="Vanderbijlpark" CountryCode="ZAF" District="Gauteng" Population="468931" />
+    <city_element ID="720" Name="Kempton Park" CountryCode="ZAF" District="Gauteng" Population="442633" />
+    <city_element ID="721" Name="Alberton" CountryCode="ZAF" District="Gauteng" Population="410102" />
+    <city_element ID="722" Name="Pinetown" CountryCode="ZAF" District="KwaZulu-Natal" Population="378810" />
+    <city_element ID="723" Name="Pietermaritzburg" CountryCode="ZAF" District="KwaZulu-Natal" Population="370190" />
+    <city_element ID="724" Name="Benoni" CountryCode="ZAF" District="Gauteng" Population="365467" />
+    <city_element ID="725" Name="Randburg" CountryCode="ZAF" District="Gauteng" Population="341288" />
+    <city_element ID="726" Name="Umlazi" CountryCode="ZAF" District="KwaZulu-Natal" Population="339233" />
+    <city_element ID="727" Name="Bloemfontein" CountryCode="ZAF" District="Free State" Population="334341" />
+    <city_element ID="728" Name="Vereeniging" CountryCode="ZAF" District="Gauteng" Population="328535" />
+    <city_element ID="729" Name="Wonderboom" CountryCode="ZAF" District="Gauteng" Population="283289" />
+    <city_element ID="730" Name="Roodepoort" CountryCode="ZAF" District="Gauteng" Population="279340" />
+    <city_element ID="731" Name="Boksburg" CountryCode="ZAF" District="Gauteng" Population="262648" />
+    <city_element ID="732" Name="Klerksdorp" CountryCode="ZAF" District="North West" Population="261911" />
+    <city_element ID="733" Name="Soshanguve" CountryCode="ZAF" District="Gauteng" Population="242727" />
+    <city_element ID="734" Name="Newcastle" CountryCode="ZAF" District="KwaZulu-Natal" Population="222993" />
+    <city_element ID="735" Name="East London" CountryCode="ZAF" District="Eastern Cape" Population="221047" />
+    <city_element ID="736" Name="Welkom" CountryCode="ZAF" District="Free State" Population="203296" />
+    <city_element ID="737" Name="Kimberley" CountryCode="ZAF" District="Northern Cape" Population="197254" />
+    <city_element ID="738" Name="Uitenhage" CountryCode="ZAF" District="Eastern Cape" Population="192120" />
+    <city_element ID="739" Name="Chatsworth" CountryCode="ZAF" District="KwaZulu-Natal" Population="189885" />
+    <city_element ID="740" Name="Mdantsane" CountryCode="ZAF" District="Eastern Cape" Population="182639" />
+    <city_element ID="741" Name="Krugersdorp" CountryCode="ZAF" District="Gauteng" Population="181503" />
+    <city_element ID="742" Name="Botshabelo" CountryCode="ZAF" District="Free State" Population="177971" />
+    <city_element ID="743" Name="Brakpan" CountryCode="ZAF" District="Gauteng" Population="171363" />
+    <city_element ID="744" Name="Witbank" CountryCode="ZAF" District="Mpumalanga" Population="167183" />
+    <city_element ID="745" Name="Oberholzer" CountryCode="ZAF" District="Gauteng" Population="164367" />
+    <city_element ID="746" Name="Germiston" CountryCode="ZAF" District="Gauteng" Population="164252" />
+    <city_element ID="747" Name="Springs" CountryCode="ZAF" District="Gauteng" Population="162072" />
+    <city_element ID="748" Name="Westonaria" CountryCode="ZAF" District="Gauteng" Population="159632" />
+    <city_element ID="749" Name="Randfontein" CountryCode="ZAF" District="Gauteng" Population="120838" />
+    <city_element ID="750" Name="Paarl" CountryCode="ZAF" District="Western Cape" Population="105768" />
+    <city_element ID="751" Name="Potchefstroom" CountryCode="ZAF" District="North West" Population="101817" />
+    <city_element ID="752" Name="Rustenburg" CountryCode="ZAF" District="North West" Population="97008" />
+    <city_element ID="753" Name="Nigel" CountryCode="ZAF" District="Gauteng" Population="96734" />
+    <city_element ID="754" Name="George" CountryCode="ZAF" District="Western Cape" Population="93818" />
+    <city_element ID="755" Name="Ladysmith" CountryCode="ZAF" District="KwaZulu-Natal" Population="89292" />
+    <city_element ID="756" Name="Addis Abeba" CountryCode="ETH" District="Addis Abeba" Population="2495000" />
+    <city_element ID="757" Name="Dire Dawa" CountryCode="ETH" District="Dire Dawa" Population="164851" />
+    <city_element ID="758" Name="Nazret" CountryCode="ETH" District="Oromia" Population="127842" />
+    <city_element ID="759" Name="Gonder" CountryCode="ETH" District="Amhara" Population="112249" />
+    <city_element ID="760" Name="Dese" CountryCode="ETH" District="Amhara" Population="97314" />
+    <city_element ID="761" Name="Mekele" CountryCode="ETH" District="Tigray" Population="96938" />
+    <city_element ID="762" Name="Bahir Dar" CountryCode="ETH" District="Amhara" Population="96140" />
+    <city_element ID="763" Name="Stanley" CountryCode="FLK" District="East Falkland" Population="1636" />
+    <city_element ID="764" Name="Suva" CountryCode="FJI" District="Central" Population="77366" />
+    <city_element ID="765" Name="Quezon" CountryCode="PHL" District="National Capital Reg" Population="2173831" />
+    <city_element ID="766" Name="Manila" CountryCode="PHL" District="National Capital Reg" Population="1581082" />
+    <city_element ID="767" Name="Kalookan" CountryCode="PHL" District="National Capital Reg" Population="1177604" />
+    <city_element ID="768" Name="Davao" CountryCode="PHL" District="Southern Mindanao" Population="1147116" />
+    <city_element ID="769" Name="Cebu" CountryCode="PHL" District="Central Visayas" Population="718821" />
+    <city_element ID="770" Name="Zamboanga" CountryCode="PHL" District="Western Mindanao" Population="601794" />
+    <city_element ID="771" Name="Pasig" CountryCode="PHL" District="National Capital Reg" Population="505058" />
+    <city_element ID="772" Name="Valenzuela" CountryCode="PHL" District="National Capital Reg" Population="485433" />
+    <city_element ID="773" Name="Las PiÃ±as" CountryCode="PHL" District="National Capital Reg" Population="472780" />
+    <city_element ID="774" Name="Antipolo" CountryCode="PHL" District="Southern Tagalog" Population="470866" />
+    <city_element ID="775" Name="Taguig" CountryCode="PHL" District="National Capital Reg" Population="467375" />
+    <city_element ID="776" Name="Cagayan de Oro" CountryCode="PHL" District="Northern Mindanao" Population="461877" />
+    <city_element ID="777" Name="ParaÃ±aque" CountryCode="PHL" District="National Capital Reg" Population="449811" />
+    <city_element ID="778" Name="Makati" CountryCode="PHL" District="National Capital Reg" Population="444867" />
+    <city_element ID="779" Name="Bacolod" CountryCode="PHL" District="Western Visayas" Population="429076" />
+    <city_element ID="780" Name="General Santos" CountryCode="PHL" District="Southern Mindanao" Population="411822" />
+    <city_element ID="781" Name="Marikina" CountryCode="PHL" District="National Capital Reg" Population="391170" />
+    <city_element ID="782" Name="DasmariÃ±as" CountryCode="PHL" District="Southern Tagalog" Population="379520" />
+    <city_element ID="783" Name="Muntinlupa" CountryCode="PHL" District="National Capital Reg" Population="379310" />
+    <city_element ID="784" Name="Iloilo" CountryCode="PHL" District="Western Visayas" Population="365820" />
+    <city_element ID="785" Name="Pasay" CountryCode="PHL" District="National Capital Reg" Population="354908" />
+    <city_element ID="786" Name="Malabon" CountryCode="PHL" District="National Capital Reg" Population="338855" />
+    <city_element ID="787" Name="San JosÃ© del Monte" CountryCode="PHL" District="Central Luzon" Population="315807" />
+    <city_element ID="788" Name="Bacoor" CountryCode="PHL" District="Southern Tagalog" Population="305699" />
+    <city_element ID="789" Name="Iligan" CountryCode="PHL" District="Central Mindanao" Population="285061" />
+    <city_element ID="790" Name="Calamba" CountryCode="PHL" District="Southern Tagalog" Population="281146" />
+    <city_element ID="791" Name="Mandaluyong" CountryCode="PHL" District="National Capital Reg" Population="278474" />
+    <city_element ID="792" Name="Butuan" CountryCode="PHL" District="Caraga" Population="267279" />
+    <city_element ID="793" Name="Angeles" CountryCode="PHL" District="Central Luzon" Population="263971" />
+    <city_element ID="794" Name="Tarlac" CountryCode="PHL" District="Central Luzon" Population="262481" />
+    <city_element ID="795" Name="Mandaue" CountryCode="PHL" District="Central Visayas" Population="259728" />
+    <city_element ID="796" Name="Baguio" CountryCode="PHL" District="CAR" Population="252386" />
+    <city_element ID="797" Name="Batangas" CountryCode="PHL" District="Southern Tagalog" Population="247588" />
+    <city_element ID="798" Name="Cainta" CountryCode="PHL" District="Southern Tagalog" Population="242511" />
+    <city_element ID="799" Name="San Pedro" CountryCode="PHL" District="Southern Tagalog" Population="231403" />
+    <city_element ID="800" Name="Navotas" CountryCode="PHL" District="National Capital Reg" Population="230403" />
+    <city_element ID="801" Name="Cabanatuan" CountryCode="PHL" District="Central Luzon" Population="222859" />
+    <city_element ID="802" Name="San Fernando" CountryCode="PHL" District="Central Luzon" Population="221857" />
+    <city_element ID="803" Name="Lipa" CountryCode="PHL" District="Southern Tagalog" Population="218447" />
+    <city_element ID="804" Name="Lapu-Lapu" CountryCode="PHL" District="Central Visayas" Population="217019" />
+    <city_element ID="805" Name="San Pablo" CountryCode="PHL" District="Southern Tagalog" Population="207927" />
+    <city_element ID="806" Name="BiÃ±an" CountryCode="PHL" District="Southern Tagalog" Population="201186" />
+    <city_element ID="807" Name="Taytay" CountryCode="PHL" District="Southern Tagalog" Population="198183" />
+    <city_element ID="808" Name="Lucena" CountryCode="PHL" District="Southern Tagalog" Population="196075" />
+    <city_element ID="809" Name="Imus" CountryCode="PHL" District="Southern Tagalog" Population="195482" />
+    <city_element ID="810" Name="Olongapo" CountryCode="PHL" District="Central Luzon" Population="194260" />
+    <city_element ID="811" Name="Binangonan" CountryCode="PHL" District="Southern Tagalog" Population="187691" />
+    <city_element ID="812" Name="Santa Rosa" CountryCode="PHL" District="Southern Tagalog" Population="185633" />
+    <city_element ID="813" Name="Tagum" CountryCode="PHL" District="Southern Mindanao" Population="179531" />
+    <city_element ID="814" Name="Tacloban" CountryCode="PHL" District="Eastern Visayas" Population="178639" />
+    <city_element ID="815" Name="Malolos" CountryCode="PHL" District="Central Luzon" Population="175291" />
+    <city_element ID="816" Name="Mabalacat" CountryCode="PHL" District="Central Luzon" Population="171045" />
+    <city_element ID="817" Name="Cotabato" CountryCode="PHL" District="Central Mindanao" Population="163849" />
+    <city_element ID="818" Name="Meycauayan" CountryCode="PHL" District="Central Luzon" Population="163037" />
+    <city_element ID="819" Name="Puerto Princesa" CountryCode="PHL" District="Southern Tagalog" Population="161912" />
+    <city_element ID="820" Name="Legazpi" CountryCode="PHL" District="Bicol" Population="157010" />
+    <city_element ID="821" Name="Silang" CountryCode="PHL" District="Southern Tagalog" Population="156137" />
+    <city_element ID="822" Name="Ormoc" CountryCode="PHL" District="Eastern Visayas" Population="154297" />
+    <city_element ID="823" Name="San Carlos" CountryCode="PHL" District="Ilocos" Population="154264" />
+    <city_element ID="824" Name="Kabankalan" CountryCode="PHL" District="Western Visayas" Population="149769" />
+    <city_element ID="825" Name="Talisay" CountryCode="PHL" District="Central Visayas" Population="148110" />
+    <city_element ID="826" Name="Valencia" CountryCode="PHL" District="Northern Mindanao" Population="147924" />
+    <city_element ID="827" Name="Calbayog" CountryCode="PHL" District="Eastern Visayas" Population="147187" />
+    <city_element ID="828" Name="Santa Maria" CountryCode="PHL" District="Central Luzon" Population="144282" />
+    <city_element ID="829" Name="Pagadian" CountryCode="PHL" District="Western Mindanao" Population="142515" />
+    <city_element ID="830" Name="Cadiz" CountryCode="PHL" District="Western Visayas" Population="141954" />
+    <city_element ID="831" Name="Bago" CountryCode="PHL" District="Western Visayas" Population="141721" />
+    <city_element ID="832" Name="Toledo" CountryCode="PHL" District="Central Visayas" Population="141174" />
+    <city_element ID="833" Name="Naga" CountryCode="PHL" District="Bicol" Population="137810" />
+    <city_element ID="834" Name="San Mateo" CountryCode="PHL" District="Southern Tagalog" Population="135603" />
+    <city_element ID="835" Name="Panabo" CountryCode="PHL" District="Southern Mindanao" Population="133950" />
+    <city_element ID="836" Name="Koronadal" CountryCode="PHL" District="Southern Mindanao" Population="133786" />
+    <city_element ID="837" Name="Marawi" CountryCode="PHL" District="Central Mindanao" Population="131090" />
+    <city_element ID="838" Name="Dagupan" CountryCode="PHL" District="Ilocos" Population="130328" />
+    <city_element ID="839" Name="Sagay" CountryCode="PHL" District="Western Visayas" Population="129765" />
+    <city_element ID="840" Name="Roxas" CountryCode="PHL" District="Western Visayas" Population="126352" />
+    <city_element ID="841" Name="Lubao" CountryCode="PHL" District="Central Luzon" Population="125699" />
+    <city_element ID="842" Name="Digos" CountryCode="PHL" District="Southern Mindanao" Population="125171" />
+    <city_element ID="843" Name="San Miguel" CountryCode="PHL" District="Central Luzon" Population="123824" />
+    <city_element ID="844" Name="Malaybalay" CountryCode="PHL" District="Northern Mindanao" Population="123672" />
+    <city_element ID="845" Name="Tuguegarao" CountryCode="PHL" District="Cagayan Valley" Population="120645" />
+    <city_element ID="846" Name="Ilagan" CountryCode="PHL" District="Cagayan Valley" Population="119990" />
+    <city_element ID="847" Name="Baliuag" CountryCode="PHL" District="Central Luzon" Population="119675" />
+    <city_element ID="848" Name="Surigao" CountryCode="PHL" District="Caraga" Population="118534" />
+    <city_element ID="849" Name="San Carlos" CountryCode="PHL" District="Western Visayas" Population="118259" />
+    <city_element ID="850" Name="San Juan del Monte" CountryCode="PHL" District="National Capital Reg" Population="117680" />
+    <city_element ID="851" Name="Tanauan" CountryCode="PHL" District="Southern Tagalog" Population="117539" />
+    <city_element ID="852" Name="Concepcion" CountryCode="PHL" District="Central Luzon" Population="115171" />
+    <city_element ID="853" Name="Rodriguez (Montalban)" CountryCode="PHL" District="Southern Tagalog" Population="115167" />
+    <city_element ID="854" Name="Sariaya" CountryCode="PHL" District="Southern Tagalog" Population="114568" />
+    <city_element ID="855" Name="Malasiqui" CountryCode="PHL" District="Ilocos" Population="113190" />
+    <city_element ID="856" Name="General Mariano Alvarez" CountryCode="PHL" District="Southern Tagalog" Population="112446" />
+    <city_element ID="857" Name="Urdaneta" CountryCode="PHL" District="Ilocos" Population="111582" />
+    <city_element ID="858" Name="Hagonoy" CountryCode="PHL" District="Central Luzon" Population="111425" />
+    <city_element ID="859" Name="San Jose" CountryCode="PHL" District="Southern Tagalog" Population="111009" />
+    <city_element ID="860" Name="Polomolok" CountryCode="PHL" District="Southern Mindanao" Population="110709" />
+    <city_element ID="861" Name="Santiago" CountryCode="PHL" District="Cagayan Valley" Population="110531" />
+    <city_element ID="862" Name="Tanza" CountryCode="PHL" District="Southern Tagalog" Population="110517" />
+    <city_element ID="863" Name="Ozamis" CountryCode="PHL" District="Northern Mindanao" Population="110420" />
+    <city_element ID="864" Name="Mexico" CountryCode="PHL" District="Central Luzon" Population="109481" />
+    <city_element ID="865" Name="San Jose" CountryCode="PHL" District="Central Luzon" Population="108254" />
+    <city_element ID="866" Name="Silay" CountryCode="PHL" District="Western Visayas" Population="107722" />
+    <city_element ID="867" Name="General Trias" CountryCode="PHL" District="Southern Tagalog" Population="107691" />
+    <city_element ID="868" Name="Tabaco" CountryCode="PHL" District="Bicol" Population="107166" />
+    <city_element ID="869" Name="Cabuyao" CountryCode="PHL" District="Southern Tagalog" Population="106630" />
+    <city_element ID="870" Name="Calapan" CountryCode="PHL" District="Southern Tagalog" Population="105910" />
+    <city_element ID="871" Name="Mati" CountryCode="PHL" District="Southern Mindanao" Population="105908" />
+    <city_element ID="872" Name="Midsayap" CountryCode="PHL" District="Central Mindanao" Population="105760" />
+    <city_element ID="873" Name="Cauayan" CountryCode="PHL" District="Cagayan Valley" Population="103952" />
+    <city_element ID="874" Name="Gingoog" CountryCode="PHL" District="Northern Mindanao" Population="102379" />
+    <city_element ID="875" Name="Dumaguete" CountryCode="PHL" District="Central Visayas" Population="102265" />
+    <city_element ID="876" Name="San Fernando" CountryCode="PHL" District="Ilocos" Population="102082" />
+    <city_element ID="877" Name="Arayat" CountryCode="PHL" District="Central Luzon" Population="101792" />
+    <city_element ID="878" Name="Bayawan (Tulong)" CountryCode="PHL" District="Central Visayas" Population="101391" />
+    <city_element ID="879" Name="Kidapawan" CountryCode="PHL" District="Central Mindanao" Population="101205" />
+    <city_element ID="880" Name="Daraga (Locsin)" CountryCode="PHL" District="Bicol" Population="101031" />
+    <city_element ID="881" Name="Marilao" CountryCode="PHL" District="Central Luzon" Population="101017" />
+    <city_element ID="882" Name="Malita" CountryCode="PHL" District="Southern Mindanao" Population="100000" />
+    <city_element ID="883" Name="Dipolog" CountryCode="PHL" District="Western Mindanao" Population="99862" />
+    <city_element ID="884" Name="Cavite" CountryCode="PHL" District="Southern Tagalog" Population="99367" />
+    <city_element ID="885" Name="Danao" CountryCode="PHL" District="Central Visayas" Population="98781" />
+    <city_element ID="886" Name="Bislig" CountryCode="PHL" District="Caraga" Population="97860" />
+    <city_element ID="887" Name="Talavera" CountryCode="PHL" District="Central Luzon" Population="97329" />
+    <city_element ID="888" Name="Guagua" CountryCode="PHL" District="Central Luzon" Population="96858" />
+    <city_element ID="889" Name="Bayambang" CountryCode="PHL" District="Ilocos" Population="96609" />
+    <city_element ID="890" Name="Nasugbu" CountryCode="PHL" District="Southern Tagalog" Population="96113" />
+    <city_element ID="891" Name="Baybay" CountryCode="PHL" District="Eastern Visayas" Population="95630" />
+    <city_element ID="892" Name="Capas" CountryCode="PHL" District="Central Luzon" Population="95219" />
+    <city_element ID="893" Name="Sultan Kudarat" CountryCode="PHL" District="ARMM" Population="94861" />
+    <city_element ID="894" Name="Laoag" CountryCode="PHL" District="Ilocos" Population="94466" />
+    <city_element ID="895" Name="Bayugan" CountryCode="PHL" District="Caraga" Population="93623" />
+    <city_element ID="896" Name="Malungon" CountryCode="PHL" District="Southern Mindanao" Population="93232" />
+    <city_element ID="897" Name="Santa Cruz" CountryCode="PHL" District="Southern Tagalog" Population="92694" />
+    <city_element ID="898" Name="Sorsogon" CountryCode="PHL" District="Bicol" Population="92512" />
+    <city_element ID="899" Name="Candelaria" CountryCode="PHL" District="Southern Tagalog" Population="92429" />
+    <city_element ID="900" Name="Ligao" CountryCode="PHL" District="Bicol" Population="90603" />
+    <city_element ID="901" Name="TÃ³rshavn" CountryCode="FRO" District="Streymoyar" Population="14542" />
+    <city_element ID="902" Name="Libreville" CountryCode="GAB" District="Estuaire" Population="419000" />
+    <city_element ID="903" Name="Serekunda" CountryCode="GMB" District="Kombo St Mary" Population="102600" />
+    <city_element ID="904" Name="Banjul" CountryCode="GMB" District="Banjul" Population="42326" />
+    <city_element ID="905" Name="Tbilisi" CountryCode="GEO" District="Tbilisi" Population="1235200" />
+    <city_element ID="906" Name="Kutaisi" CountryCode="GEO" District="Imereti" Population="240900" />
+    <city_element ID="907" Name="Rustavi" CountryCode="GEO" District="Kvemo Kartli" Population="155400" />
+    <city_element ID="908" Name="Batumi" CountryCode="GEO" District="Adzaria [AtÂšara]" Population="137700" />
+    <city_element ID="909" Name="Sohumi" CountryCode="GEO" District="Abhasia [Aphazeti]" Population="111700" />
+    <city_element ID="910" Name="Accra" CountryCode="GHA" District="Greater Accra" Population="1070000" />
+    <city_element ID="911" Name="Kumasi" CountryCode="GHA" District="Ashanti" Population="385192" />
+    <city_element ID="912" Name="Tamale" CountryCode="GHA" District="Northern" Population="151069" />
+    <city_element ID="913" Name="Tema" CountryCode="GHA" District="Greater Accra" Population="109975" />
+    <city_element ID="914" Name="Sekondi-Takoradi" CountryCode="GHA" District="Western" Population="103653" />
+    <city_element ID="915" Name="Gibraltar" CountryCode="GIB" District="Â–" Population="27025" />
+    <city_element ID="916" Name="Saint GeorgeÂ´s" CountryCode="GRD" District="St George" Population="4621" />
+    <city_element ID="917" Name="Nuuk" CountryCode="GRL" District="Kitaa" Population="13445" />
+    <city_element ID="918" Name="Les Abymes" CountryCode="GLP" District="Grande-Terre" Population="62947" />
+    <city_element ID="919" Name="Basse-Terre" CountryCode="GLP" District="Basse-Terre" Population="12433" />
+    <city_element ID="920" Name="Tamuning" CountryCode="GUM" District="Â–" Population="9500" />
+    <city_element ID="921" Name="AgaÃ±a" CountryCode="GUM" District="Â–" Population="1139" />
+    <city_element ID="922" Name="Ciudad de Guatemala" CountryCode="GTM" District="Guatemala" Population="823301" />
+    <city_element ID="923" Name="Mixco" CountryCode="GTM" District="Guatemala" Population="209791" />
+    <city_element ID="924" Name="Villa Nueva" CountryCode="GTM" District="Guatemala" Population="101295" />
+    <city_element ID="925" Name="Quetzaltenango" CountryCode="GTM" District="Quetzaltenango" Population="90801" />
+    <city_element ID="926" Name="Conakry" CountryCode="GIN" District="Conakry" Population="1090610" />
+    <city_element ID="927" Name="Bissau" CountryCode="GNB" District="Bissau" Population="241000" />
+    <city_element ID="928" Name="Georgetown" CountryCode="GUY" District="Georgetown" Population="254000" />
+    <city_element ID="929" Name="Port-au-Prince" CountryCode="HTI" District="Ouest" Population="884472" />
+    <city_element ID="930" Name="Carrefour" CountryCode="HTI" District="Ouest" Population="290204" />
+    <city_element ID="931" Name="Delmas" CountryCode="HTI" District="Ouest" Population="240429" />
+    <city_element ID="932" Name="Le-Cap-HaÃ¯tien" CountryCode="HTI" District="Nord" Population="102233" />
+    <city_element ID="933" Name="Tegucigalpa" CountryCode="HND" District="Distrito Central" Population="813900" />
+    <city_element ID="934" Name="San Pedro Sula" CountryCode="HND" District="CortÃ©s" Population="383900" />
+    <city_element ID="935" Name="La Ceiba" CountryCode="HND" District="AtlÃ¡ntida" Population="89200" />
+    <city_element ID="936" Name="Kowloon and New Kowloon" CountryCode="HKG" District="Kowloon and New Kowl" Population="1987996" />
+    <city_element ID="937" Name="Victoria" CountryCode="HKG" District="Hongkong" Population="1312637" />
+    <city_element ID="938" Name="Longyearbyen" CountryCode="SJM" District="LÃ¤nsimaa" Population="1438" />
+    <city_element ID="939" Name="Jakarta" CountryCode="IDN" District="Jakarta Raya" Population="9604900" />
+    <city_element ID="940" Name="Surabaya" CountryCode="IDN" District="East Java" Population="2663820" />
+    <city_element ID="941" Name="Bandung" CountryCode="IDN" District="West Java" Population="2429000" />
+    <city_element ID="942" Name="Medan" CountryCode="IDN" District="Sumatera Utara" Population="1843919" />
+    <city_element ID="943" Name="Palembang" CountryCode="IDN" District="Sumatera Selatan" Population="1222764" />
+    <city_element ID="944" Name="Tangerang" CountryCode="IDN" District="West Java" Population="1198300" />
+    <city_element ID="945" Name="Semarang" CountryCode="IDN" District="Central Java" Population="1104405" />
+    <city_element ID="946" Name="Ujung Pandang" CountryCode="IDN" District="Sulawesi Selatan" Population="1060257" />
+    <city_element ID="947" Name="Malang" CountryCode="IDN" District="East Java" Population="716862" />
+    <city_element ID="948" Name="Bandar Lampung" CountryCode="IDN" District="Lampung" Population="680332" />
+    <city_element ID="949" Name="Bekasi" CountryCode="IDN" District="West Java" Population="644300" />
+    <city_element ID="950" Name="Padang" CountryCode="IDN" District="Sumatera Barat" Population="534474" />
+    <city_element ID="951" Name="Surakarta" CountryCode="IDN" District="Central Java" Population="518600" />
+    <city_element ID="952" Name="Banjarmasin" CountryCode="IDN" District="Kalimantan Selatan" Population="482931" />
+    <city_element ID="953" Name="Pekan Baru" CountryCode="IDN" District="Riau" Population="438638" />
+    <city_element ID="954" Name="Denpasar" CountryCode="IDN" District="Bali" Population="435000" />
+    <city_element ID="955" Name="Yogyakarta" CountryCode="IDN" District="Yogyakarta" Population="418944" />
+    <city_element ID="956" Name="Pontianak" CountryCode="IDN" District="Kalimantan Barat" Population="409632" />
+    <city_element ID="957" Name="Samarinda" CountryCode="IDN" District="Kalimantan Timur" Population="399175" />
+    <city_element ID="958" Name="Jambi" CountryCode="IDN" District="Jambi" Population="385201" />
+    <city_element ID="959" Name="Depok" CountryCode="IDN" District="West Java" Population="365200" />
+    <city_element ID="960" Name="Cimahi" CountryCode="IDN" District="West Java" Population="344600" />
+    <city_element ID="961" Name="Balikpapan" CountryCode="IDN" District="Kalimantan Timur" Population="338752" />
+    <city_element ID="962" Name="Manado" CountryCode="IDN" District="Sulawesi Utara" Population="332288" />
+    <city_element ID="963" Name="Mataram" CountryCode="IDN" District="Nusa Tenggara Barat" Population="306600" />
+    <city_element ID="964" Name="Pekalongan" CountryCode="IDN" District="Central Java" Population="301504" />
+    <city_element ID="965" Name="Tegal" CountryCode="IDN" District="Central Java" Population="289744" />
+    <city_element ID="966" Name="Bogor" CountryCode="IDN" District="West Java" Population="285114" />
+    <city_element ID="967" Name="Ciputat" CountryCode="IDN" District="West Java" Population="270800" />
+    <city_element ID="968" Name="Pondokgede" CountryCode="IDN" District="West Java" Population="263200" />
+    <city_element ID="969" Name="Cirebon" CountryCode="IDN" District="West Java" Population="254406" />
+    <city_element ID="970" Name="Kediri" CountryCode="IDN" District="East Java" Population="253760" />
+    <city_element ID="971" Name="Ambon" CountryCode="IDN" District="Molukit" Population="249312" />
+    <city_element ID="972" Name="Jember" CountryCode="IDN" District="East Java" Population="218500" />
+    <city_element ID="973" Name="Cilacap" CountryCode="IDN" District="Central Java" Population="206900" />
+    <city_element ID="974" Name="Cimanggis" CountryCode="IDN" District="West Java" Population="205100" />
+    <city_element ID="975" Name="Pematang Siantar" CountryCode="IDN" District="Sumatera Utara" Population="203056" />
+    <city_element ID="976" Name="Purwokerto" CountryCode="IDN" District="Central Java" Population="202500" />
+    <city_element ID="977" Name="Ciomas" CountryCode="IDN" District="West Java" Population="187400" />
+    <city_element ID="978" Name="Tasikmalaya" CountryCode="IDN" District="West Java" Population="179800" />
+  </city>
+  <country Datatypes="String;String;String;String;Single;Int16;Int32;Single;Single;Single;String;String;String;Int32;String;">
+    <country_element Code="ABW" Name="Aruba" Continent="North America" Region="Caribbean" SurfaceArea="193" IndepYear="" Population="103000" LifeExpectancy="78.4" GNP="828" GNPOld="793" LocalName="Aruba" GovernmentForm="Nonmetropolitan Territory of The Netherlands" HeadOfState="Beatrix" Capital="129" Code2="AW" />
+    <country_element Code="AFG" Name="Afghanistan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="652090" IndepYear="1919" Population="22720000" LifeExpectancy="45.9" GNP="5976" GNPOld="" LocalName="Afganistan/Afqanestan" GovernmentForm="Islamic Emirate" HeadOfState="Mohammad Omar" Capital="1" Code2="AF" />
+    <country_element Code="AGO" Name="Angola" Continent="Africa" Region="Central Africa" SurfaceArea="1246700" IndepYear="1975" Population="12878000" LifeExpectancy="38.3" GNP="6648" GNPOld="7984" LocalName="Angola" GovernmentForm="Republic" HeadOfState="JosÃ© Eduardo dos Santos" Capital="56" Code2="AO" />
+    <country_element Code="AIA" Name="Anguilla" Continent="North America" Region="Caribbean" SurfaceArea="96" IndepYear="" Population="8000" LifeExpectancy="76.1" GNP="63.2" GNPOld="" LocalName="Anguilla" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="62" Code2="AI" />
+    <country_element Code="ALB" Name="Albania" Continent="Europe" Region="Southern Europe" SurfaceArea="28748" IndepYear="1912" Population="3401200" LifeExpectancy="71.6" GNP="3205" GNPOld="2500" LocalName="ShqipÃ«ria" GovernmentForm="Republic" HeadOfState="Rexhep Mejdani" Capital="34" Code2="AL" />
+    <country_element Code="AND" Name="Andorra" Continent="Europe" Region="Southern Europe" SurfaceArea="468" IndepYear="1278" Population="78000" LifeExpectancy="83.5" GNP="1630" GNPOld="" LocalName="Andorra" GovernmentForm="Parliamentary Coprincipality" HeadOfState="" Capital="55" Code2="AD" />
+    <country_element Code="ANT" Name="Netherlands Antilles" Continent="North America" Region="Caribbean" SurfaceArea="800" IndepYear="" Population="217000" LifeExpectancy="74.7" GNP="1941" GNPOld="" LocalName="Nederlandse Antillen" GovernmentForm="Nonmetropolitan Territory of The Netherlands" HeadOfState="Beatrix" Capital="33" Code2="AN" />
+    <country_element Code="ARE" Name="United Arab Emirates" Continent="Asia" Region="Middle East" SurfaceArea="83600" IndepYear="1971" Population="2441000" LifeExpectancy="74.1" GNP="37966" GNPOld="36846" LocalName="Al-Imarat al-Â´Arabiya al-Muttahida" GovernmentForm="Emirate Federation" HeadOfState="Zayid bin Sultan al-Nahayan" Capital="65" Code2="AE" />
+    <country_element Code="ARG" Name="Argentina" Continent="South America" Region="South America" SurfaceArea="2780400" IndepYear="1816" Population="37032000" LifeExpectancy="75.1" GNP="340238" GNPOld="323310" LocalName="Argentina" GovernmentForm="Federal Republic" HeadOfState="Fernando de la RÃºa" Capital="69" Code2="AR" />
+    <country_element Code="ARM" Name="Armenia" Continent="Asia" Region="Middle East" SurfaceArea="29800" IndepYear="1991" Population="3520000" LifeExpectancy="66.4" GNP="1813" GNPOld="1627" LocalName="Hajastan" GovernmentForm="Republic" HeadOfState="Robert KotÂšarjan" Capital="126" Code2="AM" />
+    <country_element Code="ASM" Name="American Samoa" Continent="Oceania" Region="Polynesia" SurfaceArea="199" IndepYear="" Population="68000" LifeExpectancy="75.1" GNP="334" GNPOld="" LocalName="Amerika Samoa" GovernmentForm="US Territory" HeadOfState="George W. Bush" Capital="54" Code2="AS" />
+    <country_element Code="ATA" Name="Antarctica" Continent="Antarctica" Region="Antarctica" SurfaceArea="1.312E+07" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Â–" GovernmentForm="Co-administrated" HeadOfState="" Capital="" Code2="AQ" />
+    <country_element Code="ATF" Name="French Southern territories" Continent="Antarctica" Region="Antarctica" SurfaceArea="7780" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Terres australes franÃ§aises" GovernmentForm="Nonmetropolitan Territory of France" HeadOfState="Jacques Chirac" Capital="" Code2="TF" />
+    <country_element Code="ATG" Name="Antigua and Barbuda" Continent="North America" Region="Caribbean" SurfaceArea="442" IndepYear="1981" Population="68000" LifeExpectancy="70.5" GNP="612" GNPOld="584" LocalName="Antigua and Barbuda" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="63" Code2="AG" />
+    <country_element Code="AUS" Name="Australia" Continent="Oceania" Region="Australia and New Zealand" SurfaceArea="7741220" IndepYear="1901" Population="18886000" LifeExpectancy="79.8" GNP="351182" GNPOld="392911" LocalName="Australia" GovernmentForm="Constitutional Monarchy, Federation" HeadOfState="Elisabeth II" Capital="135" Code2="AU" />
+    <country_element Code="AUT" Name="Austria" Continent="Europe" Region="Western Europe" SurfaceArea="83859" IndepYear="1918" Population="8091800" LifeExpectancy="77.7" GNP="211860" GNPOld="206025" LocalName="Ã–sterreich" GovernmentForm="Federal Republic" HeadOfState="Thomas Klestil" Capital="1523" Code2="AT" />
+    <country_element Code="AZE" Name="Azerbaijan" Continent="Asia" Region="Middle East" SurfaceArea="86600" IndepYear="1991" Population="7734000" LifeExpectancy="62.9" GNP="4127" GNPOld="4100" LocalName="AzÃ¤rbaycan" GovernmentForm="Federal Republic" HeadOfState="HeydÃ¤r Ã„liyev" Capital="144" Code2="AZ" />
+    <country_element Code="BDI" Name="Burundi" Continent="Africa" Region="Eastern Africa" SurfaceArea="27834" IndepYear="1962" Population="6695000" LifeExpectancy="46.2" GNP="903" GNPOld="982" LocalName="Burundi/Uburundi" GovernmentForm="Republic" HeadOfState="Pierre Buyoya" Capital="552" Code2="BI" />
+    <country_element Code="BEL" Name="Belgium" Continent="Europe" Region="Western Europe" SurfaceArea="30518" IndepYear="1830" Population="10239000" LifeExpectancy="77.8" GNP="249704" GNPOld="243948" LocalName="BelgiÃ«/Belgique" GovernmentForm="Constitutional Monarchy, Federation" HeadOfState="Albert II" Capital="179" Code2="BE" />
+    <country_element Code="BEN" Name="Benin" Continent="Africa" Region="Western Africa" SurfaceArea="112622" IndepYear="1960" Population="6097000" LifeExpectancy="50.2" GNP="2357" GNPOld="2141" LocalName="BÃ©nin" GovernmentForm="Republic" HeadOfState="Mathieu KÃ©rÃ©kou" Capital="187" Code2="BJ" />
+    <country_element Code="BFA" Name="Burkina Faso" Continent="Africa" Region="Western Africa" SurfaceArea="274000" IndepYear="1960" Population="11937000" LifeExpectancy="46.7" GNP="2425" GNPOld="2201" LocalName="Burkina Faso" GovernmentForm="Republic" HeadOfState="Blaise CompaorÃ©" Capital="549" Code2="BF" />
+    <country_element Code="BGD" Name="Bangladesh" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="143998" IndepYear="1971" Population="129155000" LifeExpectancy="60.2" GNP="32852" GNPOld="31966" LocalName="Bangladesh" GovernmentForm="Republic" HeadOfState="Shahabuddin Ahmad" Capital="150" Code2="BD" />
+    <country_element Code="BGR" Name="Bulgaria" Continent="Europe" Region="Eastern Europe" SurfaceArea="110994" IndepYear="1908" Population="8190900" LifeExpectancy="70.9" GNP="12178" GNPOld="10169" LocalName="Balgarija" GovernmentForm="Republic" HeadOfState="Petar Stojanov" Capital="539" Code2="BG" />
+    <country_element Code="BHR" Name="Bahrain" Continent="Asia" Region="Middle East" SurfaceArea="694" IndepYear="1971" Population="617000" LifeExpectancy="73" GNP="6366" GNPOld="6097" LocalName="Al-Bahrayn" GovernmentForm="Monarchy (Emirate)" HeadOfState="Hamad ibn Isa al-Khalifa" Capital="149" Code2="BH" />
+    <country_element Code="BHS" Name="Bahamas" Continent="North America" Region="Caribbean" SurfaceArea="13878" IndepYear="1973" Population="307000" LifeExpectancy="71.1" GNP="3527" GNPOld="3347" LocalName="The Bahamas" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="148" Code2="BS" />
+    <country_element Code="BIH" Name="Bosnia and Herzegovina" Continent="Europe" Region="Southern Europe" SurfaceArea="51197" IndepYear="1992" Population="3972000" LifeExpectancy="71.5" GNP="2841" GNPOld="" LocalName="Bosna i Hercegovina" GovernmentForm="Federal Republic" HeadOfState="Ante Jelavic" Capital="201" Code2="BA" />
+    <country_element Code="BLR" Name="Belarus" Continent="Europe" Region="Eastern Europe" SurfaceArea="207600" IndepYear="1991" Population="10236000" LifeExpectancy="68" GNP="13714" GNPOld="" LocalName="Belarus" GovernmentForm="Republic" HeadOfState="Aljaksandr LukaÂšenka" Capital="3520" Code2="BY" />
+    <country_element Code="BLZ" Name="Belize" Continent="North America" Region="Central America" SurfaceArea="22696" IndepYear="1981" Population="241000" LifeExpectancy="70.9" GNP="630" GNPOld="616" LocalName="Belize" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="185" Code2="BZ" />
+    <country_element Code="BMU" Name="Bermuda" Continent="North America" Region="North America" SurfaceArea="53" IndepYear="" Population="65000" LifeExpectancy="76.9" GNP="2328" GNPOld="2190" LocalName="Bermuda" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="191" Code2="BM" />
+    <country_element Code="BOL" Name="Bolivia" Continent="South America" Region="South America" SurfaceArea="1098581" IndepYear="1825" Population="8329000" LifeExpectancy="63.7" GNP="8571" GNPOld="7967" LocalName="Bolivia" GovernmentForm="Republic" HeadOfState="Hugo BÃ¡nzer SuÃ¡rez" Capital="194" Code2="BO" />
+    <country_element Code="BRA" Name="Brazil" Continent="South America" Region="South America" SurfaceArea="8547403" IndepYear="1822" Population="170115000" LifeExpectancy="62.9" GNP="776739" GNPOld="804108" LocalName="Brasil" GovernmentForm="Federal Republic" HeadOfState="Fernando Henrique Cardoso" Capital="211" Code2="BR" />
+    <country_element Code="BRB" Name="Barbados" Continent="North America" Region="Caribbean" SurfaceArea="430" IndepYear="1966" Population="270000" LifeExpectancy="73" GNP="2223" GNPOld="2186" LocalName="Barbados" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="174" Code2="BB" />
+    <country_element Code="BRN" Name="Brunei" Continent="Asia" Region="Southeast Asia" SurfaceArea="5765" IndepYear="1984" Population="328000" LifeExpectancy="73.6" GNP="11705" GNPOld="12460" LocalName="Brunei Darussalam" GovernmentForm="Monarchy (Sultanate)" HeadOfState="Haji Hassan al-Bolkiah" Capital="538" Code2="BN" />
+    <country_element Code="BTN" Name="Bhutan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="47000" IndepYear="1910" Population="2124000" LifeExpectancy="52.4" GNP="372" GNPOld="383" LocalName="Druk-Yul" GovernmentForm="Monarchy" HeadOfState="Jigme Singye Wangchuk" Capital="192" Code2="BT" />
+    <country_element Code="BVT" Name="Bouvet Island" Continent="Antarctica" Region="Antarctica" SurfaceArea="59" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="BouvetÃ¸ya" GovernmentForm="Dependent Territory of Norway" HeadOfState="Harald V" Capital="" Code2="BV" />
+    <country_element Code="BWA" Name="Botswana" Continent="Africa" Region="Southern Africa" SurfaceArea="581730" IndepYear="1966" Population="1622000" LifeExpectancy="39.3" GNP="4834" GNPOld="4935" LocalName="Botswana" GovernmentForm="Republic" HeadOfState="Festus G. Mogae" Capital="204" Code2="BW" />
+    <country_element Code="CAF" Name="Central African Republic" Continent="Africa" Region="Central Africa" SurfaceArea="622984" IndepYear="1960" Population="3615000" LifeExpectancy="44" GNP="1054" GNPOld="993" LocalName="Centrafrique/BÃª-AfrÃ®ka" GovernmentForm="Republic" HeadOfState="Ange-FÃ©lix PatassÃ©" Capital="1889" Code2="CF" />
+    <country_element Code="CAN" Name="Canada" Continent="North America" Region="North America" SurfaceArea="9970610" IndepYear="1867" Population="31147000" LifeExpectancy="79.4" GNP="598862" GNPOld="625626" LocalName="Canada" GovernmentForm="Constitutional Monarchy, Federation" HeadOfState="Elisabeth II" Capital="1822" Code2="CA" />
+    <country_element Code="CCK" Name="Cocos (Keeling) Islands" Continent="Oceania" Region="Australia and New Zealand" SurfaceArea="14" IndepYear="" Population="600" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Cocos (Keeling) Islands" GovernmentForm="Territory of Australia" HeadOfState="Elisabeth II" Capital="2317" Code2="CC" />
+    <country_element Code="CHE" Name="Switzerland" Continent="Europe" Region="Western Europe" SurfaceArea="41284" IndepYear="1499" Population="7160400" LifeExpectancy="79.6" GNP="264478" GNPOld="256092" LocalName="Schweiz/Suisse/Svizzera/Svizra" GovernmentForm="Federation" HeadOfState="Adolf Ogi" Capital="3248" Code2="CH" />
+    <country_element Code="CHL" Name="Chile" Continent="South America" Region="South America" SurfaceArea="756626" IndepYear="1810" Population="15211000" LifeExpectancy="75.7" GNP="72949" GNPOld="75780" LocalName="Chile" GovernmentForm="Republic" HeadOfState="Ricardo Lagos Escobar" Capital="554" Code2="CL" />
+    <country_element Code="CMR" Name="Cameroon" Continent="Africa" Region="Central Africa" SurfaceArea="475442" IndepYear="1960" Population="15085000" LifeExpectancy="54.8" GNP="9174" GNPOld="8596" LocalName="Cameroun/Cameroon" GovernmentForm="Republic" HeadOfState="Paul Biya" Capital="1804" Code2="CM" />
+    <country_element Code="COD" Name="Congo, The Democratic Republic of the" Continent="Africa" Region="Central Africa" SurfaceArea="2344858" IndepYear="1960" Population="51654000" LifeExpectancy="48.8" GNP="6964" GNPOld="2474" LocalName="RÃ©publique DÃ©mocratique du Congo" GovernmentForm="Republic" HeadOfState="Joseph Kabila" Capital="2298" Code2="CD" />
+    <country_element Code="COG" Name="Congo" Continent="Africa" Region="Central Africa" SurfaceArea="342000" IndepYear="1960" Population="2943000" LifeExpectancy="47.4" GNP="2108" GNPOld="2287" LocalName="Congo" GovernmentForm="Republic" HeadOfState="Denis Sassou-Nguesso" Capital="2296" Code2="CG" />
+    <country_element Code="COK" Name="Cook Islands" Continent="Oceania" Region="Polynesia" SurfaceArea="236" IndepYear="" Population="20000" LifeExpectancy="71.1" GNP="100" GNPOld="" LocalName="The Cook Islands" GovernmentForm="Nonmetropolitan Territory of New Zealand" HeadOfState="Elisabeth II" Capital="583" Code2="CK" />
+    <country_element Code="COL" Name="Colombia" Continent="South America" Region="South America" SurfaceArea="1138914" IndepYear="1810" Population="42321000" LifeExpectancy="70.3" GNP="102896" GNPOld="105116" LocalName="Colombia" GovernmentForm="Republic" HeadOfState="AndrÃ©s Pastrana Arango" Capital="2257" Code2="CO" />
+    <country_element Code="COM" Name="Comoros" Continent="Africa" Region="Eastern Africa" SurfaceArea="1862" IndepYear="1975" Population="578000" LifeExpectancy="60" GNP="4401" GNPOld="4361" LocalName="Komori/Comores" GovernmentForm="Republic" HeadOfState="Azali Assoumani" Capital="2295" Code2="KM" />
+    <country_element Code="CPV" Name="Cape Verde" Continent="Africa" Region="Western Africa" SurfaceArea="4033" IndepYear="1975" Population="428000" LifeExpectancy="68.9" GNP="435" GNPOld="420" LocalName="Cabo Verde" GovernmentForm="Republic" HeadOfState="AntÃ³nio Mascarenhas Monteiro" Capital="1859" Code2="CV" />
+    <country_element Code="CRI" Name="Costa Rica" Continent="North America" Region="Central America" SurfaceArea="51100" IndepYear="1821" Population="4023000" LifeExpectancy="75.8" GNP="10226" GNPOld="9757" LocalName="Costa Rica" GovernmentForm="Republic" HeadOfState="Miguel Ãngel RodrÃ­guez EcheverrÃ­a" Capital="584" Code2="CR" />
+    <country_element Code="CUB" Name="Cuba" Continent="North America" Region="Caribbean" SurfaceArea="110861" IndepYear="1902" Population="11201000" LifeExpectancy="76.2" GNP="17843" GNPOld="18862" LocalName="Cuba" GovernmentForm="Socialistic Republic" HeadOfState="Fidel Castro Ruz" Capital="2413" Code2="CU" />
+    <country_element Code="CXR" Name="Christmas Island" Continent="Oceania" Region="Australia and New Zealand" SurfaceArea="135" IndepYear="" Population="2500" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Christmas Island" GovernmentForm="Territory of Australia" HeadOfState="Elisabeth II" Capital="1791" Code2="CX" />
+    <country_element Code="CYM" Name="Cayman Islands" Continent="North America" Region="Caribbean" SurfaceArea="264" IndepYear="" Population="38000" LifeExpectancy="78.9" GNP="1263" GNPOld="1186" LocalName="Cayman Islands" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="553" Code2="KY" />
+    <country_element Code="CYP" Name="Cyprus" Continent="Asia" Region="Middle East" SurfaceArea="9251" IndepYear="1960" Population="754700" LifeExpectancy="76.7" GNP="9333" GNPOld="8246" LocalName="KÃ½pros/Kibris" GovernmentForm="Republic" HeadOfState="Glafkos Klerides" Capital="2430" Code2="CY" />
+    <country_element Code="CZE" Name="Czech Republic" Continent="Europe" Region="Eastern Europe" SurfaceArea="78866" IndepYear="1993" Population="10278100" LifeExpectancy="74.5" GNP="55017" GNPOld="52037" LocalName="Â¸esko" GovernmentForm="Republic" HeadOfState="VÃ¡clav Havel" Capital="3339" Code2="CZ" />
+    <country_element Code="DEU" Name="Germany" Continent="Europe" Region="Western Europe" SurfaceArea="357022" IndepYear="1955" Population="82164700" LifeExpectancy="77.4" GNP="2133367" GNPOld="2102826" LocalName="Deutschland" GovernmentForm="Federal Republic" HeadOfState="Johannes Rau" Capital="3068" Code2="DE" />
+    <country_element Code="DJI" Name="Djibouti" Continent="Africa" Region="Eastern Africa" SurfaceArea="23200" IndepYear="1977" Population="638000" LifeExpectancy="50.8" GNP="382" GNPOld="373" LocalName="Djibouti/Jibuti" GovernmentForm="Republic" HeadOfState="Ismail Omar Guelleh" Capital="585" Code2="DJ" />
+    <country_element Code="DMA" Name="Dominica" Continent="North America" Region="Caribbean" SurfaceArea="751" IndepYear="1978" Population="71000" LifeExpectancy="73.4" GNP="256" GNPOld="243" LocalName="Dominica" GovernmentForm="Republic" HeadOfState="Vernon Shaw" Capital="586" Code2="DM" />
+    <country_element Code="DNK" Name="Denmark" Continent="Europe" Region="Nordic Countries" SurfaceArea="43094" IndepYear="800" Population="5330000" LifeExpectancy="76.5" GNP="174099" GNPOld="169264" LocalName="Danmark" GovernmentForm="Constitutional Monarchy" HeadOfState="Margrethe II" Capital="3315" Code2="DK" />
+    <country_element Code="DOM" Name="Dominican Republic" Continent="North America" Region="Caribbean" SurfaceArea="48511" IndepYear="1844" Population="8495000" LifeExpectancy="73.2" GNP="15846" GNPOld="15076" LocalName="RepÃºblica Dominicana" GovernmentForm="Republic" HeadOfState="HipÃ³lito MejÃ­a DomÃ­nguez" Capital="587" Code2="DO" />
+    <country_element Code="DZA" Name="Algeria" Continent="Africa" Region="Northern Africa" SurfaceArea="2381741" IndepYear="1962" Population="31471000" LifeExpectancy="69.7" GNP="49982" GNPOld="46966" LocalName="Al-JazaÂ’ir/AlgÃ©rie" GovernmentForm="Republic" HeadOfState="Abdelaziz Bouteflika" Capital="35" Code2="DZ" />
+    <country_element Code="ECU" Name="Ecuador" Continent="South America" Region="South America" SurfaceArea="283561" IndepYear="1822" Population="12646000" LifeExpectancy="71.1" GNP="19770" GNPOld="19769" LocalName="Ecuador" GovernmentForm="Republic" HeadOfState="Gustavo Noboa Bejarano" Capital="594" Code2="EC" />
+    <country_element Code="EGY" Name="Egypt" Continent="Africa" Region="Northern Africa" SurfaceArea="1001449" IndepYear="1922" Population="68470000" LifeExpectancy="63.3" GNP="82710" GNPOld="75617" LocalName="Misr" GovernmentForm="Republic" HeadOfState="Hosni Mubarak" Capital="608" Code2="EG" />
+    <country_element Code="ERI" Name="Eritrea" Continent="Africa" Region="Eastern Africa" SurfaceArea="117600" IndepYear="1993" Population="3850000" LifeExpectancy="55.8" GNP="650" GNPOld="755" LocalName="Ertra" GovernmentForm="Republic" HeadOfState="Isayas Afewerki [Isaias Afwerki]" Capital="652" Code2="ER" />
+    <country_element Code="ESH" Name="Western Sahara" Continent="Africa" Region="Northern Africa" SurfaceArea="266000" IndepYear="" Population="293000" LifeExpectancy="49.8" GNP="60" GNPOld="" LocalName="As-Sahrawiya" GovernmentForm="Occupied by Marocco" HeadOfState="Mohammed Abdel Aziz" Capital="2453" Code2="EH" />
+    <country_element Code="ESP" Name="Spain" Continent="Europe" Region="Southern Europe" SurfaceArea="505992" IndepYear="1492" Population="39441700" LifeExpectancy="78.8" GNP="553233" GNPOld="532031" LocalName="EspaÃ±a" GovernmentForm="Constitutional Monarchy" HeadOfState="Juan Carlos I" Capital="653" Code2="ES" />
+    <country_element Code="EST" Name="Estonia" Continent="Europe" Region="Baltic Countries" SurfaceArea="45227" IndepYear="1991" Population="1439200" LifeExpectancy="69.5" GNP="5328" GNPOld="3371" LocalName="Eesti" GovernmentForm="Republic" HeadOfState="Lennart Meri" Capital="3791" Code2="EE" />
+    <country_element Code="ETH" Name="Ethiopia" Continent="Africa" Region="Eastern Africa" SurfaceArea="1104300" IndepYear="-1000" Population="62565000" LifeExpectancy="45.2" GNP="6353" GNPOld="6180" LocalName="YeItyopÂ´iya" GovernmentForm="Republic" HeadOfState="Negasso Gidada" Capital="756" Code2="ET" />
+    <country_element Code="FIN" Name="Finland" Continent="Europe" Region="Nordic Countries" SurfaceArea="338145" IndepYear="1917" Population="5171300" LifeExpectancy="77.4" GNP="121914" GNPOld="119833" LocalName="Suomi" GovernmentForm="Republic" HeadOfState="Tarja Halonen" Capital="3236" Code2="FI" />
+    <country_element Code="FJI" Name="Fiji Islands" Continent="Oceania" Region="Melanesia" SurfaceArea="18274" IndepYear="1970" Population="817000" LifeExpectancy="67.9" GNP="1536" GNPOld="2149" LocalName="Fiji Islands" GovernmentForm="Republic" HeadOfState="Josefa Iloilo" Capital="764" Code2="FJ" />
+    <country_element Code="FLK" Name="Falkland Islands" Continent="South America" Region="South America" SurfaceArea="12173" IndepYear="" Population="2000" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Falkland Islands" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="763" Code2="FK" />
+    <country_element Code="FRA" Name="France" Continent="Europe" Region="Western Europe" SurfaceArea="551500" IndepYear="843" Population="59225700" LifeExpectancy="78.8" GNP="1424285" GNPOld="1392448" LocalName="France" GovernmentForm="Republic" HeadOfState="Jacques Chirac" Capital="2974" Code2="FR" />
+    <country_element Code="FRO" Name="Faroe Islands" Continent="Europe" Region="Nordic Countries" SurfaceArea="1399" IndepYear="" Population="43000" LifeExpectancy="78.4" GNP="0" GNPOld="" LocalName="FÃ¸royar" GovernmentForm="Part of Denmark" HeadOfState="Margrethe II" Capital="901" Code2="FO" />
+    <country_element Code="FSM" Name="Micronesia, Federated States of" Continent="Oceania" Region="Micronesia" SurfaceArea="702" IndepYear="1990" Population="119000" LifeExpectancy="68.6" GNP="212" GNPOld="" LocalName="Micronesia" GovernmentForm="Federal Republic" HeadOfState="Leo A. Falcam" Capital="2689" Code2="FM" />
+    <country_element Code="GAB" Name="Gabon" Continent="Africa" Region="Central Africa" SurfaceArea="267668" IndepYear="1960" Population="1226000" LifeExpectancy="50.1" GNP="5493" GNPOld="5279" LocalName="Le Gabon" GovernmentForm="Republic" HeadOfState="Omar Bongo" Capital="902" Code2="GA" />
+    <country_element Code="GBR" Name="United Kingdom" Continent="Europe" Region="British Islands" SurfaceArea="242900" IndepYear="1066" Population="59623400" LifeExpectancy="77.7" GNP="1378330" GNPOld="1296830" LocalName="United Kingdom" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="456" Code2="GB" />
+    <country_element Code="GEO" Name="Georgia" Continent="Asia" Region="Middle East" SurfaceArea="69700" IndepYear="1991" Population="4968000" LifeExpectancy="64.5" GNP="6064" GNPOld="5924" LocalName="Sakartvelo" GovernmentForm="Republic" HeadOfState="Eduard ÂŠevardnadze" Capital="905" Code2="GE" />
+    <country_element Code="GHA" Name="Ghana" Continent="Africa" Region="Western Africa" SurfaceArea="238533" IndepYear="1957" Population="20212000" LifeExpectancy="57.4" GNP="7137" GNPOld="6884" LocalName="Ghana" GovernmentForm="Republic" HeadOfState="John Kufuor" Capital="910" Code2="GH" />
+    <country_element Code="GIB" Name="Gibraltar" Continent="Europe" Region="Southern Europe" SurfaceArea="6" IndepYear="" Population="25000" LifeExpectancy="79" GNP="258" GNPOld="" LocalName="Gibraltar" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="915" Code2="GI" />
+    <country_element Code="GIN" Name="Guinea" Continent="Africa" Region="Western Africa" SurfaceArea="245857" IndepYear="1958" Population="7430000" LifeExpectancy="45.6" GNP="2352" GNPOld="2383" LocalName="GuinÃ©e" GovernmentForm="Republic" HeadOfState="Lansana ContÃ©" Capital="926" Code2="GN" />
+    <country_element Code="GLP" Name="Guadeloupe" Continent="North America" Region="Caribbean" SurfaceArea="1705" IndepYear="" Population="456000" LifeExpectancy="77" GNP="3501" GNPOld="" LocalName="Guadeloupe" GovernmentForm="Overseas Department of France" HeadOfState="Jacques Chirac" Capital="919" Code2="GP" />
+    <country_element Code="GMB" Name="Gambia" Continent="Africa" Region="Western Africa" SurfaceArea="11295" IndepYear="1965" Population="1305000" LifeExpectancy="53.2" GNP="320" GNPOld="325" LocalName="The Gambia" GovernmentForm="Republic" HeadOfState="Yahya Jammeh" Capital="904" Code2="GM" />
+    <country_element Code="GNB" Name="Guinea-Bissau" Continent="Africa" Region="Western Africa" SurfaceArea="36125" IndepYear="1974" Population="1213000" LifeExpectancy="49" GNP="293" GNPOld="272" LocalName="GuinÃ©-Bissau" GovernmentForm="Republic" HeadOfState="Kumba IalÃ¡" Capital="927" Code2="GW" />
+    <country_element Code="GNQ" Name="Equatorial Guinea" Continent="Africa" Region="Central Africa" SurfaceArea="28051" IndepYear="1968" Population="453000" LifeExpectancy="53.6" GNP="283" GNPOld="542" LocalName="Guinea Ecuatorial" GovernmentForm="Republic" HeadOfState="Teodoro Obiang Nguema Mbasogo" Capital="2972" Code2="GQ" />
+    <country_element Code="GRC" Name="Greece" Continent="Europe" Region="Southern Europe" SurfaceArea="131626" IndepYear="1830" Population="10545700" LifeExpectancy="78.4" GNP="120724" GNPOld="119946" LocalName="EllÃ¡da" GovernmentForm="Republic" HeadOfState="Kostis Stefanopoulos" Capital="2401" Code2="GR" />
+    <country_element Code="GRD" Name="Grenada" Continent="North America" Region="Caribbean" SurfaceArea="344" IndepYear="1974" Population="94000" LifeExpectancy="64.5" GNP="318" GNPOld="" LocalName="Grenada" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="916" Code2="GD" />
+    <country_element Code="GRL" Name="Greenland" Continent="North America" Region="North America" SurfaceArea="2166090" IndepYear="" Population="56000" LifeExpectancy="68.1" GNP="0" GNPOld="" LocalName="Kalaallit Nunaat/GrÃ¸nland" GovernmentForm="Part of Denmark" HeadOfState="Margrethe II" Capital="917" Code2="GL" />
+    <country_element Code="GTM" Name="Guatemala" Continent="North America" Region="Central America" SurfaceArea="108889" IndepYear="1821" Population="11385000" LifeExpectancy="66.2" GNP="19008" GNPOld="17797" LocalName="Guatemala" GovernmentForm="Republic" HeadOfState="Alfonso Portillo Cabrera" Capital="922" Code2="GT" />
+    <country_element Code="GUF" Name="French Guiana" Continent="South America" Region="South America" SurfaceArea="90000" IndepYear="" Population="181000" LifeExpectancy="76.1" GNP="681" GNPOld="" LocalName="Guyane franÃ§aise" GovernmentForm="Overseas Department of France" HeadOfState="Jacques Chirac" Capital="3014" Code2="GF" />
+    <country_element Code="GUM" Name="Guam" Continent="Oceania" Region="Micronesia" SurfaceArea="549" IndepYear="" Population="168000" LifeExpectancy="77.8" GNP="1197" GNPOld="1136" LocalName="Guam" GovernmentForm="US Territory" HeadOfState="George W. Bush" Capital="921" Code2="GU" />
+    <country_element Code="GUY" Name="Guyana" Continent="South America" Region="South America" SurfaceArea="214969" IndepYear="1966" Population="861000" LifeExpectancy="64" GNP="722" GNPOld="743" LocalName="Guyana" GovernmentForm="Republic" HeadOfState="Bharrat Jagdeo" Capital="928" Code2="GY" />
+    <country_element Code="HKG" Name="Hong Kong" Continent="Asia" Region="Eastern Asia" SurfaceArea="1075" IndepYear="" Population="6782000" LifeExpectancy="79.5" GNP="166448" GNPOld="173610" LocalName="Xianggang/Hong Kong" GovernmentForm="Special Administrative Region of China" HeadOfState="Jiang Zemin" Capital="937" Code2="HK" />
+    <country_element Code="HMD" Name="Heard Island and McDonald Islands" Continent="Antarctica" Region="Antarctica" SurfaceArea="359" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Heard and McDonald Islands" GovernmentForm="Territory of Australia" HeadOfState="Elisabeth II" Capital="" Code2="HM" />
+    <country_element Code="HND" Name="Honduras" Continent="North America" Region="Central America" SurfaceArea="112088" IndepYear="1838" Population="6485000" LifeExpectancy="69.9" GNP="5333" GNPOld="4697" LocalName="Honduras" GovernmentForm="Republic" HeadOfState="Carlos Roberto Flores FacussÃ©" Capital="933" Code2="HN" />
+    <country_element Code="HRV" Name="Croatia" Continent="Europe" Region="Southern Europe" SurfaceArea="56538" IndepYear="1991" Population="4473000" LifeExpectancy="73.7" GNP="20208" GNPOld="19300" LocalName="Hrvatska" GovernmentForm="Republic" HeadOfState="ÂŠtipe Mesic" Capital="2409" Code2="HR" />
+    <country_element Code="HTI" Name="Haiti" Continent="North America" Region="Caribbean" SurfaceArea="27750" IndepYear="1804" Population="8222000" LifeExpectancy="49.2" GNP="3459" GNPOld="3107" LocalName="HaÃ¯ti/Dayti" GovernmentForm="Republic" HeadOfState="Jean-Bertrand Aristide" Capital="929" Code2="HT" />
+    <country_element Code="HUN" Name="Hungary" Continent="Europe" Region="Eastern Europe" SurfaceArea="93030" IndepYear="1918" Population="10043200" LifeExpectancy="71.4" GNP="48267" GNPOld="45914" LocalName="MagyarorszÃ¡g" GovernmentForm="Republic" HeadOfState="Ferenc MÃ¡dl" Capital="3483" Code2="HU" />
+    <country_element Code="IDN" Name="Indonesia" Continent="Asia" Region="Southeast Asia" SurfaceArea="1904569" IndepYear="1945" Population="212107000" LifeExpectancy="68" GNP="84982" GNPOld="215002" LocalName="Indonesia" GovernmentForm="Republic" HeadOfState="Abdurrahman Wahid" Capital="939" Code2="ID" />
+    <country_element Code="IND" Name="India" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="3287263" IndepYear="1947" Population="1013662000" LifeExpectancy="62.5" GNP="447114" GNPOld="430572" LocalName="Bharat/India" GovernmentForm="Federal Republic" HeadOfState="Kocheril Raman Narayanan" Capital="1109" Code2="IN" />
+    <country_element Code="IOT" Name="British Indian Ocean Territory" Continent="Africa" Region="Eastern Africa" SurfaceArea="78" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="British Indian Ocean Territory" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="" Code2="IO" />
+    <country_element Code="IRL" Name="Ireland" Continent="Europe" Region="British Islands" SurfaceArea="70273" IndepYear="1921" Population="3775100" LifeExpectancy="76.8" GNP="75921" GNPOld="73132" LocalName="Ireland/Ã‰ire" GovernmentForm="Republic" HeadOfState="Mary McAleese" Capital="1447" Code2="IE" />
+    <country_element Code="IRN" Name="Iran" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="1648195" IndepYear="1906" Population="67702000" LifeExpectancy="69.7" GNP="195746" GNPOld="160151" LocalName="Iran" GovernmentForm="Islamic Republic" HeadOfState="Ali Mohammad Khatami-Ardakani" Capital="1380" Code2="IR" />
+    <country_element Code="IRQ" Name="Iraq" Continent="Asia" Region="Middle East" SurfaceArea="438317" IndepYear="1932" Population="23115000" LifeExpectancy="66.5" GNP="11500" GNPOld="" LocalName="Al-Â´Iraq" GovernmentForm="Republic" HeadOfState="Saddam Hussein al-Takriti" Capital="1365" Code2="IQ" />
+    <country_element Code="ISL" Name="Iceland" Continent="Europe" Region="Nordic Countries" SurfaceArea="103000" IndepYear="1944" Population="279000" LifeExpectancy="79.4" GNP="8255" GNPOld="7474" LocalName="Ãsland" GovernmentForm="Republic" HeadOfState="Ã“lafur Ragnar GrÃ­msson" Capital="1449" Code2="IS" />
+    <country_element Code="ISR" Name="Israel" Continent="Asia" Region="Middle East" SurfaceArea="21056" IndepYear="1948" Population="6217000" LifeExpectancy="78.6" GNP="97477" GNPOld="98577" LocalName="YisraÂ’el/IsraÂ’il" GovernmentForm="Republic" HeadOfState="Moshe Katzav" Capital="1450" Code2="IL" />
+    <country_element Code="ITA" Name="Italy" Continent="Europe" Region="Southern Europe" SurfaceArea="301316" IndepYear="1861" Population="57680000" LifeExpectancy="79" GNP="1161755" GNPOld="1145372" LocalName="Italia" GovernmentForm="Republic" HeadOfState="Carlo Azeglio Ciampi" Capital="1464" Code2="IT" />
+    <country_element Code="JAM" Name="Jamaica" Continent="North America" Region="Caribbean" SurfaceArea="10990" IndepYear="1962" Population="2583000" LifeExpectancy="75.2" GNP="6871" GNPOld="6722" LocalName="Jamaica" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="1530" Code2="JM" />
+    <country_element Code="JOR" Name="Jordan" Continent="Asia" Region="Middle East" SurfaceArea="88946" IndepYear="1946" Population="5083000" LifeExpectancy="77.4" GNP="7526" GNPOld="7051" LocalName="Al-Urdunn" GovernmentForm="Constitutional Monarchy" HeadOfState="Abdullah II" Capital="1786" Code2="JO" />
+    <country_element Code="JPN" Name="Japan" Continent="Asia" Region="Eastern Asia" SurfaceArea="377829" IndepYear="-660" Population="126714000" LifeExpectancy="80.7" GNP="3787042" GNPOld="4192638" LocalName="Nihon/Nippon" GovernmentForm="Constitutional Monarchy" HeadOfState="Akihito" Capital="1532" Code2="JP" />
+    <country_element Code="KAZ" Name="Kazakstan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="2724900" IndepYear="1991" Population="16223000" LifeExpectancy="63.2" GNP="24375" GNPOld="23383" LocalName="Qazaqstan" GovernmentForm="Republic" HeadOfState="Nursultan Nazarbajev" Capital="1864" Code2="KZ" />
+    <country_element Code="KEN" Name="Kenya" Continent="Africa" Region="Eastern Africa" SurfaceArea="580367" IndepYear="1963" Population="30080000" LifeExpectancy="48" GNP="9217" GNPOld="10241" LocalName="Kenya" GovernmentForm="Republic" HeadOfState="Daniel arap Moi" Capital="1881" Code2="KE" />
+    <country_element Code="KGZ" Name="Kyrgyzstan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="199900" IndepYear="1991" Population="4699000" LifeExpectancy="63.4" GNP="1626" GNPOld="1767" LocalName="Kyrgyzstan" GovernmentForm="Republic" HeadOfState="Askar Akajev" Capital="2253" Code2="KG" />
+    <country_element Code="KHM" Name="Cambodia" Continent="Asia" Region="Southeast Asia" SurfaceArea="181035" IndepYear="1953" Population="11168000" LifeExpectancy="56.5" GNP="5121" GNPOld="5670" LocalName="KÃ¢mpuchÃ©a" GovernmentForm="Constitutional Monarchy" HeadOfState="Norodom Sihanouk" Capital="1800" Code2="KH" />
+    <country_element Code="KIR" Name="Kiribati" Continent="Oceania" Region="Micronesia" SurfaceArea="726" IndepYear="1979" Population="83000" LifeExpectancy="59.8" GNP="40.7" GNPOld="" LocalName="Kiribati" GovernmentForm="Republic" HeadOfState="Teburoro Tito" Capital="2256" Code2="KI" />
+    <country_element Code="KNA" Name="Saint Kitts and Nevis" Continent="North America" Region="Caribbean" SurfaceArea="261" IndepYear="1983" Population="38000" LifeExpectancy="70.7" GNP="299" GNPOld="" LocalName="Saint Kitts and Nevis" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3064" Code2="KN" />
+    <country_element Code="KOR" Name="South Korea" Continent="Asia" Region="Eastern Asia" SurfaceArea="99434" IndepYear="1948" Population="46844000" LifeExpectancy="74.4" GNP="320749" GNPOld="442544" LocalName="Taehan MinÂ’guk (Namhan)" GovernmentForm="Republic" HeadOfState="Kim Dae-jung" Capital="2331" Code2="KR" />
+    <country_element Code="KWT" Name="Kuwait" Continent="Asia" Region="Middle East" SurfaceArea="17818" IndepYear="1961" Population="1972000" LifeExpectancy="76.1" GNP="27037" GNPOld="30373" LocalName="Al-Kuwayt" GovernmentForm="Constitutional Monarchy (Emirate)" HeadOfState="Jabir al-Ahmad al-Jabir al-Sabah" Capital="2429" Code2="KW" />
+    <country_element Code="LAO" Name="Laos" Continent="Asia" Region="Southeast Asia" SurfaceArea="236800" IndepYear="1953" Population="5433000" LifeExpectancy="53.1" GNP="1292" GNPOld="1746" LocalName="Lao" GovernmentForm="Republic" HeadOfState="Khamtay Siphandone" Capital="2432" Code2="LA" />
+    <country_element Code="LBN" Name="Lebanon" Continent="Asia" Region="Middle East" SurfaceArea="10400" IndepYear="1941" Population="3282000" LifeExpectancy="71.3" GNP="17121" GNPOld="15129" LocalName="Lubnan" GovernmentForm="Republic" HeadOfState="Ã‰mile Lahoud" Capital="2438" Code2="LB" />
+    <country_element Code="LBR" Name="Liberia" Continent="Africa" Region="Western Africa" SurfaceArea="111369" IndepYear="1847" Population="3154000" LifeExpectancy="51" GNP="2012" GNPOld="" LocalName="Liberia" GovernmentForm="Republic" HeadOfState="Charles Taylor" Capital="2440" Code2="LR" />
+    <country_element Code="LBY" Name="Libyan Arab Jamahiriya" Continent="Africa" Region="Northern Africa" SurfaceArea="1759540" IndepYear="1951" Population="5605000" LifeExpectancy="75.5" GNP="44806" GNPOld="40562" LocalName="Libiya" GovernmentForm="Socialistic State" HeadOfState="Muammar al-Qadhafi" Capital="2441" Code2="LY" />
+    <country_element Code="LCA" Name="Saint Lucia" Continent="North America" Region="Caribbean" SurfaceArea="622" IndepYear="1979" Population="154000" LifeExpectancy="72.3" GNP="571" GNPOld="" LocalName="Saint Lucia" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3065" Code2="LC" />
+    <country_element Code="LIE" Name="Liechtenstein" Continent="Europe" Region="Western Europe" SurfaceArea="160" IndepYear="1806" Population="32300" LifeExpectancy="78.8" GNP="1119" GNPOld="1084" LocalName="Liechtenstein" GovernmentForm="Constitutional Monarchy" HeadOfState="Hans-Adam II" Capital="2446" Code2="LI" />
+    <country_element Code="LKA" Name="Sri Lanka" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="65610" IndepYear="1948" Population="18827000" LifeExpectancy="71.8" GNP="15706" GNPOld="15091" LocalName="Sri Lanka/Ilankai" GovernmentForm="Republic" HeadOfState="Chandrika Kumaratunga" Capital="3217" Code2="LK" />
+    <country_element Code="LSO" Name="Lesotho" Continent="Africa" Region="Southern Africa" SurfaceArea="30355" IndepYear="1966" Population="2153000" LifeExpectancy="50.8" GNP="1061" GNPOld="1161" LocalName="Lesotho" GovernmentForm="Constitutional Monarchy" HeadOfState="Letsie III" Capital="2437" Code2="LS" />
+    <country_element Code="LTU" Name="Lithuania" Continent="Europe" Region="Baltic Countries" SurfaceArea="65301" IndepYear="1991" Population="3698500" LifeExpectancy="69.1" GNP="10692" GNPOld="9585" LocalName="Lietuva" GovernmentForm="Republic" HeadOfState="Valdas Adamkus" Capital="2447" Code2="LT" />
+    <country_element Code="LUX" Name="Luxembourg" Continent="Europe" Region="Western Europe" SurfaceArea="2586" IndepYear="1867" Population="435700" LifeExpectancy="77.1" GNP="16321" GNPOld="15519" LocalName="Luxembourg/LÃ«tzebuerg" GovernmentForm="Constitutional Monarchy" HeadOfState="Henri" Capital="2452" Code2="LU" />
+    <country_element Code="LVA" Name="Latvia" Continent="Europe" Region="Baltic Countries" SurfaceArea="64589" IndepYear="1991" Population="2424200" LifeExpectancy="68.4" GNP="6398" GNPOld="5639" LocalName="Latvija" GovernmentForm="Republic" HeadOfState="Vaira Vike-Freiberga" Capital="2434" Code2="LV" />
+    <country_element Code="MAC" Name="Macao" Continent="Asia" Region="Eastern Asia" SurfaceArea="18" IndepYear="" Population="473000" LifeExpectancy="81.6" GNP="5749" GNPOld="5940" LocalName="Macau/Aomen" GovernmentForm="Special Administrative Region of China" HeadOfState="Jiang Zemin" Capital="2454" Code2="MO" />
+    <country_element Code="MAR" Name="Morocco" Continent="Africa" Region="Northern Africa" SurfaceArea="446550" IndepYear="1956" Population="28351000" LifeExpectancy="69.1" GNP="36124" GNPOld="33514" LocalName="Al-Maghrib" GovernmentForm="Constitutional Monarchy" HeadOfState="Mohammed VI" Capital="2486" Code2="MA" />
+    <country_element Code="MCO" Name="Monaco" Continent="Europe" Region="Western Europe" SurfaceArea="1.5" IndepYear="1861" Population="34000" LifeExpectancy="78.8" GNP="776" GNPOld="" LocalName="Monaco" GovernmentForm="Constitutional Monarchy" HeadOfState="Rainier III" Capital="2695" Code2="MC" />
+    <country_element Code="MDA" Name="Moldova" Continent="Europe" Region="Eastern Europe" SurfaceArea="33851" IndepYear="1991" Population="4380000" LifeExpectancy="64.5" GNP="1579" GNPOld="1872" LocalName="Moldova" GovernmentForm="Republic" HeadOfState="Vladimir Voronin" Capital="2690" Code2="MD" />
+    <country_element Code="MDG" Name="Madagascar" Continent="Africa" Region="Eastern Africa" SurfaceArea="587041" IndepYear="1960" Population="15942000" LifeExpectancy="55" GNP="3750" GNPOld="3545" LocalName="Madagasikara/Madagascar" GovernmentForm="Federal Republic" HeadOfState="Didier Ratsiraka" Capital="2455" Code2="MG" />
+    <country_element Code="MDV" Name="Maldives" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="298" IndepYear="1965" Population="286000" LifeExpectancy="62.2" GNP="199" GNPOld="" LocalName="Dhivehi Raajje/Maldives" GovernmentForm="Republic" HeadOfState="Maumoon Abdul Gayoom" Capital="2463" Code2="MV" />
+    <country_element Code="MEX" Name="Mexico" Continent="North America" Region="Central America" SurfaceArea="1958201" IndepYear="1810" Population="98881000" LifeExpectancy="71.5" GNP="414972" GNPOld="401461" LocalName="MÃ©xico" GovernmentForm="Federal Republic" HeadOfState="Vicente Fox Quesada" Capital="2515" Code2="MX" />
+    <country_element Code="MHL" Name="Marshall Islands" Continent="Oceania" Region="Micronesia" SurfaceArea="181" IndepYear="1990" Population="64000" LifeExpectancy="65.5" GNP="97" GNPOld="" LocalName="Marshall Islands/Majol" GovernmentForm="Republic" HeadOfState="Kessai Note" Capital="2507" Code2="MH" />
+    <country_element Code="MKD" Name="Macedonia" Continent="Europe" Region="Southern Europe" SurfaceArea="25713" IndepYear="1991" Population="2024000" LifeExpectancy="73.8" GNP="1694" GNPOld="1915" LocalName="Makedonija" GovernmentForm="Republic" HeadOfState="Boris Trajkovski" Capital="2460" Code2="MK" />
+    <country_element Code="MLI" Name="Mali" Continent="Africa" Region="Western Africa" SurfaceArea="1240192" IndepYear="1960" Population="11234000" LifeExpectancy="46.7" GNP="2642" GNPOld="2453" LocalName="Mali" GovernmentForm="Republic" HeadOfState="Alpha Oumar KonarÃ©" Capital="2482" Code2="ML" />
+    <country_element Code="MLT" Name="Malta" Continent="Europe" Region="Southern Europe" SurfaceArea="316" IndepYear="1964" Population="380200" LifeExpectancy="77.9" GNP="3512" GNPOld="3338" LocalName="Malta" GovernmentForm="Republic" HeadOfState="Guido de Marco" Capital="2484" Code2="MT" />
+    <country_element Code="MMR" Name="Myanmar" Continent="Asia" Region="Southeast Asia" SurfaceArea="676578" IndepYear="1948" Population="45611000" LifeExpectancy="54.9" GNP="180375" GNPOld="171028" LocalName="Myanma Pye" GovernmentForm="Republic" HeadOfState="kenraali Than Shwe" Capital="2710" Code2="MM" />
+    <country_element Code="MNG" Name="Mongolia" Continent="Asia" Region="Eastern Asia" SurfaceArea="1566500" IndepYear="1921" Population="2662000" LifeExpectancy="67.3" GNP="1043" GNPOld="933" LocalName="Mongol Uls" GovernmentForm="Republic" HeadOfState="Natsagiin Bagabandi" Capital="2696" Code2="MN" />
+    <country_element Code="MNP" Name="Northern Mariana Islands" Continent="Oceania" Region="Micronesia" SurfaceArea="464" IndepYear="" Population="78000" LifeExpectancy="75.5" GNP="0" GNPOld="" LocalName="Northern Mariana Islands" GovernmentForm="Commonwealth of the US" HeadOfState="George W. Bush" Capital="2913" Code2="MP" />
+    <country_element Code="MOZ" Name="Mozambique" Continent="Africa" Region="Eastern Africa" SurfaceArea="801590" IndepYear="1975" Population="19680000" LifeExpectancy="37.5" GNP="2891" GNPOld="2711" LocalName="MoÃ§ambique" GovernmentForm="Republic" HeadOfState="JoaquÃ­m A. Chissano" Capital="2698" Code2="MZ" />
+    <country_element Code="MRT" Name="Mauritania" Continent="Africa" Region="Western Africa" SurfaceArea="1025520" IndepYear="1960" Population="2670000" LifeExpectancy="50.8" GNP="998" GNPOld="1081" LocalName="Muritaniya/Mauritanie" GovernmentForm="Republic" HeadOfState="Maaouiya Ould SidÂ´Ahmad Taya" Capital="2509" Code2="MR" />
+    <country_element Code="MSR" Name="Montserrat" Continent="North America" Region="Caribbean" SurfaceArea="102" IndepYear="" Population="11000" LifeExpectancy="78" GNP="109" GNPOld="" LocalName="Montserrat" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="2697" Code2="MS" />
+    <country_element Code="MTQ" Name="Martinique" Continent="North America" Region="Caribbean" SurfaceArea="1102" IndepYear="" Population="395000" LifeExpectancy="78.3" GNP="2731" GNPOld="2559" LocalName="Martinique" GovernmentForm="Overseas Department of France" HeadOfState="Jacques Chirac" Capital="2508" Code2="MQ" />
+    <country_element Code="MUS" Name="Mauritius" Continent="Africa" Region="Eastern Africa" SurfaceArea="2040" IndepYear="1968" Population="1158000" LifeExpectancy="71" GNP="4251" GNPOld="4186" LocalName="Mauritius" GovernmentForm="Republic" HeadOfState="Cassam Uteem" Capital="2511" Code2="MU" />
+    <country_element Code="MWI" Name="Malawi" Continent="Africa" Region="Eastern Africa" SurfaceArea="118484" IndepYear="1964" Population="10925000" LifeExpectancy="37.6" GNP="1687" GNPOld="2527" LocalName="Malawi" GovernmentForm="Republic" HeadOfState="Bakili Muluzi" Capital="2462" Code2="MW" />
+    <country_element Code="MYS" Name="Malaysia" Continent="Asia" Region="Southeast Asia" SurfaceArea="329758" IndepYear="1957" Population="22244000" LifeExpectancy="70.8" GNP="69213" GNPOld="97884" LocalName="Malaysia" GovernmentForm="Constitutional Monarchy, Federation" HeadOfState="Salahuddin Abdul Aziz Shah Alhaj" Capital="2464" Code2="MY" />
+    <country_element Code="MYT" Name="Mayotte" Continent="Africa" Region="Eastern Africa" SurfaceArea="373" IndepYear="" Population="149000" LifeExpectancy="59.5" GNP="0" GNPOld="" LocalName="Mayotte" GovernmentForm="Territorial Collectivity of France" HeadOfState="Jacques Chirac" Capital="2514" Code2="YT" />
+    <country_element Code="NAM" Name="Namibia" Continent="Africa" Region="Southern Africa" SurfaceArea="824292" IndepYear="1990" Population="1726000" LifeExpectancy="42.5" GNP="3101" GNPOld="3384" LocalName="Namibia" GovernmentForm="Republic" HeadOfState="Sam Nujoma" Capital="2726" Code2="NA" />
+    <country_element Code="NCL" Name="New Caledonia" Continent="Oceania" Region="Melanesia" SurfaceArea="18575" IndepYear="" Population="214000" LifeExpectancy="72.8" GNP="3563" GNPOld="" LocalName="Nouvelle-CalÃ©donie" GovernmentForm="Nonmetropolitan Territory of France" HeadOfState="Jacques Chirac" Capital="3493" Code2="NC" />
+    <country_element Code="NER" Name="Niger" Continent="Africa" Region="Western Africa" SurfaceArea="1267000" IndepYear="1960" Population="10730000" LifeExpectancy="41.3" GNP="1706" GNPOld="1580" LocalName="Niger" GovernmentForm="Republic" HeadOfState="Mamadou Tandja" Capital="2738" Code2="NE" />
+    <country_element Code="NFK" Name="Norfolk Island" Continent="Oceania" Region="Australia and New Zealand" SurfaceArea="36" IndepYear="" Population="2000" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Norfolk Island" GovernmentForm="Territory of Australia" HeadOfState="Elisabeth II" Capital="2806" Code2="NF" />
+    <country_element Code="NGA" Name="Nigeria" Continent="Africa" Region="Western Africa" SurfaceArea="923768" IndepYear="1960" Population="111506000" LifeExpectancy="51.6" GNP="65707" GNPOld="58623" LocalName="Nigeria" GovernmentForm="Federal Republic" HeadOfState="Olusegun Obasanjo" Capital="2754" Code2="NG" />
+    <country_element Code="NIC" Name="Nicaragua" Continent="North America" Region="Central America" SurfaceArea="130000" IndepYear="1838" Population="5074000" LifeExpectancy="68.7" GNP="1988" GNPOld="2023" LocalName="Nicaragua" GovernmentForm="Republic" HeadOfState="Arnoldo AlemÃ¡n Lacayo" Capital="2734" Code2="NI" />
+    <country_element Code="NIU" Name="Niue" Continent="Oceania" Region="Polynesia" SurfaceArea="260" IndepYear="" Population="2000" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Niue" GovernmentForm="Nonmetropolitan Territory of New Zealand" HeadOfState="Elisabeth II" Capital="2805" Code2="NU" />
+    <country_element Code="NLD" Name="Netherlands" Continent="Europe" Region="Western Europe" SurfaceArea="41526" IndepYear="1581" Population="15864000" LifeExpectancy="78.3" GNP="371362" GNPOld="360478" LocalName="Nederland" GovernmentForm="Constitutional Monarchy" HeadOfState="Beatrix" Capital="5" Code2="NL" />
+    <country_element Code="NOR" Name="Norway" Continent="Europe" Region="Nordic Countries" SurfaceArea="323877" IndepYear="1905" Population="4478500" LifeExpectancy="78.7" GNP="145895" GNPOld="153370" LocalName="Norge" GovernmentForm="Constitutional Monarchy" HeadOfState="Harald V" Capital="2807" Code2="NO" />
+    <country_element Code="NPL" Name="Nepal" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="147181" IndepYear="1769" Population="23930000" LifeExpectancy="57.8" GNP="4768" GNPOld="4837" LocalName="Nepal" GovernmentForm="Constitutional Monarchy" HeadOfState="Gyanendra Bir Bikram" Capital="2729" Code2="NP" />
+    <country_element Code="NRU" Name="Nauru" Continent="Oceania" Region="Micronesia" SurfaceArea="21" IndepYear="1968" Population="12000" LifeExpectancy="60.8" GNP="197" GNPOld="" LocalName="Naoero/Nauru" GovernmentForm="Republic" HeadOfState="Bernard Dowiyogo" Capital="2728" Code2="NR" />
+    <country_element Code="NZL" Name="New Zealand" Continent="Oceania" Region="Australia and New Zealand" SurfaceArea="270534" IndepYear="1907" Population="3862000" LifeExpectancy="77.8" GNP="54669" GNPOld="64960" LocalName="New Zealand/Aotearoa" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3499" Code2="NZ" />
+    <country_element Code="OMN" Name="Oman" Continent="Asia" Region="Middle East" SurfaceArea="309500" IndepYear="1951" Population="2542000" LifeExpectancy="71.8" GNP="16904" GNPOld="16153" LocalName="Â´Uman" GovernmentForm="Monarchy (Sultanate)" HeadOfState="Qabus ibn SaÂ´id" Capital="2821" Code2="OM" />
+    <country_element Code="PAK" Name="Pakistan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="796095" IndepYear="1947" Population="156483000" LifeExpectancy="61.1" GNP="61289" GNPOld="58549" LocalName="Pakistan" GovernmentForm="Republic" HeadOfState="Mohammad Rafiq Tarar" Capital="2831" Code2="PK" />
+    <country_element Code="PAN" Name="Panama" Continent="North America" Region="Central America" SurfaceArea="75517" IndepYear="1903" Population="2856000" LifeExpectancy="75.5" GNP="9131" GNPOld="8700" LocalName="PanamÃ¡" GovernmentForm="Republic" HeadOfState="Mireya Elisa Moscoso RodrÃ­guez" Capital="2882" Code2="PA" />
+    <country_element Code="PCN" Name="Pitcairn" Continent="Oceania" Region="Polynesia" SurfaceArea="49" IndepYear="" Population="50" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Pitcairn" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="2912" Code2="PN" />
+    <country_element Code="PER" Name="Peru" Continent="South America" Region="South America" SurfaceArea="1285216" IndepYear="1821" Population="25662000" LifeExpectancy="70" GNP="64140" GNPOld="65186" LocalName="PerÃº/Piruw" GovernmentForm="Republic" HeadOfState="Valentin Paniagua Corazao" Capital="2890" Code2="PE" />
+    <country_element Code="PHL" Name="Philippines" Continent="Asia" Region="Southeast Asia" SurfaceArea="300000" IndepYear="1946" Population="75967000" LifeExpectancy="67.5" GNP="65107" GNPOld="82239" LocalName="Pilipinas" GovernmentForm="Republic" HeadOfState="Gloria Macapagal-Arroyo" Capital="766" Code2="PH" />
+    <country_element Code="PLW" Name="Palau" Continent="Oceania" Region="Micronesia" SurfaceArea="459" IndepYear="1994" Population="19000" LifeExpectancy="68.6" GNP="105" GNPOld="" LocalName="Belau/Palau" GovernmentForm="Republic" HeadOfState="Kuniwo Nakamura" Capital="2881" Code2="PW" />
+    <country_element Code="PNG" Name="Papua New Guinea" Continent="Oceania" Region="Melanesia" SurfaceArea="462840" IndepYear="1975" Population="4807000" LifeExpectancy="63.1" GNP="4988" GNPOld="6328" LocalName="Papua New Guinea/Papua Niugini" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="2884" Code2="PG" />
+    <country_element Code="POL" Name="Poland" Continent="Europe" Region="Eastern Europe" SurfaceArea="323250" IndepYear="1918" Population="38653600" LifeExpectancy="73.2" GNP="151697" GNPOld="135636" LocalName="Polska" GovernmentForm="Republic" HeadOfState="Aleksander Kwasniewski" Capital="2928" Code2="PL" />
+    <country_element Code="PRI" Name="Puerto Rico" Continent="North America" Region="Caribbean" SurfaceArea="8875" IndepYear="" Population="3869000" LifeExpectancy="75.6" GNP="34100" GNPOld="32100" LocalName="Puerto Rico" GovernmentForm="Commonwealth of the US" HeadOfState="George W. Bush" Capital="2919" Code2="PR" />
+    <country_element Code="PRK" Name="North Korea" Continent="Asia" Region="Eastern Asia" SurfaceArea="120538" IndepYear="1948" Population="24039000" LifeExpectancy="70.7" GNP="5332" GNPOld="" LocalName="Choson Minjujuui InÂ´min Konghwaguk (Bukhan)" GovernmentForm="Socialistic Republic" HeadOfState="Kim Jong-il" Capital="2318" Code2="KP" />
+    <country_element Code="PRT" Name="Portugal" Continent="Europe" Region="Southern Europe" SurfaceArea="91982" IndepYear="1143" Population="9997600" LifeExpectancy="75.8" GNP="105954" GNPOld="102133" LocalName="Portugal" GovernmentForm="Republic" HeadOfState="Jorge SampÃ£io" Capital="2914" Code2="PT" />
+    <country_element Code="PRY" Name="Paraguay" Continent="South America" Region="South America" SurfaceArea="406752" IndepYear="1811" Population="5496000" LifeExpectancy="73.7" GNP="8444" GNPOld="9555" LocalName="Paraguay" GovernmentForm="Republic" HeadOfState="Luis Ãngel GonzÃ¡lez Macchi" Capital="2885" Code2="PY" />
+    <country_element Code="PSE" Name="Palestine" Continent="Asia" Region="Middle East" SurfaceArea="6257" IndepYear="" Population="3101000" LifeExpectancy="71.4" GNP="4173" GNPOld="" LocalName="Filastin" GovernmentForm="Autonomous Area" HeadOfState="Yasser (Yasir) Arafat" Capital="4074" Code2="PS" />
+    <country_element Code="PYF" Name="French Polynesia" Continent="Oceania" Region="Polynesia" SurfaceArea="4000" IndepYear="" Population="235000" LifeExpectancy="74.8" GNP="818" GNPOld="781" LocalName="PolynÃ©sie franÃ§aise" GovernmentForm="Nonmetropolitan Territory of France" HeadOfState="Jacques Chirac" Capital="3016" Code2="PF" />
+    <country_element Code="QAT" Name="Qatar" Continent="Asia" Region="Middle East" SurfaceArea="11000" IndepYear="1971" Population="599000" LifeExpectancy="72.4" GNP="9472" GNPOld="8920" LocalName="Qatar" GovernmentForm="Monarchy" HeadOfState="Hamad ibn Khalifa al-Thani" Capital="2973" Code2="QA" />
+    <country_element Code="REU" Name="RÃ©union" Continent="Africa" Region="Eastern Africa" SurfaceArea="2510" IndepYear="" Population="699000" LifeExpectancy="72.7" GNP="8287" GNPOld="7988" LocalName="RÃ©union" GovernmentForm="Overseas Department of France" HeadOfState="Jacques Chirac" Capital="3017" Code2="RE" />
+    <country_element Code="ROM" Name="Romania" Continent="Europe" Region="Eastern Europe" SurfaceArea="238391" IndepYear="1878" Population="22455500" LifeExpectancy="69.9" GNP="38158" GNPOld="34843" LocalName="RomÃ¢nia" GovernmentForm="Republic" HeadOfState="Ion Iliescu" Capital="3018" Code2="RO" />
+    <country_element Code="RUS" Name="Russian Federation" Continent="Europe" Region="Eastern Europe" SurfaceArea="1.70754E+07" IndepYear="1991" Population="146934000" LifeExpectancy="67.2" GNP="276608" GNPOld="442989" LocalName="Rossija" GovernmentForm="Federal Republic" HeadOfState="Vladimir Putin" Capital="3580" Code2="RU" />
+    <country_element Code="RWA" Name="Rwanda" Continent="Africa" Region="Eastern Africa" SurfaceArea="26338" IndepYear="1962" Population="7733000" LifeExpectancy="39.3" GNP="2036" GNPOld="1863" LocalName="Rwanda/Urwanda" GovernmentForm="Republic" HeadOfState="Paul Kagame" Capital="3047" Code2="RW" />
+    <country_element Code="SAU" Name="Saudi Arabia" Continent="Asia" Region="Middle East" SurfaceArea="2149690" IndepYear="1932" Population="21607000" LifeExpectancy="67.8" GNP="137635" GNPOld="146171" LocalName="Al-Â´Arabiya as-SaÂ´udiya" GovernmentForm="Monarchy" HeadOfState="Fahd ibn Abdul-Aziz al-SaÂ´ud" Capital="3173" Code2="SA" />
+    <country_element Code="SDN" Name="Sudan" Continent="Africa" Region="Northern Africa" SurfaceArea="2505813" IndepYear="1956" Population="29490000" LifeExpectancy="56.6" GNP="10162" GNPOld="" LocalName="As-Sudan" GovernmentForm="Islamic Republic" HeadOfState="Omar Hassan Ahmad al-Bashir" Capital="3225" Code2="SD" />
+    <country_element Code="SEN" Name="Senegal" Continent="Africa" Region="Western Africa" SurfaceArea="196722" IndepYear="1960" Population="9481000" LifeExpectancy="62.2" GNP="4787" GNPOld="4542" LocalName="SÃ©nÃ©gal/Sounougal" GovernmentForm="Republic" HeadOfState="Abdoulaye Wade" Capital="3198" Code2="SN" />
+    <country_element Code="SGP" Name="Singapore" Continent="Asia" Region="Southeast Asia" SurfaceArea="618" IndepYear="1965" Population="3567000" LifeExpectancy="80.1" GNP="86503" GNPOld="96318" LocalName="Singapore/Singapura/Xinjiapo/Singapur" GovernmentForm="Republic" HeadOfState="Sellapan Rama Nathan" Capital="3208" Code2="SG" />
+    <country_element Code="SGS" Name="South Georgia and the South Sandwich Islands" Continent="Antarctica" Region="Antarctica" SurfaceArea="3903" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="South Georgia and the South Sandwich Islands" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="" Code2="GS" />
+    <country_element Code="SHN" Name="Saint Helena" Continent="Africa" Region="Western Africa" SurfaceArea="314" IndepYear="" Population="6000" LifeExpectancy="76.8" GNP="0" GNPOld="" LocalName="Saint Helena" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="3063" Code2="SH" />
+    <country_element Code="SJM" Name="Svalbard and Jan Mayen" Continent="Europe" Region="Nordic Countries" SurfaceArea="62422" IndepYear="" Population="3200" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Svalbard og Jan Mayen" GovernmentForm="Dependent Territory of Norway" HeadOfState="Harald V" Capital="938" Code2="SJ" />
+    <country_element Code="SLB" Name="Solomon Islands" Continent="Oceania" Region="Melanesia" SurfaceArea="28896" IndepYear="1978" Population="444000" LifeExpectancy="71.3" GNP="182" GNPOld="220" LocalName="Solomon Islands" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3161" Code2="SB" />
+    <country_element Code="SLE" Name="Sierra Leone" Continent="Africa" Region="Western Africa" SurfaceArea="71740" IndepYear="1961" Population="4854000" LifeExpectancy="45.3" GNP="746" GNPOld="858" LocalName="Sierra Leone" GovernmentForm="Republic" HeadOfState="Ahmed Tejan Kabbah" Capital="3207" Code2="SL" />
+    <country_element Code="SLV" Name="El Salvador" Continent="North America" Region="Central America" SurfaceArea="21041" IndepYear="1841" Population="6276000" LifeExpectancy="69.7" GNP="11863" GNPOld="11203" LocalName="El Salvador" GovernmentForm="Republic" HeadOfState="Francisco Guillermo Flores PÃ©rez" Capital="645" Code2="SV" />
+    <country_element Code="SMR" Name="San Marino" Continent="Europe" Region="Southern Europe" SurfaceArea="61" IndepYear="885" Population="27000" LifeExpectancy="81.1" GNP="510" GNPOld="" LocalName="San Marino" GovernmentForm="Republic" HeadOfState="" Capital="3171" Code2="SM" />
+    <country_element Code="SOM" Name="Somalia" Continent="Africa" Region="Eastern Africa" SurfaceArea="637657" IndepYear="1960" Population="10097000" LifeExpectancy="46.2" GNP="935" GNPOld="" LocalName="Soomaaliya" GovernmentForm="Republic" HeadOfState="Abdiqassim Salad Hassan" Capital="3214" Code2="SO" />
+    <country_element Code="SPM" Name="Saint Pierre and Miquelon" Continent="North America" Region="North America" SurfaceArea="242" IndepYear="" Population="7000" LifeExpectancy="77.6" GNP="0" GNPOld="" LocalName="Saint-Pierre-et-Miquelon" GovernmentForm="Territorial Collectivity of France" HeadOfState="Jacques Chirac" Capital="3067" Code2="PM" />
+    <country_element Code="STP" Name="Sao Tome and Principe" Continent="Africa" Region="Central Africa" SurfaceArea="964" IndepYear="1975" Population="147000" LifeExpectancy="65.3" GNP="6" GNPOld="" LocalName="SÃ£o TomÃ© e PrÃ­ncipe" GovernmentForm="Republic" HeadOfState="Miguel Trovoada" Capital="3172" Code2="ST" />
+    <country_element Code="SUR" Name="Suriname" Continent="South America" Region="South America" SurfaceArea="163265" IndepYear="1975" Population="417000" LifeExpectancy="71.4" GNP="870" GNPOld="706" LocalName="Suriname" GovernmentForm="Republic" HeadOfState="Ronald Venetiaan" Capital="3243" Code2="SR" />
+    <country_element Code="SVK" Name="Slovakia" Continent="Europe" Region="Eastern Europe" SurfaceArea="49012" IndepYear="1993" Population="5398700" LifeExpectancy="73.7" GNP="20594" GNPOld="19452" LocalName="Slovensko" GovernmentForm="Republic" HeadOfState="Rudolf Schuster" Capital="3209" Code2="SK" />
+    <country_element Code="SVN" Name="Slovenia" Continent="Europe" Region="Southern Europe" SurfaceArea="20256" IndepYear="1991" Population="1987800" LifeExpectancy="74.9" GNP="19756" GNPOld="18202" LocalName="Slovenija" GovernmentForm="Republic" HeadOfState="Milan Kucan" Capital="3212" Code2="SI" />
+    <country_element Code="SWE" Name="Sweden" Continent="Europe" Region="Nordic Countries" SurfaceArea="449964" IndepYear="836" Population="8861400" LifeExpectancy="79.6" GNP="226492" GNPOld="227757" LocalName="Sverige" GovernmentForm="Constitutional Monarchy" HeadOfState="Carl XVI Gustaf" Capital="3048" Code2="SE" />
+    <country_element Code="SWZ" Name="Swaziland" Continent="Africa" Region="Southern Africa" SurfaceArea="17364" IndepYear="1968" Population="1008000" LifeExpectancy="40.4" GNP="1206" GNPOld="1312" LocalName="kaNgwane" GovernmentForm="Monarchy" HeadOfState="Mswati III" Capital="3244" Code2="SZ" />
+    <country_element Code="SYC" Name="Seychelles" Continent="Africa" Region="Eastern Africa" SurfaceArea="455" IndepYear="1976" Population="77000" LifeExpectancy="70.4" GNP="536" GNPOld="539" LocalName="Sesel/Seychelles" GovernmentForm="Republic" HeadOfState="France-Albert RenÃ©" Capital="3206" Code2="SC" />
+    <country_element Code="SYR" Name="Syria" Continent="Asia" Region="Middle East" SurfaceArea="185180" IndepYear="1941" Population="16125000" LifeExpectancy="68.5" GNP="65984" GNPOld="64926" LocalName="Suriya" GovernmentForm="Republic" HeadOfState="Bashar al-Assad" Capital="3250" Code2="SY" />
+    <country_element Code="TCA" Name="Turks and Caicos Islands" Continent="North America" Region="Caribbean" SurfaceArea="430" IndepYear="" Population="17000" LifeExpectancy="73.3" GNP="96" GNPOld="" LocalName="The Turks and Caicos Islands" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="3423" Code2="TC" />
+    <country_element Code="TCD" Name="Chad" Continent="Africa" Region="Central Africa" SurfaceArea="1284000" IndepYear="1960" Population="7651000" LifeExpectancy="50.5" GNP="1208" GNPOld="1102" LocalName="Tchad/Tshad" GovernmentForm="Republic" HeadOfState="Idriss DÃ©by" Capital="3337" Code2="TD" />
+    <country_element Code="TGO" Name="Togo" Continent="Africa" Region="Western Africa" SurfaceArea="56785" IndepYear="1960" Population="4629000" LifeExpectancy="54.7" GNP="1449" GNPOld="1400" LocalName="Togo" GovernmentForm="Republic" HeadOfState="GnassingbÃ© EyadÃ©ma" Capital="3332" Code2="TG" />
+    <country_element Code="THA" Name="Thailand" Continent="Asia" Region="Southeast Asia" SurfaceArea="513115" IndepYear="1350" Population="61399000" LifeExpectancy="68.6" GNP="116416" GNPOld="153907" LocalName="Prathet Thai" GovernmentForm="Constitutional Monarchy" HeadOfState="Bhumibol Adulyadej" Capital="3320" Code2="TH" />
+    <country_element Code="TJK" Name="Tajikistan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="143100" IndepYear="1991" Population="6188000" LifeExpectancy="64.1" GNP="1990" GNPOld="1056" LocalName="ToÃ§ikiston" GovernmentForm="Republic" HeadOfState="Emomali Rahmonov" Capital="3261" Code2="TJ" />
+    <country_element Code="TKL" Name="Tokelau" Continent="Oceania" Region="Polynesia" SurfaceArea="12" IndepYear="" Population="2000" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Tokelau" GovernmentForm="Nonmetropolitan Territory of New Zealand" HeadOfState="Elisabeth II" Capital="3333" Code2="TK" />
+    <country_element Code="TKM" Name="Turkmenistan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="488100" IndepYear="1991" Population="4459000" LifeExpectancy="60.9" GNP="4397" GNPOld="2000" LocalName="TÃ¼rkmenostan" GovernmentForm="Republic" HeadOfState="Saparmurad Nijazov" Capital="3419" Code2="TM" />
+    <country_element Code="TMP" Name="East Timor" Continent="Asia" Region="Southeast Asia" SurfaceArea="14874" IndepYear="" Population="885000" LifeExpectancy="46" GNP="0" GNPOld="" LocalName="Timor Timur" GovernmentForm="Administrated by the UN" HeadOfState="JosÃ© Alexandre GusmÃ£o" Capital="1522" Code2="TP" />
+    <country_element Code="TTO" Name="Trinidad and Tobago" Continent="North America" Region="Caribbean" SurfaceArea="5130" IndepYear="1962" Population="1295000" LifeExpectancy="68" GNP="6232" GNPOld="5867" LocalName="Trinidad and Tobago" GovernmentForm="Republic" HeadOfState="Arthur N. R. Robinson" Capital="3336" Code2="TT" />
+    <country_element Code="TUN" Name="Tunisia" Continent="Africa" Region="Northern Africa" SurfaceArea="163610" IndepYear="1956" Population="9586000" LifeExpectancy="73.7" GNP="20026" GNPOld="18898" LocalName="Tunis/Tunisie" GovernmentForm="Republic" HeadOfState="Zine al-Abidine Ben Ali" Capital="3349" Code2="TN" />
+    <country_element Code="TUR" Name="Turkey" Continent="Asia" Region="Middle East" SurfaceArea="774815" IndepYear="1923" Population="66591000" LifeExpectancy="71" GNP="210721" GNPOld="189122" LocalName="TÃ¼rkiye" GovernmentForm="Republic" HeadOfState="Ahmet Necdet Sezer" Capital="3358" Code2="TR" />
+    <country_element Code="TUV" Name="Tuvalu" Continent="Oceania" Region="Polynesia" SurfaceArea="26" IndepYear="1978" Population="12000" LifeExpectancy="66.3" GNP="6" GNPOld="" LocalName="Tuvalu" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3424" Code2="TV" />
+    <country_element Code="TWN" Name="Taiwan" Continent="Asia" Region="Eastern Asia" SurfaceArea="36188" IndepYear="1945" Population="22256000" LifeExpectancy="76.4" GNP="256254" GNPOld="263451" LocalName="TÂ’ai-wan" GovernmentForm="Republic" HeadOfState="Chen Shui-bian" Capital="3263" Code2="TW" />
+    <country_element Code="TZA" Name="Tanzania" Continent="Africa" Region="Eastern Africa" SurfaceArea="883749" IndepYear="1961" Population="33517000" LifeExpectancy="52.3" GNP="8005" GNPOld="7388" LocalName="Tanzania" GovernmentForm="Republic" HeadOfState="Benjamin William Mkapa" Capital="3306" Code2="TZ" />
+    <country_element Code="UGA" Name="Uganda" Continent="Africa" Region="Eastern Africa" SurfaceArea="241038" IndepYear="1962" Population="21778000" LifeExpectancy="42.9" GNP="6313" GNPOld="6887" LocalName="Uganda" GovernmentForm="Republic" HeadOfState="Yoweri Museveni" Capital="3425" Code2="UG" />
+    <country_element Code="UKR" Name="Ukraine" Continent="Europe" Region="Eastern Europe" SurfaceArea="603700" IndepYear="1991" Population="50456000" LifeExpectancy="66" GNP="42168" GNPOld="49677" LocalName="Ukrajina" GovernmentForm="Republic" HeadOfState="Leonid KutÂšma" Capital="3426" Code2="UA" />
+    <country_element Code="UMI" Name="United States Minor Outlying Islands" Continent="Oceania" Region="Micronesia/Caribbean" SurfaceArea="16" IndepYear="" Population="0" LifeExpectancy="" GNP="0" GNPOld="" LocalName="United States Minor Outlying Islands" GovernmentForm="Dependent Territory of the US" HeadOfState="George W. Bush" Capital="" Code2="UM" />
+    <country_element Code="URY" Name="Uruguay" Continent="South America" Region="South America" SurfaceArea="175016" IndepYear="1828" Population="3337000" LifeExpectancy="75.2" GNP="20831" GNPOld="19967" LocalName="Uruguay" GovernmentForm="Republic" HeadOfState="Jorge Batlle IbÃ¡Ã±ez" Capital="3492" Code2="UY" />
+    <country_element Code="USA" Name="United States" Continent="North America" Region="North America" SurfaceArea="9363520" IndepYear="1776" Population="278357000" LifeExpectancy="77.1" GNP="8510700" GNPOld="8110900" LocalName="United States" GovernmentForm="Federal Republic" HeadOfState="George W. Bush" Capital="3813" Code2="US" />
+    <country_element Code="UZB" Name="Uzbekistan" Continent="Asia" Region="Southern and Central Asia" SurfaceArea="447400" IndepYear="1991" Population="24318000" LifeExpectancy="63.7" GNP="14194" GNPOld="21300" LocalName="Uzbekiston" GovernmentForm="Republic" HeadOfState="Islam Karimov" Capital="3503" Code2="UZ" />
+    <country_element Code="VAT" Name="Holy See (Vatican City State)" Continent="Europe" Region="Southern Europe" SurfaceArea="0.4" IndepYear="1929" Population="1000" LifeExpectancy="" GNP="9" GNPOld="" LocalName="Santa Sede/CittÃ  del Vaticano" GovernmentForm="Independent Church State" HeadOfState="Johannes Paavali II" Capital="3538" Code2="VA" />
+    <country_element Code="VCT" Name="Saint Vincent and the Grenadines" Continent="North America" Region="Caribbean" SurfaceArea="388" IndepYear="1979" Population="114000" LifeExpectancy="72.3" GNP="285" GNPOld="" LocalName="Saint Vincent and the Grenadines" GovernmentForm="Constitutional Monarchy" HeadOfState="Elisabeth II" Capital="3066" Code2="VC" />
+    <country_element Code="VEN" Name="Venezuela" Continent="South America" Region="South America" SurfaceArea="912050" IndepYear="1811" Population="24170000" LifeExpectancy="73.1" GNP="95023" GNPOld="88434" LocalName="Venezuela" GovernmentForm="Federal Republic" HeadOfState="Hugo ChÃ¡vez FrÃ­as" Capital="3539" Code2="VE" />
+    <country_element Code="VGB" Name="Virgin Islands, British" Continent="North America" Region="Caribbean" SurfaceArea="151" IndepYear="" Population="21000" LifeExpectancy="75.4" GNP="612" GNPOld="573" LocalName="British Virgin Islands" GovernmentForm="Dependent Territory of the UK" HeadOfState="Elisabeth II" Capital="537" Code2="VG" />
+    <country_element Code="VIR" Name="Virgin Islands, U.S." Continent="North America" Region="Caribbean" SurfaceArea="347" IndepYear="" Population="93000" LifeExpectancy="78.1" GNP="0" GNPOld="" LocalName="Virgin Islands of the United States" GovernmentForm="US Territory" HeadOfState="George W. Bush" Capital="4067" Code2="VI" />
+    <country_element Code="VNM" Name="Vietnam" Continent="Asia" Region="Southeast Asia" SurfaceArea="331689" IndepYear="1945" Population="79832000" LifeExpectancy="69.3" GNP="21929" GNPOld="22834" LocalName="ViÃªt Nam" GovernmentForm="Socialistic Republic" HeadOfState="TrÃ¢n Duc Luong" Capital="3770" Code2="VN" />
+    <country_element Code="VUT" Name="Vanuatu" Continent="Oceania" Region="Melanesia" SurfaceArea="12189" IndepYear="1980" Population="190000" LifeExpectancy="60.6" GNP="261" GNPOld="246" LocalName="Vanuatu" GovernmentForm="Republic" HeadOfState="John Bani" Capital="3537" Code2="VU" />
+    <country_element Code="WLF" Name="Wallis and Futuna" Continent="Oceania" Region="Polynesia" SurfaceArea="200" IndepYear="" Population="15000" LifeExpectancy="" GNP="0" GNPOld="" LocalName="Wallis-et-Futuna" GovernmentForm="Nonmetropolitan Territory of France" HeadOfState="Jacques Chirac" Capital="3536" Code2="WF" />
+    <country_element Code="WSM" Name="Samoa" Continent="Oceania" Region="Polynesia" SurfaceArea="2831" IndepYear="1962" Population="180000" LifeExpectancy="69.2" GNP="141" GNPOld="157" LocalName="Samoa" GovernmentForm="Parlementary Monarchy" HeadOfState="Malietoa Tanumafili II" Capital="3169" Code2="WS" />
+    <country_element Code="YEM" Name="Yemen" Continent="Asia" Region="Middle East" SurfaceArea="527968" IndepYear="1918" Population="18112000" LifeExpectancy="59.8" GNP="6041" GNPOld="5729" LocalName="Al-Yaman" GovernmentForm="Republic" HeadOfState="Ali Abdallah Salih" Capital="1780" Code2="YE" />
+    <country_element Code="YUG" Name="Yugoslavia" Continent="Europe" Region="Southern Europe" SurfaceArea="102173" IndepYear="1918" Population="10640000" LifeExpectancy="72.4" GNP="17000" GNPOld="" LocalName="Jugoslavija" GovernmentForm="Federal Republic" HeadOfState="Vojislav KoÂštunica" Capital="1792" Code2="YU" />
+    <country_element Code="ZAF" Name="South Africa" Continent="Africa" Region="Southern Africa" SurfaceArea="1221037" IndepYear="1910" Population="40377000" LifeExpectancy="51.1" GNP="116729" GNPOld="129092" LocalName="South Africa" GovernmentForm="Republic" HeadOfState="Thabo Mbeki" Capital="716" Code2="ZA" />
+    <country_element Code="ZMB" Name="Zambia" Continent="Africa" Region="Eastern Africa" SurfaceArea="752618" IndepYear="1964" Population="9169000" LifeExpectancy="37.2" GNP="3377" GNPOld="3922" LocalName="Zambia" GovernmentForm="Republic" HeadOfState="Frederick Chiluba" Capital="3162" Code2="ZM" />
+    <country_element Code="ZWE" Name="Zimbabwe" Continent="Africa" Region="Eastern Africa" SurfaceArea="390757" IndepYear="1980" Population="11669000" LifeExpectancy="37.8" GNP="5951" GNPOld="8670" LocalName="Zimbabwe" GovernmentForm="Republic" HeadOfState="Robert G. Mugabe" Capital="4068" Code2="ZW" />
+  </country>
+  <countrylanguage Datatypes="String;String;String;Single;">
+    <countrylanguage_element CountryCode="ABW" Language="Dutch" IsOfficial="T" Percentage="5.3" />
+    <countrylanguage_element CountryCode="ABW" Language="English" IsOfficial="F" Percentage="9.5" />
+    <countrylanguage_element CountryCode="ABW" Language="Papiamento" IsOfficial="F" Percentage="76.7" />
+    <countrylanguage_element CountryCode="ABW" Language="Spanish" IsOfficial="F" Percentage="7.4" />
+    <countrylanguage_element CountryCode="AFG" Language="Balochi" IsOfficial="F" Percentage="0.9" />
+    <countrylanguage_element CountryCode="AFG" Language="Dari" IsOfficial="T" Percentage="32.1" />
+    <countrylanguage_element CountryCode="AFG" Language="Pashto" IsOfficial="T" Percentage="52.4" />
+    <countrylanguage_element CountryCode="AFG" Language="Turkmenian" IsOfficial="F" Percentage="1.9" />
+    <countrylanguage_element CountryCode="AFG" Language="Uzbek" IsOfficial="F" Percentage="8.8" />
+    <countrylanguage_element CountryCode="AGO" Language="Ambo" IsOfficial="F" Percentage="2.4" />
+    <countrylanguage_element CountryCode="AGO" Language="Chokwe" IsOfficial="F" Percentage="4.2" />
+    <countrylanguage_element CountryCode="AGO" Language="Kongo" IsOfficial="F" Percentage="13.2" />
+    <countrylanguage_element CountryCode="AGO" Language="Luchazi" IsOfficial="F" Percentage="2.4" />
+    <countrylanguage_element CountryCode="AGO" Language="Luimbe-nganguela" IsOfficial="F" Percentage="5.4" />
+    <countrylanguage_element CountryCode="AGO" Language="Luvale" IsOfficial="F" Percentage="3.6" />
+    <countrylanguage_element CountryCode="AGO" Language="Mbundu" IsOfficial="F" Percentage="21.6" />
+    <countrylanguage_element CountryCode="AGO" Language="Nyaneka-nkhumbi" IsOfficial="F" Percentage="5.4" />
+    <countrylanguage_element CountryCode="AGO" Language="Ovimbundu" IsOfficial="F" Percentage="37.2" />
+    <countrylanguage_element CountryCode="AIA" Language="English" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="ALB" Language="Albaniana" IsOfficial="T" Percentage="97.9" />
+    <countrylanguage_element CountryCode="ALB" Language="Greek" IsOfficial="F" Percentage="1.8" />
+    <countrylanguage_element CountryCode="ALB" Language="Macedonian" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="AND" Language="Catalan" IsOfficial="T" Percentage="32.3" />
+    <countrylanguage_element CountryCode="AND" Language="French" IsOfficial="F" Percentage="6.2" />
+    <countrylanguage_element CountryCode="AND" Language="Portuguese" IsOfficial="F" Percentage="10.8" />
+    <countrylanguage_element CountryCode="AND" Language="Spanish" IsOfficial="F" Percentage="44.6" />
+    <countrylanguage_element CountryCode="ANT" Language="Dutch" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="ANT" Language="English" IsOfficial="F" Percentage="7.8" />
+    <countrylanguage_element CountryCode="ANT" Language="Papiamento" IsOfficial="T" Percentage="86.2" />
+    <countrylanguage_element CountryCode="ARE" Language="Arabic" IsOfficial="T" Percentage="42" />
+    <countrylanguage_element CountryCode="ARE" Language="Hindi" IsOfficial="F" Percentage="0" />
+    <countrylanguage_element CountryCode="ARG" Language="Indian Languages" IsOfficial="F" Percentage="0.3" />
+    <countrylanguage_element CountryCode="ARG" Language="Italian" IsOfficial="F" Percentage="1.7" />
+    <countrylanguage_element CountryCode="ARG" Language="Spanish" IsOfficial="T" Percentage="96.8" />
+    <countrylanguage_element CountryCode="ARM" Language="Armenian" IsOfficial="T" Percentage="93.4" />
+    <countrylanguage_element CountryCode="ARM" Language="Azerbaijani" IsOfficial="F" Percentage="2.6" />
+    <countrylanguage_element CountryCode="ASM" Language="English" IsOfficial="T" Percentage="3.1" />
+    <countrylanguage_element CountryCode="ASM" Language="Samoan" IsOfficial="T" Percentage="90.6" />
+    <countrylanguage_element CountryCode="ASM" Language="Tongan" IsOfficial="F" Percentage="3.1" />
+    <countrylanguage_element CountryCode="ATG" Language="Creole English" IsOfficial="F" Percentage="95.7" />
+    <countrylanguage_element CountryCode="ATG" Language="English" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="AUS" Language="Arabic" IsOfficial="F" Percentage="1" />
+    <countrylanguage_element CountryCode="AUS" Language="Canton Chinese" IsOfficial="F" Percentage="1.1" />
+    <countrylanguage_element CountryCode="AUS" Language="English" IsOfficial="T" Percentage="81.2" />
+    <countrylanguage_element CountryCode="AUS" Language="German" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="AUS" Language="Greek" IsOfficial="F" Percentage="1.6" />
+    <countrylanguage_element CountryCode="AUS" Language="Italian" IsOfficial="F" Percentage="2.2" />
+    <countrylanguage_element CountryCode="AUS" Language="Serbo-Croatian" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="AUS" Language="Vietnamese" IsOfficial="F" Percentage="0.8" />
+    <countrylanguage_element CountryCode="AUT" Language="Czech" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="AUT" Language="German" IsOfficial="T" Percentage="92" />
+    <countrylanguage_element CountryCode="AUT" Language="Hungarian" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="AUT" Language="Polish" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="AUT" Language="Romanian" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="AUT" Language="Serbo-Croatian" IsOfficial="F" Percentage="2.2" />
+    <countrylanguage_element CountryCode="AUT" Language="Slovene" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="AUT" Language="Turkish" IsOfficial="F" Percentage="1.5" />
+    <countrylanguage_element CountryCode="AZE" Language="Armenian" IsOfficial="F" Percentage="2" />
+    <countrylanguage_element CountryCode="AZE" Language="Azerbaijani" IsOfficial="T" Percentage="89" />
+    <countrylanguage_element CountryCode="AZE" Language="Lezgian" IsOfficial="F" Percentage="2.3" />
+    <countrylanguage_element CountryCode="AZE" Language="Russian" IsOfficial="F" Percentage="3" />
+    <countrylanguage_element CountryCode="BDI" Language="French" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="BDI" Language="Kirundi" IsOfficial="T" Percentage="98.1" />
+    <countrylanguage_element CountryCode="BDI" Language="Swahili" IsOfficial="F" Percentage="0" />
+    <countrylanguage_element CountryCode="BEL" Language="Arabic" IsOfficial="F" Percentage="1.6" />
+    <countrylanguage_element CountryCode="BEL" Language="Dutch" IsOfficial="T" Percentage="59.2" />
+    <countrylanguage_element CountryCode="BEL" Language="French" IsOfficial="T" Percentage="32.6" />
+    <countrylanguage_element CountryCode="BEL" Language="German" IsOfficial="T" Percentage="1" />
+    <countrylanguage_element CountryCode="BEL" Language="Italian" IsOfficial="F" Percentage="2.4" />
+    <countrylanguage_element CountryCode="BEL" Language="Turkish" IsOfficial="F" Percentage="0.9" />
+    <countrylanguage_element CountryCode="BEN" Language="Adja" IsOfficial="F" Percentage="11.1" />
+    <countrylanguage_element CountryCode="BEN" Language="Aizo" IsOfficial="F" Percentage="8.7" />
+    <countrylanguage_element CountryCode="BEN" Language="Bariba" IsOfficial="F" Percentage="8.7" />
+    <countrylanguage_element CountryCode="BEN" Language="Fon" IsOfficial="F" Percentage="39.8" />
+    <countrylanguage_element CountryCode="BEN" Language="Ful" IsOfficial="F" Percentage="5.6" />
+    <countrylanguage_element CountryCode="BEN" Language="Joruba" IsOfficial="F" Percentage="12.2" />
+    <countrylanguage_element CountryCode="BEN" Language="Somba" IsOfficial="F" Percentage="6.7" />
+    <countrylanguage_element CountryCode="BFA" Language="Busansi" IsOfficial="F" Percentage="3.5" />
+    <countrylanguage_element CountryCode="BFA" Language="Dagara" IsOfficial="F" Percentage="3.1" />
+    <countrylanguage_element CountryCode="BFA" Language="Dyula" IsOfficial="F" Percentage="2.6" />
+    <countrylanguage_element CountryCode="BFA" Language="Ful" IsOfficial="F" Percentage="9.7" />
+    <countrylanguage_element CountryCode="BFA" Language="Gurma" IsOfficial="F" Percentage="5.7" />
+    <countrylanguage_element CountryCode="BFA" Language="Mossi" IsOfficial="F" Percentage="50.2" />
+    <countrylanguage_element CountryCode="BGD" Language="Bengali" IsOfficial="T" Percentage="97.7" />
+    <countrylanguage_element CountryCode="BGD" Language="Chakma" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="BGD" Language="Garo" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="BGD" Language="Khasi" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="BGD" Language="Marma" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="BGD" Language="Santhali" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="BGD" Language="Tripuri" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="BGR" Language="Bulgariana" IsOfficial="T" Percentage="83.2" />
+    <countrylanguage_element CountryCode="BGR" Language="Macedonian" IsOfficial="F" Percentage="2.6" />
+    <countrylanguage_element CountryCode="BGR" Language="Romani" IsOfficial="F" Percentage="3.7" />
+    <countrylanguage_element CountryCode="BGR" Language="Turkish" IsOfficial="F" Percentage="9.4" />
+    <countrylanguage_element CountryCode="BHR" Language="Arabic" IsOfficial="T" Percentage="67.7" />
+    <countrylanguage_element CountryCode="BHR" Language="English" IsOfficial="F" Percentage="0" />
+    <countrylanguage_element CountryCode="BHS" Language="Creole English" IsOfficial="F" Percentage="89.7" />
+    <countrylanguage_element CountryCode="BHS" Language="Creole French" IsOfficial="F" Percentage="10.3" />
+    <countrylanguage_element CountryCode="BIH" Language="Serbo-Croatian" IsOfficial="T" Percentage="99.2" />
+    <countrylanguage_element CountryCode="BLR" Language="Belorussian" IsOfficial="T" Percentage="65.6" />
+    <countrylanguage_element CountryCode="BLR" Language="Polish" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="BLR" Language="Russian" IsOfficial="T" Percentage="32" />
+    <countrylanguage_element CountryCode="BLR" Language="Ukrainian" IsOfficial="F" Percentage="1.3" />
+    <countrylanguage_element CountryCode="BLZ" Language="English" IsOfficial="T" Percentage="50.8" />
+    <countrylanguage_element CountryCode="BLZ" Language="Garifuna" IsOfficial="F" Percentage="6.8" />
+    <countrylanguage_element CountryCode="BLZ" Language="Maya Languages" IsOfficial="F" Percentage="9.6" />
+    <countrylanguage_element CountryCode="BLZ" Language="Spanish" IsOfficial="F" Percentage="31.6" />
+    <countrylanguage_element CountryCode="BMU" Language="English" IsOfficial="T" Percentage="100" />
+    <countrylanguage_element CountryCode="BOL" Language="AimarÃ¡" IsOfficial="T" Percentage="3.2" />
+    <countrylanguage_element CountryCode="BOL" Language="GuaranÃ­" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="BOL" Language="KetÂšua" IsOfficial="T" Percentage="8.1" />
+    <countrylanguage_element CountryCode="BOL" Language="Spanish" IsOfficial="T" Percentage="87.7" />
+    <countrylanguage_element CountryCode="BRA" Language="German" IsOfficial="F" Percentage="0.5" />
+    <countrylanguage_element CountryCode="BRA" Language="Indian Languages" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="BRA" Language="Italian" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="BRA" Language="Japanese" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="BRA" Language="Portuguese" IsOfficial="T" Percentage="97.5" />
+    <countrylanguage_element CountryCode="BRB" Language="Bajan" IsOfficial="F" Percentage="95.1" />
+    <countrylanguage_element CountryCode="BRB" Language="English" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="BRN" Language="Chinese" IsOfficial="F" Percentage="9.3" />
+    <countrylanguage_element CountryCode="BRN" Language="English" IsOfficial="F" Percentage="3.1" />
+    <countrylanguage_element CountryCode="BRN" Language="Malay" IsOfficial="T" Percentage="45.5" />
+    <countrylanguage_element CountryCode="BRN" Language="Malay-English" IsOfficial="F" Percentage="28.8" />
+    <countrylanguage_element CountryCode="BTN" Language="Asami" IsOfficial="F" Percentage="15.2" />
+    <countrylanguage_element CountryCode="BTN" Language="Dzongkha" IsOfficial="T" Percentage="50" />
+    <countrylanguage_element CountryCode="BTN" Language="Nepali" IsOfficial="F" Percentage="34.8" />
+    <countrylanguage_element CountryCode="BWA" Language="Khoekhoe" IsOfficial="F" Percentage="2.5" />
+    <countrylanguage_element CountryCode="BWA" Language="Ndebele" IsOfficial="F" Percentage="1.3" />
+    <countrylanguage_element CountryCode="BWA" Language="San" IsOfficial="F" Percentage="3.5" />
+    <countrylanguage_element CountryCode="BWA" Language="Shona" IsOfficial="F" Percentage="12.3" />
+    <countrylanguage_element CountryCode="BWA" Language="Tswana" IsOfficial="F" Percentage="75.5" />
+    <countrylanguage_element CountryCode="CAF" Language="Banda" IsOfficial="F" Percentage="23.5" />
+    <countrylanguage_element CountryCode="CAF" Language="Gbaya" IsOfficial="F" Percentage="23.8" />
+    <countrylanguage_element CountryCode="CAF" Language="Mandjia" IsOfficial="F" Percentage="14.8" />
+    <countrylanguage_element CountryCode="CAF" Language="Mbum" IsOfficial="F" Percentage="6.4" />
+    <countrylanguage_element CountryCode="CAF" Language="Ngbaka" IsOfficial="F" Percentage="7.5" />
+    <countrylanguage_element CountryCode="CAF" Language="Sara" IsOfficial="F" Percentage="6.4" />
+    <countrylanguage_element CountryCode="CAN" Language="Chinese" IsOfficial="F" Percentage="2.5" />
+    <countrylanguage_element CountryCode="CAN" Language="Dutch" IsOfficial="F" Percentage="0.5" />
+    <countrylanguage_element CountryCode="CAN" Language="English" IsOfficial="T" Percentage="60.4" />
+    <countrylanguage_element CountryCode="CAN" Language="Eskimo Languages" IsOfficial="F" Percentage="0.1" />
+    <countrylanguage_element CountryCode="CAN" Language="French" IsOfficial="T" Percentage="23.4" />
+    <countrylanguage_element CountryCode="CAN" Language="German" IsOfficial="F" Percentage="1.6" />
+    <countrylanguage_element CountryCode="CAN" Language="Italian" IsOfficial="F" Percentage="1.7" />
+    <countrylanguage_element CountryCode="CAN" Language="Polish" IsOfficial="F" Percentage="0.7" />
+    <countrylanguage_element CountryCode="CAN" Language="Portuguese" IsOfficial="F" Percentage="0.7" />
+    <countrylanguage_element CountryCode="CAN" Language="Punjabi" IsOfficial="F" Percentage="0.7" />
+    <countrylanguage_element CountryCode="CAN" Language="Spanish" IsOfficial="F" Percentage="0.7" />
+    <countrylanguage_element CountryCode="CAN" Language="Ukrainian" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="CCK" Language="English" IsOfficial="T" Percentage="0" />
+    <countrylanguage_element CountryCode="CCK" Language="Malay" IsOfficial="F" Percentage="0" />
+    <countrylanguage_element CountryCode="CHE" Language="French" IsOfficial="T" Percentage="19.2" />
+    <countrylanguage_element CountryCode="CHE" Language="German" IsOfficial="T" Percentage="63.6" />
+    <countrylanguage_element CountryCode="CHE" Language="Italian" IsOfficial="T" Percentage="7.7" />
+    <countrylanguage_element CountryCode="CHE" Language="Romansh" IsOfficial="T" Percentage="0.6" />
+    <countrylanguage_element CountryCode="CHL" Language="AimarÃ¡" IsOfficial="F" Percentage="0.5" />
+    <countrylanguage_element CountryCode="CHL" Language="Araucan" IsOfficial="F" Percentage="9.6" />
+    <countrylanguage_element CountryCode="CHL" Language="Rapa nui" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="CHL" Language="Spanish" IsOfficial="T" Percentage="89.7" />
+    <countrylanguage_element CountryCode="CHN" Language="Chinese" IsOfficial="T" Percentage="92" />
+    <countrylanguage_element CountryCode="CHN" Language="Dong" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="CHN" Language="Hui" IsOfficial="F" Percentage="0.8" />
+    <countrylanguage_element CountryCode="CHN" Language="MantÂšu" IsOfficial="F" Percentage="0.9" />
+    <countrylanguage_element CountryCode="CHN" Language="Miao" IsOfficial="F" Percentage="0.7" />
+    <countrylanguage_element CountryCode="CHN" Language="Mongolian" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="CHN" Language="Puyi" IsOfficial="F" Percentage="0.2" />
+    <countrylanguage_element CountryCode="CHN" Language="Tibetan" IsOfficial="F" Percentage="0.4" />
+    <countrylanguage_element CountryCode="CHN" Language="Tujia" IsOfficial="F" Percentage="0.5" />
+    <countrylanguage_element CountryCode="CHN" Language="Uighur" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="CHN" Language="Yi" IsOfficial="F" Percentage="0.6" />
+    <countrylanguage_element CountryCode="CHN" Language="Zhuang" IsOfficial="F" Percentage="1.4" />
+    <countrylanguage_element CountryCode="CIV" Language="Akan" IsOfficial="F" Percentage="30" />
+    <countrylanguage_element CountryCode="CIV" Language="Gur" IsOfficial="F" Percentage="11.7" />
+    <countrylanguage_element CountryCode="CIV" Language="Kru" IsOfficial="F" Percentage="10.5" />
+    <countrylanguage_element CountryCode="CIV" Language="Malinke" IsOfficial="F" Percentage="11.4" />
+  </countrylanguage>
+</world>

@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Data;
-using System.Linq;
-using System.Xml.Linq;
-using System.Collections.Generic;
-using System.Diagnostics;
 
 namespace DatabaseXMLConverter
 {
@@ -11,15 +6,7 @@ namespace DatabaseXMLConverter
     {
         static void Main(string[] args)
         {
-            /**
-            DatabaseConnection.Connect("localhost", "world", "root", "Ugur1995");
-            string[] lol = DatabaseConnection.GetDatatypesOfTable("city");
-            foreach(string s in lol)
-            {
-                Console.WriteLine(s);
-            }
-            Console.ReadKey();
-            **/
+            Console.OutputEncoding = System.Text.Encoding.Unicode;
             
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(@"  _         ___         _          __   _    _                            _                                     
@@ -50,7 +37,7 @@ namespace DatabaseXMLConverter
 
                     case 2:
                         Console.WriteLine("\nSie haben Option 2 ausgewaehlt.");
-                        //createDatabaseFromXML();
+                        ConsoleDialog.CreateDatabaseFromXML();
                         break;
 
                     default:

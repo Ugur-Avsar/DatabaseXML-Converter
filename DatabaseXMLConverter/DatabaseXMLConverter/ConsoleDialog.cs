@@ -1,6 +1,6 @@
 ﻿using System;
-
 using System.Diagnostics;
+using System.IO;
 
 namespace DatabaseXMLConverter
 {
@@ -8,23 +8,53 @@ namespace DatabaseXMLConverter
     {
         public static void CreateDatabaseFromXML()
         {
+            Console.Write("Geben sie den Pfad der XML Datei an aus der eine Datenbank erzeugt werden soll: ");
+            string databaseAsXML = "";
+            while(true)
+            {
+                databaseAsXML = Console.ReadLine();
+                if (File.Exists(databaseAsXML))
+                    break;
+                Console.WriteLine("Die angegebene Datei existiert nicht!");
+                Console.Write("Pfad: ");
+            }
 
             Console.Write("\nGeben sie die Adresse des Servers an, wo Sie die Datenbank erzeugen wollen: ");
+            Console.ForegroundColor = ConsoleColor.Green;
             string server = Console.ReadLine();
-
-            Console.Write("\nGeben Sie den Namen der Datenbank ein, die Sie erzeugen wollen: ");
-            string database = Console.ReadLine();
+            Console.ResetColor();
 
             Console.Write("\nGeben Sie den Benutzernamen ein mit dem Sie auf die Datenbank zugreifen wollen: ");
+            Console.ForegroundColor = ConsoleColor.Green;
             string username = Console.ReadLine();
+            Console.ResetColor();
 
             Console.Write("\nGeben Sie Ihr Passwort ein: ");
-            string password = Console.ReadLine();
+            string password = "";
+            while (true)
+            {
 
-            DatabaseCreate.CreateDatabase(server, database, username, password);
+                var key = Console.ReadKey(true);
 
-            //DatabaseCreate.createTables();
-            DatabaseCreate.ReadXML();
+                if (key.Key == ConsoleKey.Enter)
+                    break;
+                if (key.Key != ConsoleKey.Backspace)
+                {
+                    password += key.KeyChar;
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.Write('*');
+                    Console.ResetColor();
+                }
+                else if (password.Length > 0)
+                {
+                    password = password.Substring(0, (password.Length - 1));
+                    Console.Write("\b \b");
+                }
+            }
+
+            Console.WriteLine("");
+            DatabaseCreate.CreateDatabase(server, databaseAsXML, username, password);
+            DatabaseCreate.CreateTables();
         }
 
         public static void CreateXMLFileFromDatabase()
@@ -49,15 +79,17 @@ namespace DatabaseXMLConverter
             string password = "";
             while (true)
             {
-                Console.ForegroundColor = ConsoleColor.Green;
+                
                 var key = Console.ReadKey(true);
-                Console.ResetColor();
+                
                 if (key.Key == ConsoleKey.Enter)
                     break;
                 if (key.Key != ConsoleKey.Backspace)
                 {
                     password += key.KeyChar;
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.Write('*');
+                    Console.ResetColor();
                 }
                 else if (password.Length > 0)
                 {
