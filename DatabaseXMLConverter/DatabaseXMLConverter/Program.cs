@@ -20,7 +20,7 @@ namespace DatabaseXMLConverter
 
             Console.WriteLine("\nWollen Sie eine Datenbank in ein XML umwandeln \noder aus einem XML eine Datenbank generieren?");
             Console.WriteLine("\nDatenbank in XML umwandeln ... 1");
-            Console.WriteLine("Aus XML eine Datenbank erzeugen ... 2");
+            Console.WriteLine("Aus XML eine MySQL Datenbank erzeugen ... 2");
             Console.Write("\nAuswahl:");
             int input = 0;
             while (input != 1 && input != 2)

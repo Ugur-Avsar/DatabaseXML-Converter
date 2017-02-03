@@ -29,6 +29,11 @@ namespace DatabaseXMLConverter
             string username = Console.ReadLine();
             Console.ResetColor();
 
+            Console.Write("\nGeben sie den Port Ihres MySQL Servers an: ");
+            Console.ForegroundColor = ConsoleColor.Green;
+            string MySQLPort = Console.ReadLine();
+            Console.ResetColor();
+
             Console.Write("\nGeben Sie Ihr Passwort ein: ");
             string password = "";
             while (true)
@@ -53,7 +58,7 @@ namespace DatabaseXMLConverter
             }
 
             Console.WriteLine("");
-            DatabaseCreate.CreateDatabase(server, databaseAsXML, username, password);
+            DatabaseCreate.CreateDatabase(server, databaseAsXML, username, MySQLPort, password);
             DatabaseCreate.CreateTables();
         }
 

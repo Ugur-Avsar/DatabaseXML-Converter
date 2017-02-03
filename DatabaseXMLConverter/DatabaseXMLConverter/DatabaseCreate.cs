@@ -12,9 +12,9 @@ namespace DatabaseXMLConverter
         private static MySqlCommand sqlCommand;
         private static XElement databaseFile;
 
-        public static void CreateDatabase(string server,string database, string uid, string password)
+        public static void CreateDatabase(string server,string databaseAsXML, string uid, string port, string password)
         {
-            databaseFile = XElement.Load(database); //Der Datenbank Name steht in der Datei und ist gleich das erste Element.
+            databaseFile = XElement.Load(databaseAsXML); //Der Datenbank Name steht in der Datei und ist gleich das erste Element.
             string createDatabaseQuery;
             string dropQuery;
             createDatabaseQuery = "create database " + databaseFile.Name + ";"+
@@ -22,7 +22,7 @@ namespace DatabaseXMLConverter
             dropQuery = "drop database if exists " + databaseFile.Name + ";";
 
             DatabaseConnection.Connection = new MySqlConnection(
-                "server=" + server + "; user=" + uid + "; port=" + 3306 + "; password=" + password);
+                "server=" + server + "; user=" + uid + "; port=" + port + "; password=" + password);
 
             try
             {
